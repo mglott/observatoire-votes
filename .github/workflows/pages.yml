@@ -40,9 +40,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Préparer le dossier publié
         run: |
-          mkdir _site
-          cp index.html .nojekyll _site/
+          mkdir -p _site
+          cp index.html _site/
           cp -R data _site/data
+          touch _site/.nojekyll
       - name: Préparer les fichiers du site
         uses: actions/upload-pages-artifact@v4
         with:
