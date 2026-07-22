@@ -1,0 +1,622 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Votes structurants — RN et groupes parlementaires</title>
+<style>
+:root {
+  --bg:#f4f1ea; --paper:#fffdf8; --ink:#172033; --muted:#6f7682;
+  --line:#ddd8cc; --blue:#17365d; --rn:#163b64;
+  --for:#8bc34a; --against:#ef3b2c; --abst:#f6a04d; --unknown:#d7d9de;
+  --shadow:0 14px 38px rgba(23,32,51,.08);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:
+linear-gradient(rgba(23,54,93,.045) 1px,transparent 1px),
+linear-gradient(90deg,rgba(23,54,93,.045) 1px,transparent 1px),
+var(--bg);background-size:44px 44px;color:var(--ink);
+font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+button,input,select{font:inherit}
+.hero{padding:58px clamp(20px,5vw,80px) 34px;max-width:1500px;margin:auto}
+.kicker{font-size:.78rem;text-transform:uppercase;letter-spacing:.16em;color:var(--rn);font-weight:800}
+h1{font-family:Georgia,serif;font-size:clamp(2.3rem,5vw,5rem);line-height:.97;margin:.5rem 0 1rem;max-width:950px}
+.lead{max-width:850px;font-size:1.08rem;line-height:1.65;color:var(--muted)}
+.source-note{font-size:.82rem;color:var(--muted);margin-top:12px}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(150px,1fr));gap:14px;margin-top:30px}
+.stat{background:rgba(255,253,248,.9);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:var(--shadow)}
+.stat b{display:block;font-size:2rem;font-family:Georgia,serif}
+.stat span{font-size:.85rem;color:var(--muted)}
+.toolbar{position:sticky;top:0;z-index:20;padding:12px clamp(20px,5vw,80px);background:rgba(244,241,234,.92);backdrop-filter:blur(14px);border-block:1px solid var(--line)}
+.toolbar-inner{max-width:1500px;margin:auto;display:grid;grid-template-columns:minmax(250px,1.4fr) repeat(5,minmax(145px,.7fr));gap:10px}
+input,select{width:100%;border:1px solid var(--line);background:var(--paper);border-radius:12px;padding:11px 13px;color:var(--ink)}
+main{max-width:1500px;margin:auto;padding:28px clamp(20px,5vw,80px) 70px}
+.section-title{display:flex;align-items:end;justify-content:space-between;gap:20px;margin:15px 0 20px}
+.section-title h2{font-family:Georgia,serif;font-size:2rem;margin:0}
+#resultCount{color:var(--muted);font-size:.9rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:18px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:var(--shadow);display:flex;flex-direction:column;min-height:330px}
+.card:hover{transform:translateY(-2px);transition:.18s ease}
+.meta{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:10px}
+.pill{font-size:.73rem;font-weight:750;padding:5px 9px;border-radius:999px}
+.pill-scrutin{background:#eef1f6;color:#42506a}
+.pill-theme{background:#e8f0fb;color:#17365d;border:1px solid #c8d8ed}
+.pill-nature{background:#fff0dc;color:#8a4b12;border:1px solid #f2cf9f}
+.pill.rn{background:#e4edf8;color:var(--rn);border:1px solid #b8cce4}
+.card h3{font-family:Georgia,serif;font-size:1.28rem;line-height:1.25;margin:3px 0 8px}
+.sub{font-size:.83rem;color:var(--muted);margin-bottom:16px}
+.vote-bars{margin-top:4px;margin-bottom:4px}
+.bar{height:14px;background:#ece9e2;border-radius:99px;overflow:hidden;display:flex}
+.bar span{height:100%}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:.75rem;color:var(--muted);margin:7px 0 15px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block;margin-right:4px}
+.rn-block{border-top:1px solid var(--line);padding-top:14px;margin-top:auto}.party-result{min-width:0}.party-result small{display:block;color:var(--muted);margin-bottom:7px;line-height:1.25}.party-result .party-name{font-weight:800;color:var(--ink)}
+.rn-position{font-weight:850;font-size:.9rem;padding:7px 10px;border-radius:10px}
+.rn-position.Pour{background:#e1f1d1;color:#3f6620}
+.rn-position.Contre{background:#fde0dc;color:#9e261d}
+.rn-position.Abstention{background:#ffe9d6;color:#8c4b12}
+.rn-position.Partagé{background:#fff3c9;color:#705b0b}
+.more{border:0;background:var(--blue);color:white;padding:10px 12px;border-radius:10px;font-weight:750;cursor:pointer;white-space:nowrap;align-self:end}
+.empty{grid-column:1/-1;padding:48px;text-align:center;color:var(--muted);background:var(--paper);border-radius:18px}
+.verification{margin-top:50px;background:var(--blue);color:white;border-radius:24px;padding:28px;display:grid;grid-template-columns:1.2fr 1fr;gap:30px}
+.verification h2{font-family:Georgia,serif;margin-top:0;font-size:2rem}
+.verification p{line-height:1.7;color:#e5edf7}
+.timeline{display:grid;gap:9px}
+.timeline div{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:11px 13px}
+footer{max-width:1500px;margin:auto;padding:0 clamp(20px,5vw,80px) 45px;color:var(--muted);font-size:.82rem}
+dialog{border:0;border-radius:22px;padding:0;width:min(1050px,94vw);max-height:90vh;background:var(--paper);box-shadow:0 30px 90px rgba(0,0,0,.25)}
+dialog::backdrop{background:rgba(15,23,42,.66);backdrop-filter:blur(4px)}
+.modal-head{padding:24px 26px 17px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:20px}
+.modal-head h2{font-family:Georgia,serif;margin:0;font-size:1.8rem}
+.close{border:1px solid var(--line);background:white;width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:1.2rem}
+.modal-body{padding:20px 26px 28px;overflow:auto}
+.modal-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:20px}
+.mini{border:1px solid var(--line);border-radius:12px;padding:12px}
+.mini b{display:block;font-size:1.25rem}
+table{width:100%;border-collapse:collapse;font-size:.86rem}
+th,td{text-align:right;padding:10px 8px;border-bottom:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left}
+th{position:sticky;top:0;background:var(--paper);font-size:.75rem;text-transform:uppercase;letter-spacing:.05em}
+.group-rn{background:#eef4fb;font-weight:800}
+.source-link{display:inline-block;margin-top:18px;color:var(--blue);font-weight:750;text-decoration:none}
+@media(max-width:850px){
+ .stats{grid-template-columns:repeat(2,1fr)}
+ .toolbar-inner{grid-template-columns:1fr 1fr}
+ .toolbar-inner input{grid-column:1/-1}
+ .party-card-head{align-items:stretch;flex-direction:column}.party-card-actions{width:100%}.party-card-select,.more{width:100%;max-width:none}
+ .verification{grid-template-columns:1fr}
+ .modal-summary{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:520px){
+ .stats{grid-template-columns:1fr 1fr}
+ .toolbar-inner{grid-template-columns:1fr}
+ .toolbar-inner input{grid-column:auto}
+ .grid{grid-template-columns:1fr}
+}
+
+.tabs{max-width:1500px;margin:0 auto;padding:0 clamp(20px,5vw,80px) 12px;display:flex;gap:10px;flex-wrap:wrap}
+.tab-btn{border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:10px 14px;border-radius:999px;font-weight:800;cursor:pointer}
+.tab-btn.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+.proposal-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:18px}
+.proposal-card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:22px;box-shadow:var(--shadow)}
+.status-pending{display:inline-block;background:#fff3c9;color:#705b0b;border-radius:999px;padding:6px 9px;font-size:.76rem;font-weight:800}
+.objectives{margin:16px 0;padding-left:20px;line-height:1.6}
+.cosign-table{width:100%;border-collapse:collapse;margin-top:14px}
+.cosign-table th,.cosign-table td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--line)}
+.cosign-table th:last-child,.cosign-table td:last-child{text-align:right}
+.validation-card{background:#fff8e7;border:1px solid #e8ca82;border-radius:18px;padding:18px}
+.hidden{display:none!important}
+
+.subtheme-row{display:flex;flex-wrap:wrap;gap:6px;margin:2px 0 8px}
+.subtheme-pill{display:inline-flex;align-items:center;padding:5px 9px;border-radius:9px;background:transparent;color:#596579;font-size:.74rem;font-weight:750;border:1px dashed #cbd3df}
+
+/* Jauges et sélection des groupes */
+.party-card-head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;margin-bottom:12px}
+.party-card-control{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1}
+.party-card-head label{font-size:.73rem;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.party-card-actions{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;min-width:0;width:100%}
+.party-card-select{width:100%;min-width:0;max-width:none;padding:8px 30px 8px 10px;border-radius:10px;font-size:.8rem;font-weight:750}
+.party-dynamic{display:grid;gap:9px}
+.party-dynamic .rn-position{justify-self:start}
+.more{align-self:auto;width:100%;padding:9px 12px}
+.party-gauge{height:18px;border:1px solid #d7d4cc;background:#ece9e2;border-radius:999px;overflow:hidden;display:flex;box-shadow:inset 0 1px 2px rgba(23,32,51,.08)}
+.party-gauge span{height:100%;min-width:0}
+.party-gauge .nonparticipation{background-color:#d4d7dc;background-image:repeating-linear-gradient(135deg,rgba(255,255,255,.55) 0,rgba(255,255,255,.55) 4px,transparent 4px,transparent 8px)}
+.party-gauge-legend{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-top:7px}
+.party-participation{font-size:.78rem;color:var(--muted);font-weight:800;text-align:left;white-space:nowrap}
+.party-counts{display:flex;justify-content:flex-end;gap:9px;flex-wrap:wrap;font-size:.73rem;color:var(--muted);text-align:right}
+.party-counts span{white-space:nowrap}
+.party-result{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.party-result small{width:100%;margin:0!important}
+.party-result .rn-position{display:inline-block}
+.modal-party-gauge{min-width:180px}
+.modal-party-gauge .party-gauge{height:12px}
+@media(max-width:520px){.party-card-head{align-items:stretch;flex-direction:column}.party-gauge-legend{flex-direction:column}.party-counts{justify-content:flex-start;text-align:left}}
+
+
+/* Révision interface : haut de page compact */
+.hero{padding:30px clamp(20px,5vw,80px) 22px}
+h1{font-size:clamp(2.35rem,4.6vw,4.7rem);max-width:1080px;margin:.4rem 0 .75rem}
+.lead{font-size:1rem;line-height:1.55;max-width:860px;margin:0}
+.hero-meta{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}
+.hero-meta span{display:inline-flex;align-items:center;gap:5px;background:rgba(255,253,248,.84);border:1px solid var(--line);border-radius:999px;padding:7px 11px;color:var(--muted);font-size:.78rem}
+.hero-meta b{color:var(--ink)}
+.proposal-controls{display:grid;grid-template-columns:auto minmax(240px,390px) 1fr;align-items:center;gap:10px;margin:-4px 0 18px;padding:14px 16px;background:rgba(255,253,248,.82);border:1px solid var(--line);border-radius:16px}
+.proposal-controls label{font-size:.76rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+#proposalFilterNote{font-size:.8rem;color:var(--muted)}
+.cosign-table tr[hidden]{display:none}
+.cosign-table tr.proposal-selected{background:#eef4fb;font-weight:800}
+.cosign-table tr.proposal-zero{background:#f5f3ee;color:var(--muted);font-style:italic}
+.data-note{display:none;margin:-6px 0 18px;padding:11px 13px;border-radius:12px;font-size:.82rem;line-height:1.45}
+.data-note.ok{display:block;background:#eef6e8;border:1px solid #c8ddb8;color:#3f6620}
+.data-note.warn{display:block;background:#fff6df;border:1px solid #e7ca82;color:#705b0b}
+.data-note.missing{display:block;background:#f1f2f4;border:1px solid #d8dbe0;color:#59606d}
+tr.missing-group td{color:var(--muted);background:#faf9f6}
+@media(max-width:850px){.proposal-controls{grid-template-columns:1fr}.hero-meta{align-items:flex-start}}
+
+
+
+/* Correctifs responsive mobile — sans impact sur la version ordinateur */
+@media (max-width:850px){
+  body{overflow-x:hidden}
+  .hero{padding:24px 18px 18px}
+  h1{font-size:clamp(2rem,10vw,3.25rem);line-height:1.02;overflow-wrap:anywhere}
+  .lead{font-size:.96rem;line-height:1.5}
+  .hero-meta{display:grid;grid-template-columns:1fr;gap:7px}
+  .hero-meta span{width:100%;border-radius:12px;line-height:1.35}
+
+  .toolbar{position:relative;top:auto;padding:10px 14px;backdrop-filter:none}
+  .toolbar-inner{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .toolbar-inner input{grid-column:1/-1}
+  input,select{min-width:0;font-size:16px;padding:11px 10px}
+
+  .tabs{padding:12px 14px 8px;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .tab-btn{min-width:0;padding:10px 8px;font-size:.84rem;white-space:normal;line-height:1.2}
+
+  main{padding:18px 14px 48px}
+  .section-title{align-items:flex-start;flex-direction:column;gap:5px;margin:8px 0 14px}
+  .section-title h2{font-size:1.65rem}
+  #resultCount,#proposalResultCount{font-size:.82rem}
+  .grid,.proposal-grid{grid-template-columns:minmax(0,1fr);gap:14px}
+  .card,.proposal-card{min-width:0;padding:17px;border-radius:16px}
+  .card{min-height:0}
+  .card h3,.proposal-card h3{font-size:1.18rem;overflow-wrap:anywhere}
+  .pill,.subtheme-pill{max-width:100%;white-space:normal;overflow-wrap:anywhere}
+  .legend{gap:7px 10px}
+  .party-card-head{align-items:stretch;flex-direction:column}
+  .party-card-actions{grid-template-columns:1fr}
+  .party-gauge-legend{flex-direction:column;gap:6px}
+  .party-participation{white-space:normal}
+  .party-counts{justify-content:flex-start;text-align:left;gap:5px 9px}
+  .more{min-height:44px}
+
+  .proposal-controls{grid-template-columns:1fr;padding:12px;margin-bottom:14px}
+  .cosign-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .verification{margin-top:30px;padding:20px;border-radius:18px;gap:18px}
+  .verification h2{font-size:1.65rem}
+  .verification p{font-size:.93rem;line-height:1.55}
+  footer{padding:0 14px 30px}
+
+  dialog{width:100vw;max-width:none;height:100dvh;max-height:100dvh;margin:0;border-radius:0}
+  .modal-head{position:sticky;top:0;z-index:3;background:var(--paper);padding:16px 14px 12px;align-items:flex-start}
+  .modal-head h2{font-size:1.35rem;line-height:1.15;overflow-wrap:anywhere}
+  .modal-head .kicker{font-size:.67rem;line-height:1.35;overflow-wrap:anywhere}
+  .close{flex:0 0 42px;width:42px;height:42px}
+  .modal-body{padding:14px 14px 24px;overflow:auto;-webkit-overflow-scrolling:touch}
+  .modal-summary{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .mini{min-width:0;padding:10px}
+  .modal-body>div[style*="overflow:auto"]{margin:0 -14px;padding:0 14px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .modal-body table{min-width:780px}
+  th,td{padding:9px 7px}
+  .source-link{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+}
+
+@media (max-width:520px){
+  .toolbar-inner{grid-template-columns:1fr}
+  .toolbar-inner input{grid-column:auto}
+  .tabs{grid-template-columns:1fr}
+  .stats{grid-template-columns:1fr 1fr}
+  .meta{gap:5px}
+  .pill{font-size:.69rem}
+  .party-counts span{white-space:normal}
+  .verification{padding:18px}
+}
+
+@media (hover:none){
+  .card:hover{transform:none}
+}
+
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="kicker">Observatoire des votes structurants</div>
+  <h1>Ce que votent réellement les groupes parlementaires</h1>
+  <p class="lead">Explorez les principaux scrutins, comparez les positions des groupes et consultez le détail des votes lorsqu’il est disponible.</p>
+  <div class="hero-meta">
+    <span><b id="statVotes">112</b> scrutins documentés</span>
+    <span>Données sourcées sur les pages officielles de l’Assemblée nationale</span>
+  </div>
+</header>
+
+<div class="toolbar">
+ <div class="toolbar-inner">
+  <input id="search" type="search" placeholder="Rechercher : PFAS, Ukraine, fiscalité…">
+  <select id="party" aria-label="Groupe parlementaire"></select>
+  <select id="theme"><option value="">Tous les thèmes</option></select>
+  <select id="subtheme"><option value="">Tous les sous-thèmes</option></select>
+  <select id="partyPosition"><option value="">Toutes les positions</option><option>Pour</option><option>Contre</option><option>Abstention</option><option>Partagé</option><option>Non-participation</option><option>Non renseignée</option></select>
+  <select id="sort"><option value="date-desc">Plus récents</option><option value="date-asc">Plus anciens</option><option value="participation">Participation la plus forte</option></select>
+ </div>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" data-tab="votes">🗳️ Votes vérifiés</button>
+  <button class="tab-btn" data-tab="proposals">📝 Propositions déposées</button>
+</div>
+
+<main>
+ <section id="votesSection">
+  <div class="section-title"><h2>Les scrutins</h2><span id="resultCount"></span></div>
+  <section class="grid" id="cards"></section>
+ </section>
+
+ <section id="proposalsSection" class="hidden">
+   <div class="section-title"><h2>Propositions déposées</h2><span id="proposalResultCount">Textes non encore soumis au vote</span></div>
+   <div class="proposal-controls">
+    <label for="proposalParty">Groupe observé</label>
+    <select id="proposalParty" aria-label="Filtrer les cosignataires par groupe"></select>
+    <span id="proposalFilterNote">Le filtre affiche, dans chaque proposition, le nombre de cosignataires du groupe sélectionné.</span>
+   </div>
+   <section class="proposal-grid">
+   <article class="proposal-card">
+    <div class="meta"><span class="pill">Assemblée nationale</span><span class="pill">2025</span><span class="pill">Santé mentale</span></div>
+    <span class="status-pending">Proposition déposée — pas encore votée</span>
+    <h3>Mesures d’urgence pour améliorer la santé mentale des Français</h3>
+    <ul class="objectives"><li>Renforcer la prévention</li><li>Améliorer les conditions de prise en charge</li><li>Développer des solutions complémentaires à l’hôpital</li></ul>
+    <h4>Cosignataires par groupe</h4>
+    <table class="cosign-table"><tbody>
+      <tr data-party="SOC"><td>Socialistes et apparentés</td><td>54</td></tr><tr data-party="LFI"><td>La France insoumise</td><td>20</td></tr>
+      <tr data-party="LR"><td>Les Républicains</td><td>8</td></tr><tr data-party="DEM"><td>Démocrates (MoDem)</td><td>8</td></tr>
+      <tr data-party="ECO"><td>Écologistes</td><td>6</td></tr><tr data-party="LIOT"><td>LIOT</td><td>5</td></tr>
+      <tr data-party="HOR"><td>Horizons</td><td>4</td></tr><tr data-party="GDR"><td>Gauche démocrate et républicaine</td><td>3</td></tr>
+      <tr data-party="ENS"><td>Ensemble</td><td>2</td></tr><tr data-party="RN" class="group-rn"><td>Rassemblement national</td><td>0</td></tr>
+    </tbody></table>
+    <p class="source-note">Les cosignatures indiquent un soutien au dépôt, pas un vote parlementaire.</p>
+   </article>
+   <article class="proposal-card">
+    <div class="meta"><span class="pill">Assemblée nationale</span><span class="pill">2024</span><span class="pill">Santé mentale des jeunes</span></div>
+    <span class="status-pending">Proposition déposée — pas encore votée</span>
+    <h3>Prendre des mesures d’urgence pour la santé mentale des jeunes</h3>
+    <ul class="objectives"><li>Renforcer le repérage précoce et la prévention</li><li>Améliorer l’accès à la pédopsychiatrie et aux psychologues</li><li>Répondre à l’augmentation des troubles anxieux, dépressifs et suicidaires</li></ul>
+    <h4>Cosignataires par groupe</h4>
+    <table class="cosign-table"><tbody>
+      <tr data-party="SOC"><td>Socialistes et apparentés</td><td>31</td></tr>
+      <tr data-party="DEM"><td>Démocrates (MoDem et Indépendants)</td><td>1</td></tr>
+      <tr data-party="HOR"><td>Horizons et apparentés</td><td>1</td></tr>
+      <tr data-party="ENS"><td>Renaissance</td><td>1</td></tr>
+      <tr data-party="RN" class="group-rn"><td>Rassemblement national</td><td>0</td></tr>
+    </tbody></table>
+    <p class="source-note">Proposition de loi n° 2267, déposée le 5 mars 2024 et renvoyée à la commission des affaires sociales. Les cosignatures indiquent un soutien au dépôt, pas un vote parlementaire.</p>
+    <a class="source-link" target="_blank" rel="noopener" href="https://www.assemblee-nationale.fr/dyn/16/dossiers/urgence_sante_mentale_jeunes">Voir le dossier officiel →</a>
+   </article>
+   <article class="proposal-card">
+    <div class="meta"><span class="pill">Assemblée nationale</span><span class="pill">2024</span><span class="pill">Grande cause nationale</span></div>
+    <span class="status-pending">Résolution déposée — pas encore votée</span>
+    <h3>Ériger la santé mentale en grande cause nationale pour 2025</h3>
+    <ul class="objectives"><li>Lutter contre la stigmatisation des troubles psychiques</li><li>Développer la prévention et le repérage précoce</li><li>Améliorer l’accès aux soins sur l’ensemble du territoire</li></ul>
+    <h4>Cosignataires par groupe</h4>
+    <table class="cosign-table"><tbody>
+      <tr data-party="ENS"><td>Renaissance</td><td>18</td></tr>
+      <tr data-party="DEM"><td>Démocrates (MoDem et Indépendants)</td><td>2</td></tr>
+      <tr data-party="HOR"><td>Horizons et apparentés</td><td>1</td></tr>
+      <tr data-party="RN" class="group-rn"><td>Rassemblement national</td><td>0</td></tr>
+    </tbody></table>
+    <p class="source-note">Proposition de résolution n° 2531, déposée le 26 avril 2024. Les cosignatures indiquent un soutien au dépôt, pas un vote parlementaire.</p>
+    <a class="source-link" target="_blank" rel="noopener" href="https://www.assemblee-nationale.fr/dyn/16/dossiers/santementale_cause2025">Voir le dossier officiel →</a>
+   </article>
+   <article class="proposal-card">
+    <div class="meta"><span class="pill">Assemblée nationale</span><span class="pill">2022</span><span class="pill">Psychiatrie</span></div>
+    <span class="status-pending">Proposition déposée — pas encore votée</span>
+    <h3>Répondre à l’urgence en psychiatrie et santé mentale</h3>
+    <ul class="objectives"><li>Renforcer les moyens humains de la psychiatrie publique</li><li>Réduire les délais de prise en charge</li><li>Améliorer les conditions d’accueil et de suivi des patients</li></ul>
+    <h4>Cosignataires par groupe</h4>
+    <table class="cosign-table"><tbody>
+      <tr data-party="DEM"><td>Démocrates (MoDem et Indépendants)</td><td>1</td></tr>
+      <tr data-party="RN" class="group-rn"><td>Rassemblement national</td><td>0</td></tr>
+    </tbody></table>
+    <p class="source-note">Proposition de loi n° 465, déposée le 15 novembre 2022 par Jean-Carles Grelier et renvoyée à la commission des affaires sociales. Il s’agit d’un dépôt individuel ; aucun autre cosignataire n’est indiqué.</p>
+    <a class="source-link" target="_blank" rel="noopener" href="https://www.assemblee-nationale.fr/dyn/16/dossiers/urgence_psy_santementale">Voir le dossier officiel →</a>
+   </article>
+  </section>
+ </section>
+
+ <section class="verification">
+  <div>
+   <div class="kicker" style="color:#bdd2ec">Bilan de vérification</div>
+   <h2>Une base contrôlée, avec des niveaux de précision explicites</h2>
+   <p>Les totaux nationaux et les liens de source proviennent des pages officielles de l’Assemblée nationale. Le site contrôle désormais automatiquement que la somme des votes par groupe correspond aux totaux nationaux et signale clairement les détails encore partiels.</p>
+   <p>Le scrutin sur le cadmium n° 7303 a été complété avec le décompte officiel des douze groupes. Les autres scrutins incomplets ne sont plus présentés comme s’ils couvraient tous les partis.</p>
+  </div>
+  <div class="timeline">
+   <div><b>27 mai 2025</b><br>Première lecture : 305 pour, 199 contre, 57 abstentions.</div>
+   <div><b>25 février 2026</b><br>Deuxième lecture : 299 pour, 226 contre, 37 abstentions.</div>
+   <div><b>30 juin 2026</b><br>Nouvelle lecture : 295 pour, 232 contre, 35 abstentions.</div>
+   <div><b>15 juillet 2026</b><br>Lecture définitive : 291 pour, 241 contre, 29 abstentions.</div>
+  </div>
+ </section>
+</main>
+
+<footer>Ce site est un prototype statique : il peut être publié tel quel sur GitHub Pages, Netlify ou tout hébergement de fichiers HTML.</footer>
+
+<dialog id="modal">
+ <div class="modal-head"><div><div class="kicker" id="modalMeta"></div><h2 id="modalTitle"></h2></div><button class="close" aria-label="Fermer">×</button></div>
+ <div class="modal-body">
+   <div class="modal-summary" id="modalSummary"></div>
+   <div id="modalDataNote" class="data-note"></div>
+   <div style="overflow:auto"><table><thead><tr><th>Groupe</th><th>Répartition</th><th>Effectif</th><th>Pour</th><th>Contre</th><th>Abst.</th><th>Participation</th><th>Position</th></tr></thead><tbody id="modalRows"></tbody></table></div>
+   <a id="modalSource" class="source-link" target="_blank" rel="noopener">Voir la source officielle →</a>
+  </div>
+</dialog>
+
+<script>
+fetch('./data/db.json', {cache:'no-store'})
+.then(response=>{
+ if(!response.ok) throw new Error(`Chargement impossible (${response.status})`);
+ return response.json();
+})
+.then(DB=>{
+const fmtDate = s => s ? new Intl.DateTimeFormat('fr-FR',{dateStyle:'long'}).format(new Date(s+'T12:00:00')) : 'Date non renseignée';
+const pct = x => x==null ? '—' : Math.round(x*100)+' %';
+const safe = s => String(s ?? '').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+
+const PARTY_FAMILIES={
+ RN:{label:'Rassemblement national',codes:['RN']},
+ LFI:{label:'La France insoumise',codes:['LFI','FI']},
+ SOC:{label:'Socialistes et apparentés',codes:['SOC']},
+ ECO:{label:'Écologistes',codes:['ECO','ECOS']},
+ GDR:{label:'Gauche démocrate et républicaine',codes:['GDR']},
+ ENS:{label:'Renaissance / majorité présidentielle',codes:['RE','EPR','LREM','ENSEMBLE']},
+ DEM:{label:'MoDem / Les Démocrates',codes:['DEM','MODEM']},
+ HOR:{label:'Horizons',codes:['HOR']},
+ LR:{label:'Les Républicains / Droite républicaine',codes:['LR','DR']},
+ UDR:{label:'UDR',codes:['UDR']},
+ LIOT:{label:'LIOT / Libertés et Territoires',codes:['LIOT','LT']},
+ UDI:{label:'UDI et Indépendants',codes:['UDI']},
+ AGIR:{label:'Agir ensemble',codes:['AGIR']},
+ NI:{label:'Non-inscrits',codes:['NI']}
+};
+
+const LEGISLATURE_PARTIES={
+ 17:['RN','ENS','LFI','SOC','LR','ECO','DEM','HOR','LIOT','GDR','UDR','NI'],
+ 16:['RN','ENS','LFI','SOC','LR','ECO','DEM','HOR','LIOT','GDR','NI'],
+ 15:['RN','ENS','LFI','SOC','LR','ECO','DEM','UDI','LIOT','GDR','NI']
+};
+function legislatureOf(v){
+ const m=String(v?.['Source officielle']||'').match(/\/dyn\/(\d+)\//);
+ return m?Number(m[1]):17;
+}
+function detailAudit(v){
+ const rows=DB.details[String(v?.Scrutin)]||[];
+ if(!rows.length)return {state:'missing',rows,participants:0,expected:Number(v?.Votants)||0};
+ const sums={
+  pour:rows.reduce((n,r)=>n+(Number(r.Pour)||0),0),
+  contre:rows.reduce((n,r)=>n+(Number(r.Contre)||0),0),
+  abst:rows.reduce((n,r)=>n+(Number(r.Abstention)||0),0)
+ };
+ const expected={pour:Number(v['Pour total'])||0,contre:Number(v['Contre total'])||0,abst:Number(v['Abstention totale'])||0};
+ const complete=sums.pour===expected.pour && sums.contre===expected.contre && sums.abst===expected.abst;
+ return {state:complete?'complete':'partial',rows,participants:sums.pour+sums.contre+sums.abst,expected:Number(v.Votants)||0,sums,expectedVotes:expected};
+}
+
+const detailRows=Object.values(DB.details||{}).flat();
+const availableCodes=new Set(detailRows.map(r=>r.Groupe));
+const availableParties=Object.entries(PARTY_FAMILIES).filter(([,p])=>p.codes.some(c=>availableCodes.has(c)));
+const themes=[...new Set(DB.votes.map(v=>v['Thème']).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'fr'));
+const themeSelect=document.querySelector('#theme');
+const subthemeSelect=document.querySelector('#subtheme');
+const partySelect=document.querySelector('#party');
+themeSelect.insertAdjacentHTML('beforeend',themes.map(t=>`<option>${safe(t)}</option>`).join(''));
+partySelect.innerHTML=availableParties.map(([id,p])=>`<option value="${id}"${id==='RN'?' selected':''}>${safe(p.label)}</option>`).join('');
+partySelect.value=availableParties.some(([id])=>id==='RN')?'RN':(availableParties[0]?.[0]||'');
+const proposalPartySelect=document.querySelector('#proposalParty');
+proposalPartySelect.innerHTML='<option value="">Tous les partis</option>'+availableParties.map(([id,p])=>`<option value="${id}">${safe(p.label)}</option>`).join('');
+proposalPartySelect.value=partySelect.value;
+
+function subthemesForTheme(theme){
+ return [...new Set(DB.votes.filter(v=>!theme || v['Thème']===theme).flatMap(v=>Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'fr'));
+}
+function updateSubthemeOptions(){
+ const current=subthemeSelect.value;
+ const values=subthemesForTheme(themeSelect.value);
+ subthemeSelect.innerHTML='<option value="">Tous les sous-thèmes</option>'+values.map(t=>`<option>${safe(t)}</option>`).join('');
+ subthemeSelect.value=values.includes(current)?current:'';
+}
+function partyRow(v,partyId){
+ partyId=partyId||'RN';
+ const family=PARTY_FAMILIES[partyId];
+ if(!family || !v.Scrutin) return null;
+ const rows=DB.details[String(v.Scrutin)]||[];
+ const candidates=rows.filter(r=>family.codes.includes(r.Groupe));
+ if(!candidates.length && partyId==='RN' && v['Position RN']){
+   return {Groupe:'RN','Nom complet':'Rassemblement national',Effectif:v['Effectif RN'],Pour:v['RN pour'],Contre:v['RN contre'],Abstention:v['RN abst.'],Participants:(v['RN pour']||0)+(v['RN contre']||0)+(v['RN abst.']||0),'Taux de participation':v['Participation RN'],'Position majoritaire':v['Position RN']};
+ }
+ return candidates.sort((a,b)=>(b.Participants||0)-(a.Participants||0))[0]||null;
+}
+function partyPosition(v,partyId){
+ const row=partyRow(v,partyId||'RN');
+ return row?.['Position majoritaire'] || 'Non renseignée';
+}
+function updateStats(){
+ const valid=DB.votes.filter(v=>v.Scrutin);
+ const target=document.querySelector('#statVotes');
+ if(target)target.textContent=valid.length;
+}
+function render(){
+ const q=document.querySelector('#search').value.toLowerCase().trim();
+ const theme=themeSelect.value;
+ const subtheme=subthemeSelect.value;
+ const selectedPosition=document.querySelector('#partyPosition').value;
+ const sort=document.querySelector('#sort').value;
+ let arr=DB.votes.filter(v=>{
+   const subs=Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[];
+   const haystack=[v['Titre'],v['Thème'],...subs,v['Nature'],v['Scrutin']].join(' ').toLowerCase();
+   const selectedParty=partySelect.value;
+   const positionMatches=!selectedPosition || (selectedParty ? partyPosition(v,selectedParty)===selectedPosition : availableParties.some(([id])=>partyPosition(v,id)===selectedPosition));
+   return v['Scrutin'] && (!q || haystack.includes(q)) && (!theme || v['Thème']===theme) && (!subtheme || subs.includes(subtheme)) && positionMatches;
+ });
+ arr.sort((a,b)=>sort==='date-asc'?String(a.Date).localeCompare(String(b.Date)):sort==='participation'?(b.Votants||0)-(a.Votants||0):String(b.Date).localeCompare(String(a.Date)));
+ document.querySelector('#resultCount').textContent=`${arr.length} résultat${arr.length>1?'s':''}`;
+ document.querySelector('#cards').innerHTML=arr.length?arr.map(v=>card(v,partySelect.value)).join(''):'<div class="empty">Aucun scrutin ne correspond à ces filtres.</div>';
+ document.querySelectorAll('.party-card-select').forEach(sel=>sel.addEventListener('change',e=>refreshCardParty(e.target.closest('.card'),e.target.value)));
+ updateStats();
+}
+
+function renderProposals(){
+ const selected=proposalPartySelect.value;
+ const selectedLabel=PARTY_FAMILIES[selected]?.label||'Tous les partis';
+ document.querySelectorAll('.proposal-card').forEach(card=>{
+  const tbody=card.querySelector('.cosign-table tbody');
+  if(!tbody)return;
+  tbody.querySelectorAll('.proposal-zero').forEach(r=>r.remove());
+  const rows=[...tbody.querySelectorAll('tr[data-party]')];
+  rows.forEach(row=>{
+   const match=!selected || row.dataset.party===selected;
+   row.hidden=!match;
+   row.classList.toggle('proposal-selected',Boolean(selected && match));
+  });
+  if(selected && !rows.some(row=>row.dataset.party===selected)){
+   const tr=document.createElement('tr');
+   tr.className='proposal-zero';
+   tr.innerHTML=`<td>${safe(selectedLabel)}</td><td>0</td>`;
+   tbody.appendChild(tr);
+  }
+  const heading=card.querySelector('h4');
+  if(heading)heading.textContent=selected?`Cosignataires — ${selectedLabel}`:'Cosignataires par groupe';
+ });
+ const count=document.querySelector('#proposalResultCount');
+ if(count)count.textContent=selected?`Cosignatures du groupe : ${selectedLabel}`:'Textes non encore soumis au vote';
+}
+
+function gaugeData(row){
+ const effectif=Math.max(0,Number(row?.Effectif)||0);
+ const pour=Math.max(0,Number(row?.Pour)||0), contre=Math.max(0,Number(row?.Contre)||0), abst=Math.max(0,Number(row?.Abstention)||0);
+ const participants=Math.max(0,Number(row?.Participants) || pour+contre+abst);
+ const nonParticipation=Math.max(0, effectif-participants);
+ const base=effectif || participants || 1;
+ return {effectif,pour,contre,abst,participants,nonParticipation,wp:100*pour/base,wc:100*contre/base,wa:100*abst/base,wn:100*nonParticipation/base,participation:effectif?participants/effectif:(row?.['Taux de participation']??null)};
+}
+function gaugeHTML(row,compact=false){
+ if(!row) return '<div class="source-note">Détail par groupe non disponible pour ce scrutin.</div>';
+ const g=gaugeData(row);
+ return `<div class="${compact?'modal-party-gauge':''}"><div class="party-gauge" aria-label="${safe(g.pour)} pour, ${safe(g.abst)} abstentions, ${safe(g.contre)} contre, ${safe(g.nonParticipation)} non-participants"><span style="width:${g.wp}%;background:var(--for)"></span><span style="width:${g.wa}%;background:var(--abst)"></span><span style="width:${g.wc}%;background:var(--against)"></span><span class="nonparticipation" style="width:${g.wn}%"></span></div>${compact?'':`<div class="party-gauge-legend"><div class="party-participation">${pct(g.participation)} participation</div><div class="party-counts"><span>${g.pour} pour</span><span>${g.abst} abst.</span><span>${g.contre} contre</span>${g.nonParticipation?`<span>${g.nonParticipation} non-part.</span>`:''}</div></div>`}</div>`;
+}
+function partyOptions(selected){
+ return availableParties.map(([id,p])=>`<option value="${id}"${id===selected?' selected':''}>${safe(p.label)}</option>`).join('');
+}
+function card(v,partyId='RN'){
+ const total=(v['Pour total']||0)+(v['Contre total']||0)+(v['Abstention totale']||0);
+ const wp=total?100*(v['Pour total']||0)/total:0, wc=total?100*(v['Contre total']||0)/total:0, wa=total?100*(v['Abstention totale']||0)/total:0;
+ const row=partyRow(v,partyId), p=partyPosition(v,partyId), party=PARTY_FAMILIES[partyId];
+ const subs=Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[];
+ return `<article class="card" data-scrutin="${safe(v.Scrutin)}" data-party="${safe(partyId)}">
+  <div class="meta"><span class="pill pill-scrutin">Scrutin n°${safe(v.Scrutin)}</span><span class="pill pill-theme">${safe(v['Thème'])}</span><span class="pill pill-nature">${safe(v['Nature'])}</span></div>
+  ${subs.length?`<div class="subtheme-row">${subs.map(s=>`<span class="subtheme-pill">${safe(s)}</span>`).join('')}</div>`:''}
+  <h3>${safe(v.Titre)}</h3>
+  <div class="sub">${fmtDate(v.Date)} · ${safe(v.Résultat||'Résultat non renseigné')}</div>
+  <div class="vote-bars"><div class="bar"><span style="width:${wp}%;background:var(--for)"></span><span style="width:${wa}%;background:var(--abst)"></span><span style="width:${wc}%;background:var(--against)"></span></div>
+  <div class="legend"><span><i class="dot" style="background:var(--for)"></i>${v['Pour total']??'—'} pour</span><span><i class="dot" style="background:var(--abst)"></i>${v['Abstention totale']??'—'} abst.</span><span><i class="dot" style="background:var(--against)"></i>${v['Contre total']??'—'} contre</span></div></div>
+  <div class="rn-block"><div class="party-result"><div class="party-card-head"><div class="party-card-control"><label>Groupe observé</label><div class="party-card-actions"><select class="party-card-select" aria-label="Choisir le groupe pour ce scrutin">${partyOptions(partyId)}</select><button class="more" onclick="openVote('${safe(v.Scrutin)}', this.closest('.card').dataset.party)">Comparer les groupes</button></div></div></div><div class="party-dynamic">${gaugeHTML(row)}<span class="rn-position ${safe(p)}">${safe(p)}</span></div></div></div>
+ </article>`;
+}
+function refreshCardParty(cardEl,partyId){
+ const v=DB.votes.find(x=>String(x.Scrutin)===String(cardEl.dataset.scrutin));
+ if(!v)return;
+ cardEl.dataset.party=partyId;
+ const row=partyRow(v,partyId), p=partyPosition(v,partyId);
+ cardEl.querySelector('.party-dynamic').innerHTML=`${gaugeHTML(row)}<span class="rn-position ${safe(p)}">${safe(p)}</span>`;
+}
+function openVote(id,highlightParty=partySelect.value){
+ const v=DB.votes.find(x=>String(x.Scrutin)===String(id));
+ if(!v)return;
+ const rawRows=[...(DB.details[String(id)]||[])];
+ const audit=detailAudit(v);
+ const subs=Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[];
+ document.querySelector('#modalMeta').textContent=`Scrutin n°${v.Scrutin} · ${fmtDate(v.Date)} · ${v['Thème']||''}${subs.length?' · '+subs.join(' · '):''}`;
+ document.querySelector('#modalTitle').textContent=v.Titre;
+ document.querySelector('#modalSummary').innerHTML=[['Pour',v['Pour total']],['Contre',v['Contre total']],['Abstention',v['Abstention totale']],['Votants',v.Votants]].map(([l,n])=>`<div class="mini"><span>${l}</span><b>${n??'—'}</b></div>`).join('');
+ const note=document.querySelector('#modalDataNote');
+ note.className='data-note';
+ if(audit.state==='complete'){
+  note.classList.add('ok');
+  note.textContent='Le décompte par groupe est cohérent avec les totaux officiels du scrutin.';
+ }else if(audit.state==='partial'){
+  note.classList.add('warn');
+  note.textContent=`Attention : le détail disponible couvre ${audit.participants} vote${audit.participants>1?'s':''} sur ${audit.expected}. Les groupes non encore documentés apparaissent ci-dessous comme « non renseignés » ; les totaux nationaux restent ceux de la source officielle.`;
+ }else{
+  note.classList.add('missing');
+  note.textContent='Le décompte détaillé par groupe n’est pas encore disponible. Les totaux nationaux restent ceux de la source officielle.';
+ }
+ const selectedCodes=PARTY_FAMILIES[highlightParty]?.codes||[];
+ const expectedIds=LEGISLATURE_PARTIES[legislatureOf(v)]||availableParties.map(([id])=>id);
+ const rendered=[];
+ expectedIds.forEach(partyId=>{
+  const family=PARTY_FAMILIES[partyId];
+  const row=partyRow(v,partyId);
+  if(row){
+   rendered.push({row,missing:false,highlight:selectedCodes.includes(row.Groupe)});
+  }else{
+   rendered.push({row:{Groupe:partyId,'Nom complet':family?.label||partyId,Effectif:null,Pour:null,Contre:null,Abstention:null,'Taux de participation':null,'Position majoritaire':'Non renseignée'},missing:true,highlight:partyId===highlightParty});
+  }
+ });
+ const knownCodes=new Set(expectedIds.flatMap(id=>PARTY_FAMILIES[id]?.codes||[]));
+ rawRows.filter(row=>!knownCodes.has(row.Groupe)).forEach(row=>rendered.push({row,missing:false,highlight:selectedCodes.includes(row.Groupe)}));
+ document.querySelector('#modalRows').innerHTML=rendered.map(({row,missing,highlight})=>`<tr class="${highlight?'group-rn ':''}${missing?'missing-group':''}"><td>${safe(row['Nom complet']||row.Groupe)}</td><td>${missing?'—':gaugeHTML(row,true)}</td><td>${row.Effectif??'—'}</td><td>${row.Pour??'—'}</td><td>${row.Contre??'—'}</td><td>${row.Abstention??'—'}</td><td>${pct(row['Taux de participation'])}</td><td>${safe(row['Position majoritaire']||'—')}</td></tr>`).join('');
+ const link=document.querySelector('#modalSource');
+ link.href=v['Source officielle']||'#';
+ link.style.display=v['Source officielle']?'inline-block':'none';
+ document.querySelector('#modal').showModal();
+}
+document.querySelector('.close').onclick=()=>document.querySelector('#modal').close();
+document.querySelector('#modal').addEventListener('click',e=>{if(e.target.id==='modal')e.target.close()});
+themeSelect.addEventListener('input',()=>{updateSubthemeOptions();render();});
+['search','subtheme','partyPosition','sort'].forEach(id=>document.querySelector('#'+id).addEventListener('input',render));
+partySelect.addEventListener('input',()=>{
+ proposalPartySelect.value=partySelect.value;
+ render();
+ renderProposals();
+});
+proposalPartySelect.addEventListener('input',()=>{
+ if(proposalPartySelect.value){
+  partySelect.value=proposalPartySelect.value;
+  render();
+ }
+ renderProposals();
+});
+updateSubthemeOptions();
+
+document.querySelectorAll('.tab-btn').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    const tab=btn.dataset.tab;
+    document.querySelector('#votesSection').classList.toggle('hidden',tab!=='votes');
+    document.querySelector('#proposalsSection').classList.toggle('hidden',tab!=='proposals');
+    document.querySelector('.toolbar').classList.toggle('hidden',tab!=='votes');
+    if(tab==='proposals')renderProposals();
+  });
+});
+
+window.openVote = openVote;
+render();
+renderProposals();
+})
+.catch(error=>{
+ console.error('Erreur de chargement des données', error);
+ const cards=document.querySelector('#cards');
+ if(cards) cards.innerHTML='<div class="empty">Impossible de charger les données. Rechargez la page ou consultez la console du navigateur.</div>';
+});
+</script>
+</body>
+</html>
