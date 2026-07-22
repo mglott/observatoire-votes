@@ -59,11 +59,9 @@ main{max-width:1500px;margin:auto;padding:28px clamp(20px,5vw,80px) 70px}
 .rn-position.Partagé{background:#fff3c9;color:#705b0b}
 .more{border:0;background:var(--blue);color:white;padding:10px 12px;border-radius:10px;font-weight:750;cursor:pointer;white-space:nowrap;align-self:end}
 .empty{grid-column:1/-1;padding:48px;text-align:center;color:var(--muted);background:var(--paper);border-radius:18px}
-.verification{margin-top:50px;background:var(--blue);color:white;border-radius:24px;padding:28px;display:grid;grid-template-columns:1.2fr 1fr;gap:30px}
-.verification h2{font-family:Georgia,serif;margin-top:0;font-size:2rem}
-.verification p{line-height:1.7;color:#e5edf7}
-.timeline{display:grid;gap:9px}
-.timeline div{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:11px 13px}
+.disclaimer{margin-top:50px;background:rgba(255,253,248,.9);border:1px solid var(--line);border-radius:24px;padding:28px;box-shadow:var(--shadow)}
+.disclaimer h2{font-family:Georgia,serif;margin:4px 0 12px;font-size:2rem}
+.disclaimer p{max-width:1050px;line-height:1.7;color:var(--muted);margin:8px 0}
 footer{max-width:1500px;margin:auto;padding:0 clamp(20px,5vw,80px) 45px;color:var(--muted);font-size:.82rem}
 dialog{border:0;border-radius:22px;padding:0;width:min(1050px,94vw);max-height:90vh;background:var(--paper);box-shadow:0 30px 90px rgba(0,0,0,.25)}
 dialog::backdrop{background:rgba(15,23,42,.66);backdrop-filter:blur(4px)}
@@ -85,7 +83,6 @@ th{position:sticky;top:0;background:var(--paper);font-size:.75rem;text-transform
  .toolbar-inner{grid-template-columns:1fr 1fr}
  .toolbar-inner input{grid-column:1/-1}
  .party-card-head{align-items:stretch;flex-direction:column}.party-card-actions{width:100%}.party-card-select,.more{width:100%;max-width:none}
- .verification{grid-template-columns:1fr}
  .modal-summary{grid-template-columns:repeat(2,1fr)}
 }
 @media(max-width:520px){
@@ -193,9 +190,9 @@ tr.missing-group td{color:var(--muted);background:#faf9f6}
 
   .proposal-controls{grid-template-columns:1fr;padding:12px;margin-bottom:14px}
   .cosign-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
-  .verification{margin-top:30px;padding:20px;border-radius:18px;gap:18px}
-  .verification h2{font-size:1.65rem}
-  .verification p{font-size:.93rem;line-height:1.55}
+  .disclaimer{margin-top:30px;padding:20px;border-radius:18px}
+  .disclaimer h2{font-size:1.65rem}
+  .disclaimer p{font-size:.93rem;line-height:1.55}
   footer{padding:0 14px 30px}
 
   dialog{width:100vw;max-width:none;height:100dvh;max-height:100dvh;margin:0;border-radius:0}
@@ -220,7 +217,7 @@ tr.missing-group td{color:var(--muted);background:#faf9f6}
   .meta{gap:5px}
   .pill{font-size:.69rem}
   .party-counts span{white-space:normal}
-  .verification{padding:18px}
+  .disclaimer{padding:18px}
 }
 
 @media (hover:none){
@@ -332,23 +329,15 @@ tr.missing-group td{color:var(--muted);background:#faf9f6}
   </section>
  </section>
 
- <section class="verification">
-  <div>
-   <div class="kicker" style="color:#bdd2ec">Bilan de vérification</div>
-   <h2>Une base contrôlée, avec des niveaux de précision explicites</h2>
-   <p>Les totaux nationaux et les liens de source proviennent des pages officielles de l’Assemblée nationale. Le site contrôle désormais automatiquement que la somme des votes par groupe correspond aux totaux nationaux et signale clairement les détails encore partiels.</p>
-   <p>Le scrutin sur le cadmium n° 7303 a été complété avec le décompte officiel des douze groupes. Les autres scrutins incomplets ne sont plus présentés comme s’ils couvraient tous les partis.</p>
-  </div>
-  <div class="timeline">
-   <div><b>27 mai 2025</b><br>Première lecture : 305 pour, 199 contre, 57 abstentions.</div>
-   <div><b>25 février 2026</b><br>Deuxième lecture : 299 pour, 226 contre, 37 abstentions.</div>
-   <div><b>30 juin 2026</b><br>Nouvelle lecture : 295 pour, 232 contre, 35 abstentions.</div>
-   <div><b>15 juillet 2026</b><br>Lecture définitive : 291 pour, 241 contre, 29 abstentions.</div>
-  </div>
+ <section class="disclaimer" aria-labelledby="disclaimer-title">
+  <div class="kicker">À propos de ce site</div>
+  <h2 id="disclaimer-title">Une initiative indépendante et non commerciale</h2>
+  <p>Ce site est un projet personnel à vocation informative et pédagogique. Il n’est affilié ni à l’Assemblée nationale, ni à un parti politique, ni à un média, et ne constitue pas un service professionnel.</p>
+  <p>La sélection des scrutins ne prétend pas à l’exhaustivité. Les données chiffrées et les liens sont issus des sources officielles de l’Assemblée nationale ; malgré les vérifications effectuées, des erreurs ou omissions peuvent subsister. En cas de doute, la source officielle fait foi.</p>
  </section>
 </main>
 
-<footer>Ce site est un prototype statique : il peut être publié tel quel sur GitHub Pages, Netlify ou tout hébergement de fichiers HTML.</footer>
+<footer>Observatoire indépendant des votes parlementaires — données issues des sources officielles de l’Assemblée nationale.</footer>
 
 <dialog id="modal">
  <div class="modal-head"><div><div class="kicker" id="modalMeta"></div><h2 id="modalTitle"></h2></div><button class="close" aria-label="Fermer">×</button></div>
@@ -417,12 +406,15 @@ const themes=[...new Set(DB.votes.map(v=>v['Thème']).filter(Boolean))].sort((a,
 const themeSelect=document.querySelector('#theme');
 const subthemeSelect=document.querySelector('#subtheme');
 const partySelect=document.querySelector('#party');
+const partyPositionSelect=document.querySelector('#partyPosition');
 themeSelect.insertAdjacentHTML('beforeend',themes.map(t=>`<option>${safe(t)}</option>`).join(''));
-partySelect.innerHTML=availableParties.map(([id,p])=>`<option value="${id}"${id==='RN'?' selected':''}>${safe(p.label)}</option>`).join('');
-partySelect.value=availableParties.some(([id])=>id==='RN')?'RN':(availableParties[0]?.[0]||'');
+partySelect.innerHTML='<option value="">Choisir un groupe</option>'+availableParties.map(([id,p])=>`<option value="${id}">${safe(p.label)}</option>`).join('');
+partySelect.value='';
 const proposalPartySelect=document.querySelector('#proposalParty');
 proposalPartySelect.innerHTML='<option value="">Tous les partis</option>'+availableParties.map(([id,p])=>`<option value="${id}">${safe(p.label)}</option>`).join('');
 proposalPartySelect.value=partySelect.value;
+partyPositionSelect.disabled=true;
+partyPositionSelect.title='Choisissez d’abord un groupe parlementaire';
 
 function subthemesForTheme(theme){
  return [...new Set(DB.votes.filter(v=>!theme || v['Thème']===theme).flatMap(v=>Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'fr'));
@@ -434,7 +426,7 @@ function updateSubthemeOptions(){
  subthemeSelect.value=values.includes(current)?current:'';
 }
 function partyRow(v,partyId){
- partyId=partyId||'RN';
+ if(!partyId) return null;
  const family=PARTY_FAMILIES[partyId];
  if(!family || !v.Scrutin) return null;
  const rows=DB.details[String(v.Scrutin)]||[];
@@ -445,7 +437,8 @@ function partyRow(v,partyId){
  return candidates.sort((a,b)=>(b.Participants||0)-(a.Participants||0))[0]||null;
 }
 function partyPosition(v,partyId){
- const row=partyRow(v,partyId||'RN');
+ if(!partyId) return '';
+ const row=partyRow(v,partyId);
  return row?.['Position majoritaire'] || 'Non renseignée';
 }
 function updateStats(){
@@ -463,7 +456,7 @@ function render(){
    const subs=Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[];
    const haystack=[v['Titre'],v['Thème'],...subs,v['Nature'],v['Scrutin']].join(' ').toLowerCase();
    const selectedParty=partySelect.value;
-   const positionMatches=!selectedPosition || (selectedParty ? partyPosition(v,selectedParty)===selectedPosition : availableParties.some(([id])=>partyPosition(v,id)===selectedPosition));
+   const positionMatches=!selectedPosition || (selectedParty && partyPosition(v,selectedParty)===selectedPosition);
    return v['Scrutin'] && (!q || haystack.includes(q)) && (!theme || v['Thème']===theme) && (!subtheme || subs.includes(subtheme)) && positionMatches;
  });
  arr.sort((a,b)=>sort==='date-asc'?String(a.Date).localeCompare(String(b.Date)):sort==='participation'?(b.Votants||0)-(a.Votants||0):String(b.Date).localeCompare(String(a.Date)));
@@ -513,12 +506,16 @@ function gaugeHTML(row,compact=false){
  return `<div class="${compact?'modal-party-gauge':''}"><div class="party-gauge" aria-label="${safe(g.pour)} pour, ${safe(g.abst)} abstentions, ${safe(g.contre)} contre, ${safe(g.nonParticipation)} non-participants"><span style="width:${g.wp}%;background:var(--for)"></span><span style="width:${g.wa}%;background:var(--abst)"></span><span style="width:${g.wc}%;background:var(--against)"></span><span class="nonparticipation" style="width:${g.wn}%"></span></div>${compact?'':`<div class="party-gauge-legend"><div class="party-participation">${pct(g.participation)} participation</div><div class="party-counts"><span>${g.pour} pour</span><span>${g.abst} abst.</span><span>${g.contre} contre</span>${g.nonParticipation?`<span>${g.nonParticipation} non-part.</span>`:''}</div></div>`}</div>`;
 }
 function partyOptions(selected){
- return availableParties.map(([id,p])=>`<option value="${id}"${id===selected?' selected':''}>${safe(p.label)}</option>`).join('');
+ return '<option value="">Choisir un groupe</option>'+availableParties.map(([id,p])=>`<option value="${id}"${id===selected?' selected':''}>${safe(p.label)}</option>`).join('');
 }
-function card(v,partyId='RN'){
+function partyDisplayHTML(v,partyId){
+ if(!partyId) return '';
+ const row=partyRow(v,partyId), p=partyPosition(v,partyId);
+ return `${gaugeHTML(row)}<span class="rn-position ${safe(p)}">${safe(p)}</span>`;
+}
+function card(v,partyId=''){
  const total=(v['Pour total']||0)+(v['Contre total']||0)+(v['Abstention totale']||0);
  const wp=total?100*(v['Pour total']||0)/total:0, wc=total?100*(v['Contre total']||0)/total:0, wa=total?100*(v['Abstention totale']||0)/total:0;
- const row=partyRow(v,partyId), p=partyPosition(v,partyId), party=PARTY_FAMILIES[partyId];
  const subs=Array.isArray(v['Sous-thèmes'])?v['Sous-thèmes']:[];
  return `<article class="card" data-scrutin="${safe(v.Scrutin)}" data-party="${safe(partyId)}">
   <div class="meta"><span class="pill pill-scrutin">Scrutin n°${safe(v.Scrutin)}</span><span class="pill pill-theme">${safe(v['Thème'])}</span><span class="pill pill-nature">${safe(v['Nature'])}</span></div>
@@ -527,15 +524,14 @@ function card(v,partyId='RN'){
   <div class="sub">${fmtDate(v.Date)} · ${safe(v.Résultat||'Résultat non renseigné')}</div>
   <div class="vote-bars"><div class="bar"><span style="width:${wp}%;background:var(--for)"></span><span style="width:${wa}%;background:var(--abst)"></span><span style="width:${wc}%;background:var(--against)"></span></div>
   <div class="legend"><span><i class="dot" style="background:var(--for)"></i>${v['Pour total']??'—'} pour</span><span><i class="dot" style="background:var(--abst)"></i>${v['Abstention totale']??'—'} abst.</span><span><i class="dot" style="background:var(--against)"></i>${v['Contre total']??'—'} contre</span></div></div>
-  <div class="rn-block"><div class="party-result"><div class="party-card-head"><div class="party-card-control"><label>Groupe observé</label><div class="party-card-actions"><select class="party-card-select" aria-label="Choisir le groupe pour ce scrutin">${partyOptions(partyId)}</select><button class="more" onclick="openVote('${safe(v.Scrutin)}', this.closest('.card').dataset.party)">Comparer les groupes</button></div></div></div><div class="party-dynamic">${gaugeHTML(row)}<span class="rn-position ${safe(p)}">${safe(p)}</span></div></div></div>
+  <div class="rn-block"><div class="party-result"><div class="party-card-head"><div class="party-card-control"><label>Groupe observé</label><div class="party-card-actions"><select class="party-card-select" aria-label="Choisir le groupe pour ce scrutin">${partyOptions(partyId)}</select><button class="more" onclick="openVote('${safe(v.Scrutin)}', this.closest('.card').dataset.party)">Comparer les groupes</button></div></div></div><div class="party-dynamic">${partyDisplayHTML(v,partyId)}</div></div></div>
  </article>`;
 }
 function refreshCardParty(cardEl,partyId){
  const v=DB.votes.find(x=>String(x.Scrutin)===String(cardEl.dataset.scrutin));
  if(!v)return;
  cardEl.dataset.party=partyId;
- const row=partyRow(v,partyId), p=partyPosition(v,partyId);
- cardEl.querySelector('.party-dynamic').innerHTML=`${gaugeHTML(row)}<span class="rn-position ${safe(p)}">${safe(p)}</span>`;
+ cardEl.querySelector('.party-dynamic').innerHTML=partyDisplayHTML(v,partyId);
 }
 function openVote(id,highlightParty=partySelect.value){
  const v=DB.votes.find(x=>String(x.Scrutin)===String(id));
@@ -584,12 +580,17 @@ themeSelect.addEventListener('input',()=>{updateSubthemeOptions();render();});
 ['search','subtheme','partyPosition','sort'].forEach(id=>document.querySelector('#'+id).addEventListener('input',render));
 partySelect.addEventListener('input',()=>{
  proposalPartySelect.value=partySelect.value;
+ partyPositionSelect.disabled=!partySelect.value;
+ partyPositionSelect.title=partySelect.value?'':'Choisissez d’abord un groupe parlementaire';
+ if(!partySelect.value) partyPositionSelect.value='';
  render();
  renderProposals();
 });
 proposalPartySelect.addEventListener('input',()=>{
  if(proposalPartySelect.value){
   partySelect.value=proposalPartySelect.value;
+  partyPositionSelect.disabled=false;
+  partyPositionSelect.title='';
   render();
  }
  renderProposals();
