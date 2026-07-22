@@ -1,0 +1,58 @@
+name: Contrôle hebdomadaire des scrutins
+
+on:
+  schedule:
+    - cron: "15 8 * * 1"
+      timezone: "Europe/Paris"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v6
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Vérifier la base publiée
+        run: python scripts/validate_data.py
+
+      - name: Rechercher les scrutins récents
+        run: python scripts/check_official_updates.py
+
+      - name: Enregistrer le rapport s'il a changé
+        run: |
+          git config user.name "Observatoire Votes Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/new_scrutins.json reports/new_scrutins.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Rapport hebdomadaire des scrutins"
+            git push
+          fi
+
+      - name: Créer ou actualiser l'alerte GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          COUNT=$(python -c "import json; print(json.load(open('reports/new_scrutins.json'))['count'])")
+          TITLE="[Automatique] Scrutins récents à examiner"
+          NUMBER=$(gh issue list --state open --search "$TITLE in:title" --json number,title --jq ".[] | select(.title == "$TITLE") | .number" | head -n 1)
+
+          if [ "$COUNT" -gt 0 ]; then
+            if [ -n "$NUMBER" ]; then
+              gh issue edit "$NUMBER" --body-file reports/new_scrutins.md
+            else
+              gh issue create --title "$TITLE" --body-file reports/new_scrutins.md
+            fi
+          elif [ -n "$NUMBER" ]; then
+            gh issue comment "$NUMBER" --body "Aucun scrutin récent non répertorié n'a été détecté lors du dernier contrôle."
+            gh issue close "$NUMBER"
+          fi

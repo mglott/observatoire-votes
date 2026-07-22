@@ -1,0 +1,52 @@
+name: Publier le site
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v6
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Vérifier les données
+        run: python scripts/validate_data.py
+
+  deploy:
+    needs: validate
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v6
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Préparer le dossier publié
+        run: |
+          mkdir _site
+          cp index.html .nojekyll _site/
+          cp -R data _site/data
+      - name: Préparer les fichiers du site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "_site"
+      - name: Publier
+        id: deployment
+        uses: actions/deploy-pages@v4
