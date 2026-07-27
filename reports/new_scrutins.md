@@ -1,6 +1,6 @@
 # Scrutins récents à examiner
 
-Rapport généré le 2026-07-27T07:33:21+00:00.
+Rapport généré le 2026-07-27T10:07:00+00:00.
 Fenêtre contrôlée : 10 derniers jours.
 
 Ces scrutins sont détectés automatiquement, mais ne sont **pas publiés** avant validation de leur intérêt éditorial, de leur thème et de leur titre pédagogique.
