@@ -1,8 +1,1149 @@
 {
-  "generated_at": "2026-10-05T14:28:00+00:00",
+  "generated_at": "2026-10-12T15:13:56+00:00",
   "lookback_days": 10,
-  "count": 75,
+  "count": 231,
   "scrutins": [
+    {
+      "scrutin": 8672,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 3 de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8672"
+    },
+    {
+      "scrutin": 8671,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 2 bis de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8671"
+    },
+    {
+      "scrutin": 8670,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 2 de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8670"
+    },
+    {
+      "scrutin": 8669,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article premier de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8669"
+    },
+    {
+      "scrutin": 8668,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 68 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8668"
+    },
+    {
+      "scrutin": 8667,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 684 de Mme Legrain à l'article 68 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8667"
+    },
+    {
+      "scrutin": 8666,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 61 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8666"
+    },
+    {
+      "scrutin": 8665,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1156 de Mme Spillebout à l'article 61 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8665"
+    },
+    {
+      "scrutin": 8664,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 240 de M. Ménagé après l'article 45 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8664"
+    },
+    {
+      "scrutin": 8663,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 60 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8663"
+    },
+    {
+      "scrutin": 8662,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 59 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8662"
+    },
+    {
+      "scrutin": 8661,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 58 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8661"
+    },
+    {
+      "scrutin": 8660,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 57 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8660"
+    },
+    {
+      "scrutin": 8659,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8659"
+    },
+    {
+      "scrutin": 8658,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 55 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8658"
+    },
+    {
+      "scrutin": 8657,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8657"
+    },
+    {
+      "scrutin": 8656,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1266 de M. Peytavie à l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8656"
+    },
+    {
+      "scrutin": 8655,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 53 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8655"
+    },
+    {
+      "scrutin": 8654,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 386 du Gouvernement de suppression de l'article 52 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8654"
+    },
+    {
+      "scrutin": 8653,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 51 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8653"
+    },
+    {
+      "scrutin": 8652,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 50 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8652"
+    },
+    {
+      "scrutin": 8651,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8651"
+    },
+    {
+      "scrutin": 8650,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1172 de Mme Vidal à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8650"
+    },
+    {
+      "scrutin": 8649,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1164 de M. Gouffier Valente à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8649"
+    },
+    {
+      "scrutin": 8648,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 404 du Gouvernement à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8648"
+    },
+    {
+      "scrutin": 8647,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 48 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8647"
+    },
+    {
+      "scrutin": 8646,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8646"
+    },
+    {
+      "scrutin": 8645,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 257 de Mme Lingemann et l'amendement identique suivant à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8645"
+    },
+    {
+      "scrutin": 8644,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 814 de Mme Leboucher à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8644"
+    },
+    {
+      "scrutin": 8643,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1083 de Mme Erodi après l'article 39 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8643"
+    },
+    {
+      "scrutin": 8642,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 245 de M. Ménagé et les amendements identiques suivants de suppression de l'article 63 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8642"
+    },
+    {
+      "scrutin": 8641,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 244 de M. Ménagé et les amendements identiques suivants de suppression de l'article 62 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8641"
+    },
+    {
+      "scrutin": 8640,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8640"
+    },
+    {
+      "scrutin": 8639,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 705 du Gouvernement et l'amendement identique suivant à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8639"
+    },
+    {
+      "scrutin": 8638,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1091 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8638"
+    },
+    {
+      "scrutin": 8637,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 462 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8637"
+    },
+    {
+      "scrutin": 8636,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 242 de M. Ménagé à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8636"
+    },
+    {
+      "scrutin": 8635,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 453 de Mme Autain à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8635"
+    },
+    {
+      "scrutin": 8634,
+      "date": "2026-10-09",
+      "titre_officiel": "le sous-amendement n° 1341 de Mme Simonnet à l'amendement n° 453 de Mme Autain à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8634"
+    },
+    {
+      "scrutin": 8633,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1021 de Mme Cathala après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8633"
+    },
+    {
+      "scrutin": 8632,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1003 de Mme Legrain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8632"
+    },
+    {
+      "scrutin": 8631,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 511 de Mme Autain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8631"
+    },
+    {
+      "scrutin": 8630,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 498 de Mme Autain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8630"
+    },
+    {
+      "scrutin": 8629,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 594 de Mme Lebon après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8629"
+    },
+    {
+      "scrutin": 8628,
+      "date": "2026-10-09",
+      "titre_officiel": "l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8628"
+    },
+    {
+      "scrutin": 8627,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 762 de Mme de Pélichy à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8627"
+    },
+    {
+      "scrutin": 8626,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 516 de Mme Sandrine Rousseau à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8626"
+    },
+    {
+      "scrutin": 8625,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 440 de Mme Leboucher à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8625"
+    },
+    {
+      "scrutin": 8624,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 435 de Mme Leboucher à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8624"
+    },
+    {
+      "scrutin": 8623,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 1137 de Mme Firmin Le Bodo à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8623"
+    },
+    {
+      "scrutin": 8622,
+      "date": "2026-10-09",
+      "titre_officiel": "l'amendement n° 722 de Mme Faucillon et l'amendement identique suivant à l'article 43 bis (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8622"
+    },
+    {
+      "scrutin": 8621,
+      "date": "2026-10-08",
+      "titre_officiel": "l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8621"
+    },
+    {
+      "scrutin": 8620,
+      "date": "2026-10-08",
+      "titre_officiel": "le sous-amendement n° 48 de M. Sitzenstuhl à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8620"
+    },
+    {
+      "scrutin": 8619,
+      "date": "2026-10-08",
+      "titre_officiel": "le sous-amendement n° 36 de Mme Belluco à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8619"
+    },
+    {
+      "scrutin": 8618,
+      "date": "2026-10-08",
+      "titre_officiel": "l'amendement n° 1 de M. Meurin à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8618"
+    },
+    {
+      "scrutin": 8617,
+      "date": "2026-10-08",
+      "titre_officiel": "l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8617"
+    },
+    {
+      "scrutin": 8616,
+      "date": "2026-10-08",
+      "titre_officiel": "le sous-amendement n° 35 de Mme Belluco à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8616"
+    },
+    {
+      "scrutin": 8615,
+      "date": "2026-10-08",
+      "titre_officiel": "le sous-amendement n° 47 de M. Sitzenstuhl à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8615"
+    },
+    {
+      "scrutin": 8614,
+      "date": "2026-10-08",
+      "titre_officiel": "l'amendement n° 29 de M. Maillard à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8614"
+    },
+    {
+      "scrutin": 8613,
+      "date": "2026-10-08",
+      "titre_officiel": "l'amendement n° 7 de Mme Belluco de suppression de l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613"
+    },
+    {
+      "scrutin": 8612,
+      "date": "2026-10-08",
+      "titre_officiel": "la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8612"
+    },
+    {
+      "scrutin": 8611,
+      "date": "2026-10-08",
+      "titre_officiel": "la proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611"
+    },
+    {
+      "scrutin": 8610,
+      "date": "2026-10-08",
+      "titre_officiel": "la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610"
+    },
+    {
+      "scrutin": 8609,
+      "date": "2026-10-08",
+      "titre_officiel": "la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8609"
+    },
+    {
+      "scrutin": 8608,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8608"
+    },
+    {
+      "scrutin": 8607,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8607"
+    },
+    {
+      "scrutin": 8606,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1135 de Mme Firmin Le Bodo à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8606"
+    },
+    {
+      "scrutin": 8605,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 509 de Mme Garin et l'amendement identique suivant à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8605"
+    },
+    {
+      "scrutin": 8604,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 475 de Mme Brulebois à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8604"
+    },
+    {
+      "scrutin": 8603,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 629 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8603"
+    },
+    {
+      "scrutin": 8602,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 542 de Mme Leboucher après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8602"
+    },
+    {
+      "scrutin": 8601,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8601"
+    },
+    {
+      "scrutin": 8600,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8600"
+    },
+    {
+      "scrutin": 8599,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8599"
+    },
+    {
+      "scrutin": 8598,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8598"
+    },
+    {
+      "scrutin": 8597,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8597"
+    },
+    {
+      "scrutin": 8596,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8596"
+    },
+    {
+      "scrutin": 8595,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8595"
+    },
+    {
+      "scrutin": 8594,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8594"
+    },
+    {
+      "scrutin": 8593,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 832 de Mme Lalanne et l'amendement identique suivant après l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8593"
+    },
+    {
+      "scrutin": 8592,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8592"
+    },
+    {
+      "scrutin": 8591,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 459 de Mme Autain à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8591"
+    },
+    {
+      "scrutin": 8590,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 469 de Mme Brulebois à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8590"
+    },
+    {
+      "scrutin": 8589,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 521 de Mme Leboucher à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8589"
+    },
+    {
+      "scrutin": 8588,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 958 de Mme Cathala à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8588"
+    },
+    {
+      "scrutin": 8587,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 39 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8587"
+    },
+    {
+      "scrutin": 8586,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 387 de Mme Erodi à l'article 39 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8586"
+    },
+    {
+      "scrutin": 8585,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 38 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8585"
+    },
+    {
+      "scrutin": 8584,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 37 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8584"
+    },
+    {
+      "scrutin": 8583,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1099 de Mme Leboucher après l'article 35 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8583"
+    },
+    {
+      "scrutin": 8582,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1095 de Mme Legrain et l'amendement identique suivant de rétablissement de l'article 35 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8582"
+    },
+    {
+      "scrutin": 8581,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 408 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8581"
+    },
+    {
+      "scrutin": 8580,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 402 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8580"
+    },
+    {
+      "scrutin": 8579,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 381 de Mme Cathala après l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8579"
+    },
+    {
+      "scrutin": 8578,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1159 de Mme Ibled à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8578"
+    },
+    {
+      "scrutin": 8577,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8577"
+    },
+    {
+      "scrutin": 8576,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8576"
+    },
+    {
+      "scrutin": 8575,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8575"
+    },
+    {
+      "scrutin": 8574,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8574"
+    },
+    {
+      "scrutin": 8573,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8573"
+    },
+    {
+      "scrutin": 8572,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8572"
+    },
+    {
+      "scrutin": 8571,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8571"
+    },
+    {
+      "scrutin": 8570,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8570"
+    },
+    {
+      "scrutin": 8569,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8569"
+    },
+    {
+      "scrutin": 8568,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8568"
+    },
+    {
+      "scrutin": 8567,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8567"
+    },
+    {
+      "scrutin": 8566,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8566"
+    },
+    {
+      "scrutin": 8565,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8565"
+    },
+    {
+      "scrutin": 8564,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8564"
+    },
+    {
+      "scrutin": 8563,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8563"
+    },
+    {
+      "scrutin": 8562,
+      "date": "2026-10-07",
+      "titre_officiel": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8562"
+    },
+    {
+      "scrutin": 8561,
+      "date": "2026-10-07",
+      "titre_officiel": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8561"
+    },
+    {
+      "scrutin": 8560,
+      "date": "2026-10-06",
+      "titre_officiel": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8560"
+    },
+    {
+      "scrutin": 8559,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8559"
+    },
+    {
+      "scrutin": 8558,
+      "date": "2026-10-06",
+      "titre_officiel": "le sous-amendement n° 1323 de Mme Bannier à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8558"
+    },
+    {
+      "scrutin": 8557,
+      "date": "2026-10-06",
+      "titre_officiel": "le sous-amendement n° 1324 de Mme Cathala à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8557"
+    },
+    {
+      "scrutin": 8556,
+      "date": "2026-10-06",
+      "titre_officiel": "le sous-amendement n° 1325 de Mme Legrain à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8556"
+    },
+    {
+      "scrutin": 8555,
+      "date": "2026-10-06",
+      "titre_officiel": "le sous-amendement n° 1316 de Mme Yadan à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8555"
+    },
+    {
+      "scrutin": 8554,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1089 de Mme Cathala et l'amendement identique suivant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8554"
+    },
+    {
+      "scrutin": 8553,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1076 de Mme Cathala à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8553"
+    },
+    {
+      "scrutin": 8552,
+      "date": "2026-10-06",
+      "titre_officiel": "l'article 20 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8552"
+    },
+    {
+      "scrutin": 8551,
+      "date": "2026-10-06",
+      "titre_officiel": "l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8551"
+    },
+    {
+      "scrutin": 8550,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8550"
+    },
+    {
+      "scrutin": 8549,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1245 de M. Arnaud Bonnet à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8549"
+    },
+    {
+      "scrutin": 8548,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8548"
+    },
+    {
+      "scrutin": 8547,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 237 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8547"
+    },
+    {
+      "scrutin": 8546,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 234 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8546"
+    },
+    {
+      "scrutin": 8545,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 236 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8545"
+    },
+    {
+      "scrutin": 8544,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8544"
+    },
+    {
+      "scrutin": 8543,
+      "date": "2026-10-06",
+      "titre_officiel": "l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8543"
+    },
+    {
+      "scrutin": 8542,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 728 de Mme de Pélichy et les amendements identiques suivants après l'article 17 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8542"
+    },
+    {
+      "scrutin": 8541,
+      "date": "2026-10-06",
+      "titre_officiel": "l'article 10 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8541"
+    },
+    {
+      "scrutin": 8540,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1273 du Gouvernement à l'article 10 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8540"
+    },
+    {
+      "scrutin": 8539,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1169 de Mme Coggia après l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8539"
+    },
+    {
+      "scrutin": 8538,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1170 de Mme Coggia après l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8538"
+    },
+    {
+      "scrutin": 8537,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1030 de Mme Roullaud à l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8537"
+    },
+    {
+      "scrutin": 8536,
+      "date": "2026-10-06",
+      "titre_officiel": "l'amendement n° 1055 du Gouvernement de suppression de l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8536"
+    },
+    {
+      "scrutin": 8535,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 270 de M. Naillet après l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8535"
+    },
+    {
+      "scrutin": 8534,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1028 de Mme Roullaud après l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8534"
+    },
+    {
+      "scrutin": 8533,
+      "date": "2026-10-05",
+      "titre_officiel": "l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8533"
+    },
+    {
+      "scrutin": 8532,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 367 de Mme Leboucher à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8532"
+    },
+    {
+      "scrutin": 8531,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 344 de Mme Cathala à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8531"
+    },
+    {
+      "scrutin": 8530,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1078 de M. Peytavie à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8530"
+    },
+    {
+      "scrutin": 8529,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1096 de Mme Miller et l'amendement identique suivant à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8529"
+    },
+    {
+      "scrutin": 8528,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1019 de M. Dessigny à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8528"
+    },
+    {
+      "scrutin": 8527,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 336 de Mme Cathala à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8527"
+    },
+    {
+      "scrutin": 8526,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1018 de Mme Roullaud à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8526"
+    },
+    {
+      "scrutin": 8525,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1215 du Gouvernement à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8525"
+    },
+    {
+      "scrutin": 8524,
+      "date": "2026-10-05",
+      "titre_officiel": "l'article 17 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8524"
+    },
+    {
+      "scrutin": 8523,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 714 de Mme Blanc après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8523"
+    },
+    {
+      "scrutin": 8522,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 243 de M. Ménagé après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8522"
+    },
+    {
+      "scrutin": 8521,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 412 de Mme Godard après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8521"
+    },
+    {
+      "scrutin": 8520,
+      "date": "2026-10-05",
+      "titre_officiel": "l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8520"
+    },
+    {
+      "scrutin": 8519,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 16 de Mme Capdevielle à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8519"
+    },
+    {
+      "scrutin": 8518,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 377 de Mme Autain et les amendements identiques suivants à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8518"
+    },
+    {
+      "scrutin": 8517,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 418 de Mme Cathala et l'amendement identique suivant de suppression de l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8517"
+    },
+    {
+      "scrutin": 8516,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1067 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8516"
+    },
+    {
+      "scrutin": 8515,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1066 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8515"
+    },
+    {
+      "scrutin": 8514,
+      "date": "2026-10-05",
+      "titre_officiel": "l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8514"
+    },
+    {
+      "scrutin": 8513,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 414 de Mme Cathala et l'amendement identique suivant de suppression de l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8513"
+    },
+    {
+      "scrutin": 8512,
+      "date": "2026-10-05",
+      "titre_officiel": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8512"
+    },
+    {
+      "scrutin": 8511,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "l'Assemblée nationale a adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8511"
+    },
+    {
+      "scrutin": 8510,
+      "date": "2026-10-05",
+      "titre_officiel": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "L'Assemblée nationale n'a pas adopté",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8510"
+    },
     {
       "scrutin": 8509,
       "date": "2026-10-02",
@@ -125,7 +1266,7 @@
     {
       "scrutin": 8492,
       "date": "2026-10-02",
-      "titre_officiel": "l'amendement n° 930 de M. Croizier à l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "titre_officiel": "l'amendement n° 930 de M. Croizier après l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
       "resultat": "L'Assemblée nationale n'a pas adopté",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8492"
     },
@@ -478,55 +1619,6 @@
       "titre_officiel": "l'amendement n° 247 de Mme Colin-Oesterlé et les amendements identiques suivants de suppression de l'article 5 bis (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
       "resultat": "l'Assemblée nationale a adopté",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8442"
-    },
-    {
-      "scrutin": 8441,
-      "date": "2026-10-01",
-      "titre_officiel": "l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "l'Assemblée nationale a adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8441"
-    },
-    {
-      "scrutin": 8440,
-      "date": "2026-10-01",
-      "titre_officiel": "l'amendement n° 971 de Mme Garin à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "l'Assemblée nationale a adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8440"
-    },
-    {
-      "scrutin": 8439,
-      "date": "2026-10-01",
-      "titre_officiel": "l'amendement n° 1175 de Mme Riotton à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "l'Assemblée nationale a adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8439"
-    },
-    {
-      "scrutin": 8438,
-      "date": "2026-10-01",
-      "titre_officiel": "l'amendement n° 1035 de Mme Garin à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "l'Assemblée nationale a adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8438"
-    },
-    {
-      "scrutin": 8437,
-      "date": "2026-10-01",
-      "titre_officiel": "l'amendement n° 371 de Mme Cathala à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "L'Assemblée nationale n'a pas adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8437"
-    },
-    {
-      "scrutin": 8436,
-      "date": "2026-10-01",
-      "titre_officiel": "le sous-amendement n° 1277 de Mme Garin à l'amendement n° 371 de Mme Cathala à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "L'Assemblée nationale n'a pas adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8436"
-    },
-    {
-      "scrutin": 8435,
-      "date": "2026-10-01",
-      "titre_officiel": "l'amendement n° 373 de Mme Cathala à l'article 5 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-      "resultat": "L'Assemblée nationale n'a pas adopté",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8435"
     }
   ]
 }
