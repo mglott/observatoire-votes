@@ -1,9 +1,1649 @@
 # Scrutins récents à examiner
 
-Rapport généré le 2026-10-12T15:13:56+00:00.
+Rapport généré le 2026-10-19T13:00:59+00:00.
 Fenêtre contrôlée : 10 derniers jours.
 
 Ces scrutins sont détectés automatiquement, mais ne sont **pas publiés** avant validation de leur intérêt éditorial, de leur thème et de leur titre pédagogique.
+
+## Scrutin n° 8877 — 2026-10-16
+
+l'amendement n° 3865 de Mme Olivia Grégoire après l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8877
+
+## Scrutin n° 8876 — 2026-10-16
+
+l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8876
+
+## Scrutin n° 8875 — 2026-10-16
+
+l'amendement n° 3089 de M. Juvin à l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8875
+
+## Scrutin n° 8874 — 2026-10-16
+
+l'amendement n° 424 de M. Ray et les amendements identiques suivants de suppression de l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8874
+
+## Scrutin n° 8873 — 2026-10-16
+
+l'amendement n° 1398 de M. Midy après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8873
+
+## Scrutin n° 8872 — 2026-10-16
+
+l'amendement n° 3626 de M. Le Coq et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8872
+
+## Scrutin n° 8871 — 2026-10-16
+
+l'amendement n° 3625 de Mme Maximi et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8871
+
+## Scrutin n° 8870 — 2026-10-16
+
+l'amendement n° 1079 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8870
+
+## Scrutin n° 8869 — 2026-10-16
+
+l'amendement n° 262 de M. Arnaud Bonnet et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8869
+
+## Scrutin n° 8868 — 2026-10-16
+
+l'amendement n° 2385 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8868
+
+## Scrutin n° 8867 — 2026-10-16
+
+l'amendement n° 1106 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8867
+
+## Scrutin n° 8866 — 2026-10-16
+
+l'amendement n° 3783 de M. Mattei après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8866
+
+## Scrutin n° 8865 — 2026-10-16
+
+l'amendement n° 1080 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8865
+
+## Scrutin n° 8864 — 2026-10-16
+
+l'amendement n° 666 de M. Jean-Philippe Tanguy après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8864
+
+## Scrutin n° 8863 — 2026-10-16
+
+l'amendement n° 47 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8863
+
+## Scrutin n° 8862 — 2026-10-16
+
+l'amendement n° 1046 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8862
+
+## Scrutin n° 8861 — 2026-10-16
+
+l'amendement n° 38 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8861
+
+## Scrutin n° 8860 — 2026-10-16
+
+l'amendement n° 471 de M. Mickaël Bouloux après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8860
+
+## Scrutin n° 8859 — 2026-10-16
+
+l'amendement n° 2566 de M. Coquerel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8859
+
+## Scrutin n° 8858 — 2026-10-16
+
+l'amendement n° 54 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8858
+
+## Scrutin n° 8857 — 2026-10-16
+
+l'amendement n° 1069 de M. Tavel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8857
+
+## Scrutin n° 8856 — 2026-10-16
+
+l'amendement n° 1077 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8856
+
+## Scrutin n° 8855 — 2026-10-16
+
+l'amendement n° 541 de M. Lottiaux après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8855
+
+## Scrutin n° 8854 — 2026-10-16
+
+l'amendement n° 665 de Mme Roy après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8854
+
+## Scrutin n° 8853 — 2026-10-16
+
+l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8853
+
+## Scrutin n° 8852 — 2026-10-16
+
+l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8852
+
+## Scrutin n° 8851 — 2026-10-16
+
+l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8851
+
+## Scrutin n° 8850 — 2026-10-16
+
+l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8850
+
+## Scrutin n° 8849 — 2026-10-16
+
+l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8849
+
+## Scrutin n° 8848 — 2026-10-16
+
+l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8848
+
+## Scrutin n° 8847 — 2026-10-16
+
+l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8847
+
+## Scrutin n° 8846 — 2026-10-16
+
+l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8846
+
+## Scrutin n° 8845 — 2026-10-16
+
+l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8845
+
+## Scrutin n° 8844 — 2026-10-16
+
+l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8844
+
+## Scrutin n° 8843 — 2026-10-16
+
+l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8843
+
+## Scrutin n° 8842 — 2026-10-16
+
+l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8842
+
+## Scrutin n° 8841 — 2026-10-16
+
+l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8841
+
+## Scrutin n° 8840 — 2026-10-16
+
+l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8840
+
+## Scrutin n° 8839 — 2026-10-16
+
+l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8839
+
+## Scrutin n° 8838 — 2026-10-16
+
+l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8838
+
+## Scrutin n° 8837 — 2026-10-16
+
+l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8837
+
+## Scrutin n° 8836 — 2026-10-16
+
+l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8836
+
+## Scrutin n° 8835 — 2026-10-16
+
+l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8835
+
+## Scrutin n° 8834 — 2026-10-16
+
+l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8834
+
+## Scrutin n° 8833 — 2026-10-16
+
+l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8833
+
+## Scrutin n° 8832 — 2026-10-16
+
+l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8832
+
+## Scrutin n° 8831 — 2026-10-16
+
+l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8831
+
+## Scrutin n° 8830 — 2026-10-16
+
+l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8830
+
+## Scrutin n° 8829 — 2026-10-16
+
+l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8829
+
+## Scrutin n° 8828 — 2026-10-16
+
+l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8828
+
+## Scrutin n° 8827 — 2026-10-16
+
+l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8827
+
+## Scrutin n° 8826 — 2026-10-16
+
+l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8826
+
+## Scrutin n° 8825 — 2026-10-16
+
+l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8825
+
+## Scrutin n° 8824 — 2026-10-16
+
+l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8824
+
+## Scrutin n° 8823 — 2026-10-16
+
+l'amendement n° 1083 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8823
+
+## Scrutin n° 8822 — 2026-10-16
+
+l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8822
+
+## Scrutin n° 8821 — 2026-10-16
+
+l'amendement n° 1599 de M. Ciotti après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8821
+
+## Scrutin n° 8820 — 2026-10-16
+
+l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8820
+
+## Scrutin n° 8819 — 2026-10-16
+
+l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8819
+
+## Scrutin n° 8818 — 2026-10-16
+
+l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8818
+
+## Scrutin n° 8817 — 2026-10-16
+
+l'amendement n° 320 de Mme Maximi à l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8817
+
+## Scrutin n° 8816 — 2026-10-16
+
+l'amendement n° 319 de M. Coquerel à l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8816
+
+## Scrutin n° 8815 — 2026-10-16
+
+l'amendement n° 456 de M. Lahais et les amendements identiques suivants de suppression de l'article 4 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8815
+
+## Scrutin n° 8814 — 2026-10-16
+
+l'amendement n° 3826 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8814
+
+## Scrutin n° 8813 — 2026-10-16
+
+l'amendement n° 263 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8813
+
+## Scrutin n° 8812 — 2026-10-16
+
+l'amendement n° 264 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8812
+
+## Scrutin n° 8811 — 2026-10-16
+
+l'amendement n° 266 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8811
+
+## Scrutin n° 8810 — 2026-10-16
+
+l'amendement n° 1047 de Mme Legrain après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8810
+
+## Scrutin n° 8809 — 2026-10-16
+
+l'amendement n° 356 de M. Le Fur après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8809
+
+## Scrutin n° 8808 — 2026-10-16
+
+l'amendement n° 1280 de Mme d'Intorni après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8808
+
+## Scrutin n° 8807 — 2026-10-16
+
+l'amendement n° 357 de M. Le Fur après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8807
+
+## Scrutin n° 8806 — 2026-10-15
+
+l'amendement n° 636 de M. Renault après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8806
+
+## Scrutin n° 8805 — 2026-10-15
+
+l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8805
+
+## Scrutin n° 8804 — 2026-10-15
+
+l'amendement n° 3188 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8804
+
+## Scrutin n° 8803 — 2026-10-15
+
+l'amendement n° 3186 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8803
+
+## Scrutin n° 8802 — 2026-10-15
+
+l'amendement n° 454 de M. Lahais et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8802
+
+## Scrutin n° 8801 — 2026-10-15
+
+l'amendement n° 3918 de M. Sansu après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8801
+
+## Scrutin n° 8800 — 2026-10-15
+
+l'amendement n° 3190 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8800
+
+## Scrutin n° 8799 — 2026-10-15
+
+l'amendement n° 3189 de M. Castellani après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8799
+
+## Scrutin n° 8798 — 2026-10-15
+
+l'amendement n° 448 de M. Lahais après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8798
+
+## Scrutin n° 8797 — 2026-10-15
+
+l'amendement n° 2517 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8797
+
+## Scrutin n° 8796 — 2026-10-15
+
+l'amendement n° 2789 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8796
+
+## Scrutin n° 8795 — 2026-10-15
+
+l'amendement n° 3810 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8795
+
+## Scrutin n° 8794 — 2026-10-15
+
+l'amendement n° 3811 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8794
+
+## Scrutin n° 8793 — 2026-10-15
+
+l'amendement n° 2448 de Mme Jourdan après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8793
+
+## Scrutin n° 8792 — 2026-10-15
+
+l'amendement n° 3812 (rect.) de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8792
+
+## Scrutin n° 8791 — 2026-10-15
+
+l'amendement n° 299 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8791
+
+## Scrutin n° 8790 — 2026-10-15
+
+l'amendement n° 3787 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8790
+
+## Scrutin n° 8789 — 2026-10-15
+
+l'amendement n° 1310 de M. Isaac-Sibille après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8789
+
+## Scrutin n° 8788 — 2026-10-15
+
+l'amendement n° 2171 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8788
+
+## Scrutin n° 8787 — 2026-10-15
+
+l'amendement n° 1602 de Mme Pirès-Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8787
+
+## Scrutin n° 8786 — 2026-10-15
+
+l'amendement n° 1999 de M. Courbon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8786
+
+## Scrutin n° 8785 — 2026-10-15
+
+l'amendement n° 1798 de M. Mauvieux après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8785
+
+## Scrutin n° 8784 — 2026-10-15
+
+l'amendement n° 206 de M. Ben Cheikh et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8784
+
+## Scrutin n° 8783 — 2026-10-15
+
+l'amendement n° 1769 de M. Rancoule après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8783
+
+## Scrutin n° 8782 — 2026-10-15
+
+l'amendement n° 3462 de Mme Abomangoli après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8782
+
+## Scrutin n° 8781 — 2026-10-15
+
+l'amendement n° 1029 de Mme Maximi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8781
+
+## Scrutin n° 8780 — 2026-10-15
+
+l'amendement n° 1268 de M. Proença et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8780
+
+## Scrutin n° 8779 — 2026-10-15
+
+l'amendement n° 1894 de Mme Mette et les amendements identiques suivants après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8779
+
+## Scrutin n° 8778 — 2026-10-15
+
+l'amendement n° 1603 de Mme Galzy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8778
+
+## Scrutin n° 8777 — 2026-10-15
+
+l'amendement n° 543 de M. Lottiaux après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8777
+
+## Scrutin n° 8776 — 2026-10-15
+
+l'amendement n° 856 de M. Ballard après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8776
+
+## Scrutin n° 8775 — 2026-10-15
+
+l'amendement n° 3339 de Mme Pantel et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8775
+
+## Scrutin n° 8774 — 2026-10-15
+
+l'amendement n° 1524 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8774
+
+## Scrutin n° 8773 — 2026-10-15
+
+l'amendement n° 1495 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8773
+
+## Scrutin n° 8772 — 2026-10-15
+
+l'amendement n° 3184 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8772
+
+## Scrutin n° 8771 — 2026-10-15
+
+l'amendement n° 803 de Mme Pirès Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8771
+
+## Scrutin n° 8770 — 2026-10-15
+
+l'amendement n° 2172 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8770
+
+## Scrutin n° 8769 — 2026-10-15
+
+l'amendement n° 3337 de M. Maurel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8769
+
+## Scrutin n° 8768 — 2026-10-15
+
+l'amendement n° 3594 de Mme Maximi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8768
+
+## Scrutin n° 8767 — 2026-10-15
+
+l'amendement n° 3592 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8767
+
+## Scrutin n° 8766 — 2026-10-15
+
+l'amendement n° 468 de Mme Pirès Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8766
+
+## Scrutin n° 8765 — 2026-10-15
+
+l'amendement n° 1496 (rect.) de M. Le Coq et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8765
+
+## Scrutin n° 8764 — 2026-10-15
+
+l'amendement n° 363 de M. Le Fur et les amendements identiques suivants après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8764
+
+## Scrutin n° 8763 — 2026-10-15
+
+l'amendement n° 3864 de M. Attal et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8763
+
+## Scrutin n° 8762 — 2026-10-15
+
+l'amendement n° 1055 de M. Pilato et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8762
+
+## Scrutin n° 8761 — 2026-10-15
+
+l'amendement n° 3431 de Mme Erodi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8761
+
+## Scrutin n° 8760 — 2026-10-15
+
+l'amendement n° 662 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8760
+
+## Scrutin n° 8759 — 2026-10-15
+
+l'amendement n° 639 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8759
+
+## Scrutin n° 8758 — 2026-10-15
+
+l'amendement n° 1054 de Mme Legrain après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8758
+
+## Scrutin n° 8757 — 2026-10-15
+
+l'amendement n° 935 de M. Falcon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8757
+
+## Scrutin n° 8756 — 2026-10-15
+
+l'amendement n° 931 de M. Falcon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8756
+
+## Scrutin n° 8755 — 2026-10-15
+
+l'amendement n° 3695 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8755
+
+## Scrutin n° 8754 — 2026-10-15
+
+l'amendement n° 2627 de Mme Feld après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8754
+
+## Scrutin n° 8753 — 2026-10-15
+
+l'amendement n° 3650 de M. Attal après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8753
+
+## Scrutin n° 8752 — 2026-10-15
+
+l'amendement n° 226 de M. Ciotti après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8752
+
+## Scrutin n° 8751 — 2026-10-15
+
+l'amendement n° 2211 de M. Verny après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8751
+
+## Scrutin n° 8750 — 2026-10-15
+
+l'amendement n° 3649 de M. Attal après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8750
+
+## Scrutin n° 8749 — 2026-10-15
+
+l'amendement n° 3185 de M. Bruneau après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8749
+
+## Scrutin n° 8748 — 2026-10-15
+
+le sous-amendement n° 3984 de M. Juvin à l'amendement n° 3185 de M. Bruneau après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8748
+
+## Scrutin n° 8747 — 2026-10-15
+
+l'amendement n° 640 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8747
+
+## Scrutin n° 8746 — 2026-10-15
+
+l'amendement n° 661 de M. Renault après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8746
+
+## Scrutin n° 8745 — 2026-10-15
+
+l'amendement n° 638 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8745
+
+## Scrutin n° 8744 — 2026-10-15
+
+l'amendement n° 1045 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8744
+
+## Scrutin n° 8743 — 2026-10-15
+
+l'amendement n° 637 (rect.) de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8743
+
+## Scrutin n° 8742 — 2026-10-15
+
+l'amendement n° 1270 de Mme d'Intorni après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8742
+
+## Scrutin n° 8741 — 2026-10-15
+
+l'amendement n° 1053 de Mme Legrain et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8741
+
+## Scrutin n° 8740 — 2026-10-15
+
+l'amendement n° 2247 de Mme Rixain après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8740
+
+## Scrutin n° 8739 — 2026-10-15
+
+le sous-amendement n° 3981 de Mme Coggia à l'amendement n° 2564 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8739
+
+## Scrutin n° 8738 — 2026-10-15
+
+l'amendement n° 1 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 3 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8738
+
+## Scrutin n° 8737 — 2026-10-15
+
+l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8737
+
+## Scrutin n° 8736 — 2026-10-15
+
+l'amendement n° 988 de M. Tryzna à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8736
+
+## Scrutin n° 8735 — 2026-10-15
+
+l'amendement n° 2847 de M. Vuibert et l'amendement identique suivant à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8735
+
+## Scrutin n° 8734 — 2026-10-15
+
+l'amendement n° 3779 de M.Mattei à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8734
+
+## Scrutin n° 8733 — 2026-10-15
+
+l'amendement n° 143 de M. Arnaud Bonnet et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8733
+
+## Scrutin n° 8732 — 2026-10-14
+
+l'amendement n° 3919 de M. Sansu à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8732
+
+## Scrutin n° 8731 — 2026-10-14
+
+l'amendement n° 2786 (rect.) de M. Arnaud Bonnet à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8731
+
+## Scrutin n° 8730 — 2026-10-14
+
+l'amendement n° 316 de M. Coquerel à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8730
+
+## Scrutin n° 8729 — 2026-10-14
+
+l'amendement n° 1300 de M. Le Fur et l'amendement identiques suivant à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8729
+
+## Scrutin n° 8728 — 2026-10-14
+
+l'amendement n° 405 de M. Liger et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8728
+
+## Scrutin n° 8727 — 2026-10-14
+
+l'amendement n° 502 de Mme Mercier et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8727
+
+## Scrutin n° 8726 — 2026-10-14
+
+l'amendement n° 2609 de M. Jean-René Cazeneuve après l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8726
+
+## Scrutin n° 8725 — 2026-10-14
+
+l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8725
+
+## Scrutin n° 8724 — 2026-10-14
+
+l'amendement n° 2218 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8724
+
+## Scrutin n° 8723 — 2026-10-14
+
+l'amendement n° 2217 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8723
+
+## Scrutin n° 8722 — 2026-10-14
+
+l'amendement n° 2210 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8722
+
+## Scrutin n° 8721 — 2026-10-14
+
+l'amendement n° 965 de Mme Maximi à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8721
+
+## Scrutin n° 8720 — 2026-10-14
+
+l'amendement n° 963 de Mme Cathala à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8720
+
+## Scrutin n° 8719 — 2026-10-14
+
+l'amendement n° 966 de M. Coquerel à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8719
+
+## Scrutin n° 8718 — 2026-10-14
+
+l'amendement n° 964 de M. Le Coq à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8718
+
+## Scrutin n° 8717 — 2026-10-14
+
+l'amendement n° 962 de M. Bilongo à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8717
+
+## Scrutin n° 8716 — 2026-10-14
+
+l'amendement n° 960 de M. Bilongo à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8716
+
+## Scrutin n° 8715 — 2026-10-14
+
+l'amendement n° 3694 de M. Jean-Philippe Tanguy à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8715
+
+## Scrutin n° 8714 — 2026-10-14
+
+l'amendement n° 2638 de M. Pierre Cazeneuve à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8714
+
+## Scrutin n° 8713 — 2026-10-14
+
+l'amendement n° 959 de M. Bompard à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8713
+
+## Scrutin n° 8712 — 2026-10-14
+
+l'amendement n° 3955 de M. Sansu à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8712
+
+## Scrutin n° 8711 — 2026-10-14
+
+l'amendement n° 957 de M. Le Coq à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8711
+
+## Scrutin n° 8710 — 2026-10-14
+
+l'amendement n° 954 de M. Le Gall à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8710
+
+## Scrutin n° 8709 — 2026-10-14
+
+l'amendement n° 746 de M. Jean-Philippe Tanguy à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8709
+
+## Scrutin n° 8708 — 2026-10-14
+
+l'amendement n° 312 de M. Le Coq et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8708
+
+## Scrutin n° 8707 — 2026-10-13
+
+la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8707
+
+## Scrutin n° 8706 — 2026-10-13
+
+la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8706
+
+## Scrutin n° 8705 — 2026-10-13
+
+la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8705
+
+## Scrutin n° 8704 — 2026-10-13
+
+l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8704
+
+## Scrutin n° 8703 — 2026-10-13
+
+l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8703
+
+## Scrutin n° 8702 — 2026-10-13
+
+l'amendement n° 4 (rect.) de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8702
+
+## Scrutin n° 8701 — 2026-10-13
+
+l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8701
+
+## Scrutin n° 8700 — 2026-10-13
+
+l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8700
+
+## Scrutin n° 8699 — 2026-10-13
+
+l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8699
+
+## Scrutin n° 8698 — 2026-10-13
+
+l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8698
+
+## Scrutin n° 8697 — 2026-10-13
+
+l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8697
+
+## Scrutin n° 8696 — 2026-10-12
+
+l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8696
+
+## Scrutin n° 8695 — 2026-10-12
+
+l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8695
+
+## Scrutin n° 8694 — 2026-10-12
+
+l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8694
+
+## Scrutin n° 8693 — 2026-10-12
+
+l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8693
+
+## Scrutin n° 8692 — 2026-10-12
+
+l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8692
+
+## Scrutin n° 8691 — 2026-10-12
+
+l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8691
+
+## Scrutin n° 8690 — 2026-10-12
+
+l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8690
+
+## Scrutin n° 8689 — 2026-10-12
+
+l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8689
+
+## Scrutin n° 8688 — 2026-10-12
+
+l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8688
+
+## Scrutin n° 8687 — 2026-10-12
+
+l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8687
+
+## Scrutin n° 8686 — 2026-10-12
+
+l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8686
+
+## Scrutin n° 8685 — 2026-10-12
+
+l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8685
+
+## Scrutin n° 8684 — 2026-10-12
+
+l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8684
+
+## Scrutin n° 8683 — 2026-10-12
+
+l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8683
+
+## Scrutin n° 8682 — 2026-10-12
+
+l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8682
+
+## Scrutin n° 8681 — 2026-10-12
+
+l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8681
+
+## Scrutin n° 8680 — 2026-10-12
+
+l'amendement n° 22 de M. Taupiac à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8680
+
+## Scrutin n° 8679 — 2026-10-12
+
+l'amendement n° 36 de M. Monnet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8679
+
+## Scrutin n° 8678 — 2026-10-12
+
+l'amendement n° 10 (rect.) de Mme Dubré-Chirat et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8678
+
+## Scrutin n° 8677 — 2026-10-12
+
+l'amendement n° 74 de M. Gernigon à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8677
+
+## Scrutin n° 8676 — 2026-10-12
+
+l'amendement n° 42 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8676
+
+## Scrutin n° 8675 — 2026-10-12
+
+l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8675
+
+## Scrutin n° 8674 — 2026-10-12
+
+l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8674
+
+## Scrutin n° 8673 — 2026-10-12
+
+l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8673
 
 ## Scrutin n° 8672 — 2026-10-09
 
@@ -412,1443 +2052,3 @@ l'amendement n° 722 de Mme Faucillon et l'amendement identique suivant à l'art
 Résultat officiel : l'Assemblée nationale a adopté
 
 Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8622
-
-## Scrutin n° 8621 — 2026-10-08
-
-l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8621
-
-## Scrutin n° 8620 — 2026-10-08
-
-le sous-amendement n° 48 de M. Sitzenstuhl à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8620
-
-## Scrutin n° 8619 — 2026-10-08
-
-le sous-amendement n° 36 de Mme Belluco à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8619
-
-## Scrutin n° 8618 — 2026-10-08
-
-l'amendement n° 1 de M. Meurin à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8618
-
-## Scrutin n° 8617 — 2026-10-08
-
-l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8617
-
-## Scrutin n° 8616 — 2026-10-08
-
-le sous-amendement n° 35 de Mme Belluco à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8616
-
-## Scrutin n° 8615 — 2026-10-08
-
-le sous-amendement n° 47 de M. Sitzenstuhl à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8615
-
-## Scrutin n° 8614 — 2026-10-08
-
-l'amendement n° 29 de M. Maillard à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8614
-
-## Scrutin n° 8613 — 2026-10-08
-
-l'amendement n° 7 de Mme Belluco de suppression de l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8613
-
-## Scrutin n° 8612 — 2026-10-08
-
-la proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Epée et de Zéna M'Déré (article 34-1 de la Constitution).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8612
-
-## Scrutin n° 8611 — 2026-10-08
-
-la proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8611
-
-## Scrutin n° 8610 — 2026-10-08
-
-la proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8610
-
-## Scrutin n° 8609 — 2026-10-08
-
-la proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8609
-
-## Scrutin n° 8608 — 2026-10-07
-
-l'amendement n° 738 de Mme Cathala après l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8608
-
-## Scrutin n° 8607 — 2026-10-07
-
-l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8607
-
-## Scrutin n° 8606 — 2026-10-07
-
-l'amendement n° 1135 de Mme Firmin Le Bodo à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8606
-
-## Scrutin n° 8605 — 2026-10-07
-
-l'amendement n° 509 de Mme Garin et l'amendement identique suivant à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8605
-
-## Scrutin n° 8604 — 2026-10-07
-
-l'amendement n° 475 de Mme Brulebois à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8604
-
-## Scrutin n° 8603 — 2026-10-07
-
-l'amendement n° 629 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8603
-
-## Scrutin n° 8602 — 2026-10-07
-
-l'amendement n° 542 de Mme Leboucher après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8602
-
-## Scrutin n° 8601 — 2026-10-07
-
-l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8601
-
-## Scrutin n° 8600 — 2026-10-07
-
-l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8600
-
-## Scrutin n° 8599 — 2026-10-07
-
-l'amendement n° 1198 du Gouvernement à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8599
-
-## Scrutin n° 8598 — 2026-10-07
-
-l'amendement n° 614 de Mme Cathala à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8598
-
-## Scrutin n° 8597 — 2026-10-07
-
-l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8597
-
-## Scrutin n° 8596 — 2026-10-07
-
-l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8596
-
-## Scrutin n° 8595 — 2026-10-07
-
-l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8595
-
-## Scrutin n° 8594 — 2026-10-07
-
-l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8594
-
-## Scrutin n° 8593 — 2026-10-07
-
-l'amendement n° 832 de Mme Lalanne et l'amendement identique suivant après l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8593
-
-## Scrutin n° 8592 — 2026-10-07
-
-l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8592
-
-## Scrutin n° 8591 — 2026-10-07
-
-l'amendement n° 459 de Mme Autain à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8591
-
-## Scrutin n° 8590 — 2026-10-07
-
-l'amendement n° 469 de Mme Brulebois à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8590
-
-## Scrutin n° 8589 — 2026-10-07
-
-l'amendement n° 521 de Mme Leboucher à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8589
-
-## Scrutin n° 8588 — 2026-10-07
-
-l'amendement n° 958 de Mme Cathala à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8588
-
-## Scrutin n° 8587 — 2026-10-07
-
-l'article 39 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8587
-
-## Scrutin n° 8586 — 2026-10-07
-
-l'amendement n° 387 de Mme Erodi à l'article 39 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8586
-
-## Scrutin n° 8585 — 2026-10-07
-
-l'article 38 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8585
-
-## Scrutin n° 8584 — 2026-10-07
-
-l'article 37 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8584
-
-## Scrutin n° 8583 — 2026-10-07
-
-l'amendement n° 1099 de Mme Leboucher après l'article 35 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8583
-
-## Scrutin n° 8582 — 2026-10-07
-
-l'amendement n° 1095 de Mme Legrain et l'amendement identique suivant de rétablissement de l'article 35 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8582
-
-## Scrutin n° 8581 — 2026-10-07
-
-l'amendement n° 408 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8581
-
-## Scrutin n° 8580 — 2026-10-07
-
-l'amendement n° 402 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8580
-
-## Scrutin n° 8579 — 2026-10-07
-
-l'amendement n° 381 de Mme Cathala après l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8579
-
-## Scrutin n° 8578 — 2026-10-07
-
-l'amendement n° 1159 de Mme Ibled à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8578
-
-## Scrutin n° 8577 — 2026-10-07
-
-l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8577
-
-## Scrutin n° 8576 — 2026-10-07
-
-l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8576
-
-## Scrutin n° 8575 — 2026-10-07
-
-l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8575
-
-## Scrutin n° 8574 — 2026-10-07
-
-l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8574
-
-## Scrutin n° 8573 — 2026-10-07
-
-l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8573
-
-## Scrutin n° 8572 — 2026-10-07
-
-l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8572
-
-## Scrutin n° 8571 — 2026-10-07
-
-l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8571
-
-## Scrutin n° 8570 — 2026-10-07
-
-l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8570
-
-## Scrutin n° 8569 — 2026-10-07
-
-l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8569
-
-## Scrutin n° 8568 — 2026-10-07
-
-l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8568
-
-## Scrutin n° 8567 — 2026-10-07
-
-l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8567
-
-## Scrutin n° 8566 — 2026-10-07
-
-l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8566
-
-## Scrutin n° 8565 — 2026-10-07
-
-l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8565
-
-## Scrutin n° 8564 — 2026-10-07
-
-l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8564
-
-## Scrutin n° 8563 — 2026-10-07
-
-l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8563
-
-## Scrutin n° 8562 — 2026-10-07
-
-l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8562
-
-## Scrutin n° 8561 — 2026-10-07
-
-l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8561
-
-## Scrutin n° 8560 — 2026-10-06
-
-l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8560
-
-## Scrutin n° 8559 — 2026-10-06
-
-l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8559
-
-## Scrutin n° 8558 — 2026-10-06
-
-le sous-amendement n° 1323 de Mme Bannier à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8558
-
-## Scrutin n° 8557 — 2026-10-06
-
-le sous-amendement n° 1324 de Mme Cathala à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8557
-
-## Scrutin n° 8556 — 2026-10-06
-
-le sous-amendement n° 1325 de Mme Legrain à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8556
-
-## Scrutin n° 8555 — 2026-10-06
-
-le sous-amendement n° 1316 de Mme Yadan à l'amendement n° 1146 (rect.) de M. Balanant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8555
-
-## Scrutin n° 8554 — 2026-10-06
-
-l'amendement n° 1089 de Mme Cathala et l'amendement identique suivant à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8554
-
-## Scrutin n° 8553 — 2026-10-06
-
-l'amendement n° 1076 de Mme Cathala à l'article 30 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8553
-
-## Scrutin n° 8552 — 2026-10-06
-
-l'article 20 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8552
-
-## Scrutin n° 8551 — 2026-10-06
-
-l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8551
-
-## Scrutin n° 8550 — 2026-10-06
-
-l'amendement n° 715 de Mme Blanc à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8550
-
-## Scrutin n° 8549 — 2026-10-06
-
-l'amendement n° 1245 de M. Arnaud Bonnet à l'article 19 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8549
-
-## Scrutin n° 8548 — 2026-10-06
-
-l'amendement n° 235 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8548
-
-## Scrutin n° 8547 — 2026-10-06
-
-l'amendement n° 237 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8547
-
-## Scrutin n° 8546 — 2026-10-06
-
-l'amendement n° 234 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8546
-
-## Scrutin n° 8545 — 2026-10-06
-
-l'amendement n° 236 de M. Ménagé après l'article 18 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8545
-
-## Scrutin n° 8544 — 2026-10-06
-
-l'amendement n° 734 de Mme de Pélichy après l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8544
-
-## Scrutin n° 8543 — 2026-10-06
-
-l'article 18 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8543
-
-## Scrutin n° 8542 — 2026-10-06
-
-l'amendement n° 728 de Mme de Pélichy et les amendements identiques suivants après l'article 17 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8542
-
-## Scrutin n° 8541 — 2026-10-06
-
-l'article 10 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8541
-
-## Scrutin n° 8540 — 2026-10-06
-
-l'amendement n° 1273 du Gouvernement à l'article 10 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8540
-
-## Scrutin n° 8539 — 2026-10-06
-
-l'amendement n° 1169 de Mme Coggia après l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8539
-
-## Scrutin n° 8538 — 2026-10-06
-
-l'amendement n° 1170 de Mme Coggia après l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8538
-
-## Scrutin n° 8537 — 2026-10-06
-
-l'amendement n° 1030 de Mme Roullaud à l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8537
-
-## Scrutin n° 8536 — 2026-10-06
-
-l'amendement n° 1055 du Gouvernement de suppression de l'article 3 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8536
-
-## Scrutin n° 8535 — 2026-10-05
-
-l'amendement n° 270 de M. Naillet après l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8535
-
-## Scrutin n° 8534 — 2026-10-05
-
-l'amendement n° 1028 de Mme Roullaud après l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8534
-
-## Scrutin n° 8533 — 2026-10-05
-
-l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8533
-
-## Scrutin n° 8532 — 2026-10-05
-
-l'amendement n° 367 de Mme Leboucher à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8532
-
-## Scrutin n° 8531 — 2026-10-05
-
-l'amendement n° 344 de Mme Cathala à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8531
-
-## Scrutin n° 8530 — 2026-10-05
-
-l'amendement n° 1078 de M. Peytavie à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8530
-
-## Scrutin n° 8529 — 2026-10-05
-
-l'amendement n° 1096 de Mme Miller et l'amendement identique suivant à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8529
-
-## Scrutin n° 8528 — 2026-10-05
-
-l'amendement n° 1019 de M. Dessigny à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8528
-
-## Scrutin n° 8527 — 2026-10-05
-
-l'amendement n° 336 de Mme Cathala à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8527
-
-## Scrutin n° 8526 — 2026-10-05
-
-l'amendement n° 1018 de Mme Roullaud à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8526
-
-## Scrutin n° 8525 — 2026-10-05
-
-l'amendement n° 1215 du Gouvernement à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8525
-
-## Scrutin n° 8524 — 2026-10-05
-
-l'article 17 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8524
-
-## Scrutin n° 8523 — 2026-10-05
-
-l'amendement n° 714 de Mme Blanc après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8523
-
-## Scrutin n° 8522 — 2026-10-05
-
-l'amendement n° 243 de M. Ménagé après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8522
-
-## Scrutin n° 8521 — 2026-10-05
-
-l'amendement n° 412 de Mme Godard après l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8521
-
-## Scrutin n° 8520 — 2026-10-05
-
-l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8520
-
-## Scrutin n° 8519 — 2026-10-05
-
-l'amendement n° 16 de Mme Capdevielle à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8519
-
-## Scrutin n° 8518 — 2026-10-05
-
-l'amendement n° 377 de Mme Autain et les amendements identiques suivants à l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8518
-
-## Scrutin n° 8517 — 2026-10-05
-
-l'amendement n° 418 de Mme Cathala et l'amendement identique suivant de suppression de l'article 16 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8517
-
-## Scrutin n° 8516 — 2026-10-05
-
-l'amendement n° 1067 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8516
-
-## Scrutin n° 8515 — 2026-10-05
-
-l'amendement n° 1066 du Gouvernement et l'amendement identique suivant après l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8515
-
-## Scrutin n° 8514 — 2026-10-05
-
-l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8514
-
-## Scrutin n° 8513 — 2026-10-05
-
-l'amendement n° 414 de Mme Cathala et l'amendement identique suivant de suppression de l'article 15 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8513
-
-## Scrutin n° 8512 — 2026-10-05
-
-l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8512
-
-## Scrutin n° 8511 — 2026-10-05
-
-l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8511
-
-## Scrutin n° 8510 — 2026-10-05
-
-l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8510
-
-## Scrutin n° 8509 — 2026-10-02
-
-l'amendement n° 1041 du Gouvernement et l'amendement identique suivant à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8509
-
-## Scrutin n° 8508 — 2026-10-02
-
-l'amendement n° 1075 (rect.) de Mme Garin à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8508
-
-## Scrutin n° 8507 — 2026-10-02
-
-l'amendement n° 1036 de Mme Capdevielle à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8507
-
-## Scrutin n° 8506 — 2026-10-02
-
-l'article 13 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8506
-
-## Scrutin n° 8505 — 2026-10-02
-
-l'amendement n° 403 de Mme Cathala après l'article 12 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8505
-
-## Scrutin n° 8504 — 2026-10-02
-
-l'article 12 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8504
-
-## Scrutin n° 8503 — 2026-10-02
-
-l'amendement n° 890 (rect.) de Mme Garin à l'article 12 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8503
-
-## Scrutin n° 8502 — 2026-10-02
-
-l'amendement n° 398 de Mme Legrain à l'article 12 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8502
-
-## Scrutin n° 8501 — 2026-10-02
-
-l'amendement n° 928 de Mme Garin à l'article 12 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8501
-
-## Scrutin n° 8500 — 2026-10-02
-
-l'amendement n° 721 de Mme de Pélichy après l'article 11 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8500
-
-## Scrutin n° 8499 — 2026-10-02
-
-l'article 11 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8499
-
-## Scrutin n° 8498 — 2026-10-02
-
-l'article 11 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8498
-
-## Scrutin n° 8497 — 2026-10-02
-
-l'amendement n° 945 de Mme Maud Petit à l'article 11 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8497
-
-## Scrutin n° 8496 — 2026-10-02
-
-l'amendement n° 1049 de Mme Firmin Le Bodo à l'article 11 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8496
-
-## Scrutin n° 8495 — 2026-10-02
-
-l'amendement n° 571 de Mme Faucillon à l'article 11 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8495
-
-## Scrutin n° 8494 — 2026-10-02
-
-l'article 9 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8494
-
-## Scrutin n° 8493 — 2026-10-02
-
-l'article 8 ter de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8493
-
-## Scrutin n° 8492 — 2026-10-02
-
-l'amendement n° 930 de M. Croizier après l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8492
-
-## Scrutin n° 8491 — 2026-10-02
-
-l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8491
-
-## Scrutin n° 8490 — 2026-10-02
-
-l'amendement n° 378 de Mme Obono à l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8490
-
-## Scrutin n° 8489 — 2026-10-02
-
-l'amendement n° 700 de Mme Rixain à l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8489
-
-## Scrutin n° 8488 — 2026-10-02
-
-l'amendement n° 707 de Mme Blanc à l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8488
-
-## Scrutin n° 8487 — 2026-10-02
-
-l'amendement n° 1039 de Mme Roullaud à l'article 8 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8487
-
-## Scrutin n° 8486 — 2026-10-02
-
-l'amendement n° 229 de M. Ménagé à l'article 7 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8486
-
-## Scrutin n° 8485 — 2026-10-02
-
-l'amendement n° 1010 de Mme Legrain après l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8485
-
-## Scrutin n° 8484 — 2026-10-02
-
-l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8484
-
-## Scrutin n° 8483 — 2026-10-02
-
-l'amendement n° 1048 de Mme Firmin Le Bodo à l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8483
-
-## Scrutin n° 8482 — 2026-10-02
-
-l'amendement n° 170 de Mme Capdevielle à l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8482
-
-## Scrutin n° 8481 — 2026-10-02
-
-l'amendement n° 501 de Mme Autain à l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8481
-
-## Scrutin n° 8480 — 2026-10-02
-
-l'amendement n° 1272 (rect.) du Gouvernement à l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8480
-
-## Scrutin n° 8479 — 2026-10-02
-
-l'amendement n° 1047 de Mme Firmin Le Bodo à l'article 7 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8479
-
-## Scrutin n° 8478 — 2026-10-02
-
-l'amendement n° 1038 de Mme de Pélichy après l'article 4 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8478
-
-## Scrutin n° 8477 — 2026-10-02
-
-l'article 4 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8477
-
-## Scrutin n° 8476 — 2026-10-02
-
-l'amendement n° 366 de Mme Leboucher après l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8476
-
-## Scrutin n° 8475 — 2026-10-02
-
-l'amendement n° 364 de Mme Leboucher après l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8475
-
-## Scrutin n° 8474 — 2026-10-02
-
-l'amendement n° 1024 de Mme Loir après l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8474
-
-## Scrutin n° 8473 — 2026-10-02
-
-l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8473
-
-## Scrutin n° 8472 — 2026-10-02
-
-l'amendement n° 1056 du Gouvernement à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8472
-
-## Scrutin n° 8471 — 2026-10-02
-
-l'amendement n° 227 de M. Ménagé à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8471
-
-## Scrutin n° 8470 — 2026-10-02
-
-l'amendement n° 182 de Mme Youssouffa à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8470
-
-## Scrutin n° 8469 — 2026-10-02
-
-l'amendement n° 174 de Mme Youssouffa à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8469
-
-## Scrutin n° 8468 — 2026-10-02
-
-l'amendement n° 34 de Mme Hadizadeh à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8468
-
-## Scrutin n° 8467 — 2026-10-02
-
-l'amendement n° 1310 du Gouvernement à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8467
-
-## Scrutin n° 8466 — 2026-10-02
-
-l'amendement n° 2 de M. Ménagé à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8466
-
-## Scrutin n° 8465 — 2026-10-02
-
-l'amendement n° 361 de Mme Cathala à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8465
-
-## Scrutin n° 8464 — 2026-10-02
-
-l'amendement n° 3 de M. Ménagé à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8464
-
-## Scrutin n° 8463 — 2026-10-02
-
-l'amendement n° 140 de Mme Mercier à l'article 4 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8463
-
-## Scrutin n° 8462 — 2026-10-02
-
-l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8462
-
-## Scrutin n° 8461 — 2026-10-02
-
-l'amendement n° 338 de Mme Leboucher à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8461
-
-## Scrutin n° 8460 — 2026-10-02
-
-l'amendement n° 352 de Mme Amiot à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8460
-
-## Scrutin n° 8459 — 2026-10-02
-
-l'amendement n° 1178 de Mme Yadan à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8459
-
-## Scrutin n° 8458 — 2026-10-02
-
-l'amendement n° 342 (rect.) de Mme Leboucher à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8458
-
-## Scrutin n° 8457 — 2026-10-02
-
-l'amendement n° 343 de Mme Leboucher à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8457
-
-## Scrutin n° 8456 — 2026-10-02
-
-l'amendement n° 339 de Mme Leboucher à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8456
-
-## Scrutin n° 8455 — 2026-10-02
-
-l'amendement n° 226 de M. Ménagé à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8455
-
-## Scrutin n° 8454 — 2026-10-02
-
-l'amendement n° 1168 de Mme Coggia à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8454
-
-## Scrutin n° 8453 — 2026-10-02
-
-l'amendement n° 337 de Mme Leboucher à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8453
-
-## Scrutin n° 8452 — 2026-10-02
-
-l'amendement n° 345 de Mme Cathala à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8452
-
-## Scrutin n° 8451 — 2026-10-02
-
-l'amendement n° 289 de Mme Legrain à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8451
-
-## Scrutin n° 8450 — 2026-10-02
-
-l'amendement n° 354 de Mme Legrain à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8450
-
-## Scrutin n° 8449 — 2026-10-02
-
-l'amendement n° 346 (rect.) de Mme Cathala à l'article 2 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8449
-
-## Scrutin n° 8448 — 2026-10-02
-
-l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8448
-
-## Scrutin n° 8447 — 2026-10-02
-
-l'amendement n° 1218 de Mme Sandrine Rousseau à l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8447
-
-## Scrutin n° 8446 — 2026-10-02
-
-l'amendement n° 895 de Mme Thiébault-Martinez à l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8446
-
-## Scrutin n° 8445 — 2026-10-02
-
-le sous-amendement n° 1275 de Mme Sandrine Rousseau à l'amendement n° 895 de Mme Thiébault-Martinez à l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8445
-
-## Scrutin n° 8444 — 2026-10-02
-
-l'amendement n° 532 de Mme Autain à l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8444
-
-## Scrutin n° 8443 — 2026-10-02
-
-l'amendement n° 778 de Mme Simonnet à l'article premier de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8443
-
-## Scrutin n° 8442 — 2026-10-02
-
-l'amendement n° 247 de Mme Colin-Oesterlé et les amendements identiques suivants de suppression de l'article 5 bis (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8442
