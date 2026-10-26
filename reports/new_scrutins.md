@@ -1,9 +1,1769 @@
 # Scrutins récents à examiner
 
-Rapport généré le 2026-10-19T13:00:59+00:00.
+Rapport généré le 2026-10-26T14:10:54+00:00.
 Fenêtre contrôlée : 10 derniers jours.
 
 Ces scrutins sont détectés automatiquement, mais ne sont **pas publiés** avant validation de leur intérêt éditorial, de leur thème et de leur titre pédagogique.
+
+## Scrutin n° 9097 — 2026-10-23
+
+la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9097
+
+## Scrutin n° 9096 — 2026-10-23
+
+l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9096
+
+## Scrutin n° 9095 — 2026-10-23
+
+l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9095
+
+## Scrutin n° 9094 — 2026-10-23
+
+l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9094
+
+## Scrutin n° 9093 — 2026-10-23
+
+l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9093
+
+## Scrutin n° 9092 — 2026-10-23
+
+l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9092
+
+## Scrutin n° 9091 — 2026-10-23
+
+l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9091
+
+## Scrutin n° 9090 — 2026-10-23
+
+l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9090
+
+## Scrutin n° 9089 — 2026-10-23
+
+l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9089
+
+## Scrutin n° 9088 — 2026-10-23
+
+l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9088
+
+## Scrutin n° 9087 — 2026-10-23
+
+l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9087
+
+## Scrutin n° 9086 — 2026-10-23
+
+l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9086
+
+## Scrutin n° 9085 — 2026-10-23
+
+l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9085
+
+## Scrutin n° 9084 — 2026-10-23
+
+l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9084
+
+## Scrutin n° 9083 — 2026-10-23
+
+l'amendement n° 719 de Mme Hamdane et l'amendement identique suivant de suppression de l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9083
+
+## Scrutin n° 9082 — 2026-10-23
+
+l'amendement n° 651 de M. Monnet et l'amendement identique suivant après l'article 14 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9082
+
+## Scrutin n° 9081 — 2026-10-23
+
+l'amendement n° 636 de M. Dive et les amendements identiques suivants après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9081
+
+## Scrutin n° 9080 — 2026-10-23
+
+l'amendement n° 293 de M. Loubet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9080
+
+## Scrutin n° 9079 — 2026-10-23
+
+l'amendement n° 865 de M. Dessigny après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9079
+
+## Scrutin n° 9078 — 2026-10-23
+
+l'amendement n° 1454 de M. Clouet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9078
+
+## Scrutin n° 9077 — 2026-10-23
+
+l'amendement n° 6 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9077
+
+## Scrutin n° 9076 — 2026-10-23
+
+l'amendement n° 714 de M. Maudet après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9076
+
+## Scrutin n° 9075 — 2026-10-23
+
+l'amendement n° 103 de Mme Runel et les amendements identiques suivants après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9075
+
+## Scrutin n° 9074 — 2026-10-23
+
+l'amendement n° 2783 de M. Davi après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9074
+
+## Scrutin n° 9073 — 2026-10-23
+
+l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9073
+
+## Scrutin n° 9072 — 2026-10-23
+
+l'amendement n° 1448 de Mme Hamdane à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9072
+
+## Scrutin n° 9071 — 2026-10-23
+
+l'amendement n° 1449 de M. Clouet à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9071
+
+## Scrutin n° 9070 — 2026-10-23
+
+l'amendement n° 1602 de M. Clouet et l'amendement identique suivant à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9070
+
+## Scrutin n° 9069 — 2026-10-23
+
+l'amendement n° 1442 de Mme Belouassa-Cherifi à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9069
+
+## Scrutin n° 9068 — 2026-10-23
+
+l'amendement n° 1438 de M. Maudet à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9068
+
+## Scrutin n° 9067 — 2026-10-23
+
+l'amendement n° 712 de Mme Belouassa-Cherifi et les amendements identiques suivants à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9067
+
+## Scrutin n° 9066 — 2026-10-22
+
+l'amendement n° 1847 de M. Davi à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9066
+
+## Scrutin n° 9065 — 2026-10-22
+
+l'amendement n° 855 de Mme Mélin et les amendements identiques suivants de suppression de l'article 10 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9065
+
+## Scrutin n° 9064 — 2026-10-22
+
+l'amendement n° 4 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 9 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9064
+
+## Scrutin n° 9063 — 2026-10-22
+
+l'amendement n° 2127 de Mme Mélin après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9063
+
+## Scrutin n° 9062 — 2026-10-22
+
+l'amendement n° 78 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9062
+
+## Scrutin n° 9061 — 2026-10-22
+
+l'amendement n° 74 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9061
+
+## Scrutin n° 9060 — 2026-10-22
+
+l'amendement n° 75 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9060
+
+## Scrutin n° 9059 — 2026-10-22
+
+l'amendement n° 1407 de M. Clouet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9059
+
+## Scrutin n° 9058 — 2026-10-22
+
+l'amendement n° 2716 de M. Davi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9058
+
+## Scrutin n° 9057 — 2026-10-22
+
+l'amendement n° 2705 de M. Davi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9057
+
+## Scrutin n° 9056 — 2026-10-22
+
+l'amendement n° 1405 de M. Maudet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9056
+
+## Scrutin n° 9055 — 2026-10-22
+
+l'amendement n° 1408 de M. Maudet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9055
+
+## Scrutin n° 9054 — 2026-10-22
+
+l'amendement n° 1536 de M. Thierry après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9054
+
+## Scrutin n° 9053 — 2026-10-22
+
+l'amendement n° 2224 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9053
+
+## Scrutin n° 9052 — 2026-10-22
+
+l'amendement n° 89 de Mme Runel et les amendements identiques suivants après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9052
+
+## Scrutin n° 9051 — 2026-10-22
+
+l'amendement n° 525 de Mme Bellay après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9051
+
+## Scrutin n° 9050 — 2026-10-22
+
+l'amendement n° 90 de Mme Runel et les amendements identiques suivants après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9050
+
+## Scrutin n° 9049 — 2026-10-22
+
+l'amendement n° 1403 de M. Maudet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9049
+
+## Scrutin n° 9048 — 2026-10-22
+
+l'amendement n° 1402 de Mme Hamdane et l'amendement identique suivant après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9048
+
+## Scrutin n° 9047 — 2026-10-22
+
+l'amendement n° 1669 de M. Taupiac après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9047
+
+## Scrutin n° 9046 — 2026-10-22
+
+l'amendement n° 1404 de Mme Belouassa-Cherifi et les amendements identiques suivants après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9046
+
+## Scrutin n° 9045 — 2026-10-22
+
+l'amendement n° 1787 de M. Maudet et l'amendement identique suivant après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9045
+
+## Scrutin n° 9044 — 2026-10-22
+
+l'amendement n° 2030 de Mme Sandrine Rousseau après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9044
+
+## Scrutin n° 9043 — 2026-10-22
+
+l'amendement n° 1526 de M. Thierry après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9043
+
+## Scrutin n° 9042 — 2026-10-22
+
+l'amendement n° 807 de Mme Sebaihi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9042
+
+## Scrutin n° 9041 — 2026-10-22
+
+l'amendement n° 1557 de M. Thierry après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9041
+
+## Scrutin n° 9040 — 2026-10-22
+
+l'amendement n° 87 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9040
+
+## Scrutin n° 9039 — 2026-10-22
+
+l'amendement n° 83 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9039
+
+## Scrutin n° 9038 — 2026-10-22
+
+l'amendement n° 81 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9038
+
+## Scrutin n° 9037 — 2026-10-22
+
+l'amendement n° 73 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9037
+
+## Scrutin n° 9036 — 2026-10-22
+
+l'amendement n° 806 de Mme Sebaihi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9036
+
+## Scrutin n° 9035 — 2026-10-22
+
+l'amendement n° 2205 de M. Lottiaux après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9035
+
+## Scrutin n° 9034 — 2026-10-22
+
+l'amendement n° 568 de M. Raux après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9034
+
+## Scrutin n° 9033 — 2026-10-22
+
+l'amendement n° 3 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9033
+
+## Scrutin n° 9032 — 2026-10-22
+
+l'amendement n° 1356 de Mme Buffet et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9032
+
+## Scrutin n° 9031 — 2026-10-22
+
+l'amendement n° 922 de Mme Gruet et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9031
+
+## Scrutin n° 9030 — 2026-10-22
+
+l'amendement n° 3153 de Mme Vidal et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9030
+
+## Scrutin n° 9029 — 2026-10-22
+
+l'amendement n° 3152 de Mme Vidal et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9029
+
+## Scrutin n° 9028 — 2026-10-22
+
+l'amendement n° 707 de M. Tavel après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9028
+
+## Scrutin n° 9027 — 2026-10-22
+
+l'amendement n° 1398 de Mme Belouassa-Cherifi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9027
+
+## Scrutin n° 9026 — 2026-10-22
+
+l'amendement n° 1648 de M. Damien Girard après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9026
+
+## Scrutin n° 9025 — 2026-10-22
+
+l'amendement n° 709 de Mme Hamdane après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9025
+
+## Scrutin n° 9024 — 2026-10-22
+
+l'amendement n° 706 de M. Maudet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9024
+
+## Scrutin n° 9023 — 2026-10-22
+
+l'amendement n° 1647 de M. Damien Girard après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9023
+
+## Scrutin n° 9022 — 2026-10-22
+
+l'amendement n° 64 de Mme Runel et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9022
+
+## Scrutin n° 9021 — 2026-10-22
+
+l'amendement n° 2823 de Mme Olivia Grégoire après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9021
+
+## Scrutin n° 9020 — 2026-10-22
+
+l'amendement n° 839 de Mme Abadie-Amiel et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9020
+
+## Scrutin n° 9019 — 2026-10-22
+
+l'amendement n° 3143 de M. Valletoux après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9019
+
+## Scrutin n° 9018 — 2026-10-22
+
+l'amendement n° 471 de M. Bénard et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9018
+
+## Scrutin n° 9017 — 2026-10-22
+
+l'amendement n° 426 de M. Corneloup et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9017
+
+## Scrutin n° 9016 — 2026-10-22
+
+l'amendement n° 1386 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9016
+
+## Scrutin n° 9015 — 2026-10-22
+
+l'amendement n° 1390 de Mme Belouassa-Cherifi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9015
+
+## Scrutin n° 9014 — 2026-10-22
+
+l'amendement n° 63 de Mme Runel et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9014
+
+## Scrutin n° 9013 — 2026-10-22
+
+l'amendement n° 1388 de M. Maudet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9013
+
+## Scrutin n° 9012 — 2026-10-22
+
+l'amendement n° 2741 de Mme Garin après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9012
+
+## Scrutin n° 9011 — 2026-10-22
+
+l'amendement n° 1383 de Mme Hamdane après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9011
+
+## Scrutin n° 9010 — 2026-10-22
+
+l'amendement n° 1382 de Mme Hamdane après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9010
+
+## Scrutin n° 9009 — 2026-10-22
+
+l'amendement n° 1239 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9009
+
+## Scrutin n° 9008 — 2026-10-22
+
+l'amendement n° 486 de M. Monnet et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9008
+
+## Scrutin n° 9007 — 2026-10-22
+
+l'amendement n° 56 de Mme Runel après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9007
+
+## Scrutin n° 9006 — 2026-10-22
+
+l'amendement n° 634 de M. Dive et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9006
+
+## Scrutin n° 9005 — 2026-10-22
+
+l'amendement n° 1309 de M. Gernigon après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9005
+
+## Scrutin n° 9004 — 2026-10-22
+
+l'amendement n° 71 de M. Guedj après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9004
+
+## Scrutin n° 9003 — 2026-10-22
+
+l'amendement n° 1384 de Mme Erodi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9003
+
+## Scrutin n° 9002 — 2026-10-22
+
+l'amendement n° 1379 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9002
+
+## Scrutin n° 9001 — 2026-10-22
+
+l'amendement n° 2081 de M. Davi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9001
+
+## Scrutin n° 9000 — 2026-10-22
+
+l'amendement n° 1781 (rect.) de Mme Hignet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9000
+
+## Scrutin n° 8999 — 2026-10-22
+
+l'amendement n° 690 de M. Ott et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8999
+
+## Scrutin n° 8998 — 2026-10-22
+
+l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8998
+
+## Scrutin n° 8997 — 2026-10-22
+
+l'amendement n° 894 de M. Valentin à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8997
+
+## Scrutin n° 8996 — 2026-10-22
+
+l'amendement n° 482 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8996
+
+## Scrutin n° 8995 — 2026-10-22
+
+l'amendement n° 481 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8995
+
+## Scrutin n° 8994 — 2026-10-22
+
+l'amendement n° 1372 de Mme Belouassa-Cherifi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8994
+
+## Scrutin n° 8993 — 2026-10-22
+
+l'amendement n° 1349 de M. Tavel et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8993
+
+## Scrutin n° 8992 — 2026-10-22
+
+l'amendement n° 479 de M. Monnet et l'amendement identique suivant de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8992
+
+## Scrutin n° 8991 — 2026-10-22
+
+l'amendement n° 1366 de Mme Belouassa-Cherifi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8991
+
+## Scrutin n° 8990 — 2026-10-22
+
+l'amendement n° 1354 de M. Clouet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8990
+
+## Scrutin n° 8989 — 2026-10-22
+
+l'amendement n° 1367 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8989
+
+## Scrutin n° 8988 — 2026-10-22
+
+l'amendement n° 1359 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8988
+
+## Scrutin n° 8987 — 2026-10-22
+
+l'amendement n° 1364 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8987
+
+## Scrutin n° 8986 — 2026-10-22
+
+l'amendement n° 1351 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8986
+
+## Scrutin n° 8985 — 2026-10-22
+
+l'amendement n° 1298 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8985
+
+## Scrutin n° 8984 — 2026-10-22
+
+l'amendement n° 1302 (rect.) de M. Hamdane et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8984
+
+## Scrutin n° 8983 — 2026-10-22
+
+l'amendement n° 1297 de M. Clouet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8983
+
+## Scrutin n° 8982 — 2026-10-22
+
+l'amendement n° 1284 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8982
+
+## Scrutin n° 8981 — 2026-10-22
+
+l'amendement n° 468 de M. Monnet et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8981
+
+## Scrutin n° 8980 — 2026-10-22
+
+l'amendement n° 469 de M. Bénard et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8980
+
+## Scrutin n° 8979 — 2026-10-22
+
+l'amendement n° 1293 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8979
+
+## Scrutin n° 8978 — 2026-10-22
+
+l'amendement n° 1288 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8978
+
+## Scrutin n° 8977 — 2026-10-22
+
+l'amendement n° 2079 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8977
+
+## Scrutin n° 8976 — 2026-10-22
+
+l'amendement n° 350 de M. Wauquiez et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8976
+
+## Scrutin n° 8975 — 2026-10-22
+
+l'amendement n° 49 de Mme Runel et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8975
+
+## Scrutin n° 8974 — 2026-10-22
+
+l'amendement n° 1105 de M. Bénard et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8974
+
+## Scrutin n° 8973 — 2026-10-22
+
+l'amendement n° 1104 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8973
+
+## Scrutin n° 8972 — 2026-10-22
+
+l'amendement n° 2046 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8972
+
+## Scrutin n° 8971 — 2026-10-22
+
+l'amendement n° 1301 (rect.) de M. Dussausaye à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8971
+
+## Scrutin n° 8970 — 2026-10-22
+
+l'amendement n° 2044 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8970
+
+## Scrutin n° 8969 — 2026-10-22
+
+l'amendement n° 17 de M. Descoeur et les amendements identiques suivants après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8969
+
+## Scrutin n° 8968 — 2026-10-22
+
+l'amendement n° 2748 de Mme Sandrine Rousseau après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8968
+
+## Scrutin n° 8967 — 2026-10-21
+
+l'amendement n° 657 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8967
+
+## Scrutin n° 8966 — 2026-10-21
+
+l'amendement n° 645 de M. Dussausaye après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8966
+
+## Scrutin n° 8965 — 2026-10-21
+
+l'amendement n° 791 de M. Clouet après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8965
+
+## Scrutin n° 8964 — 2026-10-21
+
+l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8964
+
+## Scrutin n° 8963 — 2026-10-21
+
+l'amendement n° 790 de Mme Belouassa-Cherifi à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8963
+
+## Scrutin n° 8962 — 2026-10-21
+
+l'amendement n° 1991 de M. Bazin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8962
+
+## Scrutin n° 8961 — 2026-10-21
+
+l'amendement n° 639 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8961
+
+## Scrutin n° 8960 — 2026-10-21
+
+l'amendement n° 643 de M. Dussausaye à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8960
+
+## Scrutin n° 8959 — 2026-10-21
+
+l'amendement n° 786 de M. Clouet à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8959
+
+## Scrutin n° 8958 — 2026-10-21
+
+l'amendement n° 885 de M. Valentin à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8958
+
+## Scrutin n° 8957 — 2026-10-21
+
+l'amendement n° 785 de Mme Hamdane à l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8957
+
+## Scrutin n° 8956 — 2026-10-21
+
+l'amendement n° 207 de M. Le Fur et les amendements identiques suivants de suppression de l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8956
+
+## Scrutin n° 8955 — 2026-10-21
+
+l'amendement n° 1841 de Mme Chikirou après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8955
+
+## Scrutin n° 8954 — 2026-10-21
+
+l'amendement n° 782 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8954
+
+## Scrutin n° 8953 — 2026-10-21
+
+l'amendement n° 781 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8953
+
+## Scrutin n° 8952 — 2026-10-21
+
+l'amendement n° 779 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8952
+
+## Scrutin n° 8951 — 2026-10-21
+
+l'amendement n° 360 de M. Mazaury après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8951
+
+## Scrutin n° 8950 — 2026-10-21
+
+l'amendement n° 772 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8950
+
+## Scrutin n° 8949 — 2026-10-21
+
+l'amendement n° 777 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8949
+
+## Scrutin n° 8948 — 2026-10-21
+
+l'amendement n° 2706 de M. Peytavie après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8948
+
+## Scrutin n° 8947 — 2026-10-21
+
+l'amendement n° 2961 de M. Lucas-Lundy après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8947
+
+## Scrutin n° 8946 — 2026-10-21
+
+l'amendement n° 711 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8946
+
+## Scrutin n° 8945 — 2026-10-21
+
+l'amendement n° 769 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8945
+
+## Scrutin n° 8944 — 2026-10-21
+
+l'amendement n° 2024 de M. Davi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8944
+
+## Scrutin n° 8943 — 2026-10-21
+
+l'amendement n° 1770 de Mme Hamdane et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8943
+
+## Scrutin n° 8942 — 2026-10-21
+
+l'amendement n° 1592 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8942
+
+## Scrutin n° 8941 — 2026-10-21
+
+l'amendement n° 778 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8941
+
+## Scrutin n° 8940 — 2026-10-21
+
+l'amendement n° 1591 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8940
+
+## Scrutin n° 8939 — 2026-10-21
+
+l'amendement n° 1589 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8939
+
+## Scrutin n° 8938 — 2026-10-21
+
+l'amendement n° 771 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8938
+
+## Scrutin n° 8937 — 2026-10-21
+
+l'amendement n° 42 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8937
+
+## Scrutin n° 8936 — 2026-10-21
+
+l'amendement n° 45 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8936
+
+## Scrutin n° 8935 — 2026-10-21
+
+l'amendement n° 289 de M. Bénard et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8935
+
+## Scrutin n° 8934 — 2026-10-21
+
+l'amendement n° 216 de M. Le Fur après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8934
+
+## Scrutin n° 8933 — 2026-10-21
+
+l'amendement n° 41 de Mme Runel et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8933
+
+## Scrutin n° 8932 — 2026-10-21
+
+l'amendement n° 288 de M. Biteau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8932
+
+## Scrutin n° 8931 — 2026-10-21
+
+l'amendement n° 30 de M. Daubié et les amendements identiques suivants de suppression de l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8931
+
+## Scrutin n° 8930 — 2026-10-21
+
+l'amendement n° 743 de Mme Belouassa-Cherifi après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8930
+
+## Scrutin n° 8929 — 2026-10-21
+
+l'amendement n° 2455 de M. Serva après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8929
+
+## Scrutin n° 8928 — 2026-10-21
+
+l'amendement n° 2269 de M. Mathiasin et l'amendement identique suivant après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8928
+
+## Scrutin n° 8927 — 2026-10-21
+
+l'amendement n° 474 de Mme Bellay après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8927
+
+## Scrutin n° 8926 — 2026-10-21
+
+l'amendement n° 2439 de Mme Pantel après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8926
+
+## Scrutin n° 8925 — 2026-10-21
+
+l'amendement n° 308 de Mme Panonacle après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8925
+
+## Scrutin n° 8924 — 2026-10-21
+
+l'amendement n° 306 (rect.) de Mme Panonacle après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8924
+
+## Scrutin n° 8923 — 2026-10-21
+
+l'amendement n° 741 de M. Maudet après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8923
+
+## Scrutin n° 8922 — 2026-10-21
+
+l'amendement n° 740 de M. Maudet après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8922
+
+## Scrutin n° 8921 — 2026-10-21
+
+l'amendement n° 2815 de M. Midy après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8921
+
+## Scrutin n° 8920 — 2026-10-21
+
+l'amendement n° 205 de M. Le Gac après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8920
+
+## Scrutin n° 8919 — 2026-10-21
+
+l'amendement n° 2352 de M. Lenormand après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8919
+
+## Scrutin n° 8918 — 2026-10-21
+
+l'amendement n° 1689 de M. Taupiac et l'amendement identique suivant après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8918
+
+## Scrutin n° 8917 — 2026-10-21
+
+l'amendement n° 2972 de Mme Bamana après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8917
+
+## Scrutin n° 8916 — 2026-10-21
+
+l'amendement n° 590 de Mme Bamana après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8916
+
+## Scrutin n° 8915 — 2026-10-21
+
+l'amendement n° 96 de M. Simion après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8915
+
+## Scrutin n° 8914 — 2026-10-21
+
+l'amendement n° 736 de Mme Hamdane après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8914
+
+## Scrutin n° 8913 — 2026-10-21
+
+l'amendement n° 286 de M. Bénard et l'amendement identique suivant après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8913
+
+## Scrutin n° 8912 — 2026-10-21
+
+l'amendement n° 2006 de Mme Laporte après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8912
+
+## Scrutin n° 8911 — 2026-10-21
+
+l'amendement n° 735 de Mme Belouassa-Cherifi après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8911
+
+## Scrutin n° 8910 — 2026-10-21
+
+l'amendement n° 734 de Mme Hamdane après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8910
+
+## Scrutin n° 8909 — 2026-10-21
+
+l'amendement n° 2009 de Mme Laporte après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8909
+
+## Scrutin n° 8908 — 2026-10-21
+
+l'amendement n° 498 de M. Descoeur et les amendements identiques suivants après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8908
+
+## Scrutin n° 8907 — 2026-10-21
+
+l'amendement n° 2025 de Mme Laporte après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8907
+
+## Scrutin n° 8906 — 2026-10-20
+
+l'amendement n° 3115 de M. Biteau après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8906
+
+## Scrutin n° 8905 — 2026-10-20
+
+l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8905
+
+## Scrutin n° 8904 — 2026-10-20
+
+l'amendement n° 39 de M. Simion à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8904
+
+## Scrutin n° 8903 — 2026-10-20
+
+l'amendement n° 2976 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8903
+
+## Scrutin n° 8902 — 2026-10-20
+
+l'amendement n° 472 de Mme Bellay à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8902
+
+## Scrutin n° 8901 — 2026-10-20
+
+l'amendement n° 625 de M. Rancoule à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8901
+
+## Scrutin n° 8900 — 2026-10-20
+
+l'amendement n° 37 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8900
+
+## Scrutin n° 8899 — 2026-10-20
+
+l'amendement n° 36 de Mme Runel et les amendements identiques suivants de suppression de l'article 3 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8899
+
+## Scrutin n° 8898 — 2026-10-20
+
+l'amendement n° 34 de Mme Runel et les amendements identiques suivants de suppression de l'article 2 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8898
+
+## Scrutin n° 8897 — 2026-10-20
+
+l'amendement n° 33 de Mme Runel et les amendements identiques suivants de suppression de l'article premier du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8897
+
+## Scrutin n° 8896 — 2026-10-20
+
+l'amendement n° 1352 de Mme Mélin et l'amendement identique suivant de suppression de l'article liminaire du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8896
+
+## Scrutin n° 8895 — 2026-10-20
+
+la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8895
+
+## Scrutin n° 8894 — 2026-10-19
+
+l'amendement n° 2577 de Mme Bentorki à l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8894
+
+## Scrutin n° 8893 — 2026-10-19
+
+l'amendement n° 1142 de Mme Bentorki à l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8893
+
+## Scrutin n° 8892 — 2026-10-19
+
+l'article 40 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8892
+
+## Scrutin n° 8891 — 2026-10-19
+
+l'amendement n° 654 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 40 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8891
+
+## Scrutin n° 8890 — 2026-10-19
+
+l'amendement n° 2263 de M. Mickaël Bouloux après l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8890
+
+## Scrutin n° 8889 — 2026-10-19
+
+l'amendement n° 22 de M. Delautrette et les amendements identiques suivants de suppression de l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8889
+
+## Scrutin n° 8888 — 2026-10-19
+
+l'article 38 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8888
+
+## Scrutin n° 8887 — 2026-10-19
+
+l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8887
+
+## Scrutin n° 8886 — 2026-10-19
+
+l'amendement n° 2420 (rect.) de M. Le Coq à l'article 36 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8886
+
+## Scrutin n° 8885 — 2026-10-19
+
+l'amendement n° 20 de M. Delautrette et les amendements identiques suivants de suppression de l'article 36 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8885
+
+## Scrutin n° 8884 — 2026-10-19
+
+l'amendement n° 3371 de Mme Pantel après l'article 35 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8884
+
+## Scrutin n° 8883 — 2026-10-19
+
+l'amendement n° 19 de M. Delautrette et les amendements identiques suivants de suppression de l'article 35 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8883
+
+## Scrutin n° 8882 — 2026-10-19
+
+l'amendement n° 1202 de M. Jean-René Cazeneuve et l'amendement identique suivant à l'article 34 (examen prioritaire) à l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8882
+
+## Scrutin n° 8881 — 2026-10-19
+
+l'amendement n° 11 de M. Descoeur et les amendements identiques suivants à l'article 34 (examen prioritaire) à l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8881
+
+## Scrutin n° 8880 — 2026-10-19
+
+l'amendement n° 2645 de M. Lahais à l'article 34 (examen prioritaire) à l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8880
+
+## Scrutin n° 8879 — 2026-10-19
+
+l'amendement n° 1167 de Mme Bentorki à l'article 34 (examen prioritaire) à l'article 5 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8879
+
+## Scrutin n° 8878 — 2026-10-19
+
+l'amendement n° 18 de M. Delautrette à l'article 34 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8878
 
 ## Scrutin n° 8877 — 2026-10-16
 
@@ -572,1483 +2332,3 @@ l'amendement n° 357 de M. Le Fur après l'article 3 du projet de loi de finance
 Résultat officiel : L'Assemblée nationale n'a pas adopté
 
 Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8807
-
-## Scrutin n° 8806 — 2026-10-15
-
-l'amendement n° 636 de M. Renault après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8806
-
-## Scrutin n° 8805 — 2026-10-15
-
-l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8805
-
-## Scrutin n° 8804 — 2026-10-15
-
-l'amendement n° 3188 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8804
-
-## Scrutin n° 8803 — 2026-10-15
-
-l'amendement n° 3186 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8803
-
-## Scrutin n° 8802 — 2026-10-15
-
-l'amendement n° 454 de M. Lahais et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8802
-
-## Scrutin n° 8801 — 2026-10-15
-
-l'amendement n° 3918 de M. Sansu après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8801
-
-## Scrutin n° 8800 — 2026-10-15
-
-l'amendement n° 3190 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8800
-
-## Scrutin n° 8799 — 2026-10-15
-
-l'amendement n° 3189 de M. Castellani après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8799
-
-## Scrutin n° 8798 — 2026-10-15
-
-l'amendement n° 448 de M. Lahais après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8798
-
-## Scrutin n° 8797 — 2026-10-15
-
-l'amendement n° 2517 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8797
-
-## Scrutin n° 8796 — 2026-10-15
-
-l'amendement n° 2789 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8796
-
-## Scrutin n° 8795 — 2026-10-15
-
-l'amendement n° 3810 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8795
-
-## Scrutin n° 8794 — 2026-10-15
-
-l'amendement n° 3811 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8794
-
-## Scrutin n° 8793 — 2026-10-15
-
-l'amendement n° 2448 de Mme Jourdan après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8793
-
-## Scrutin n° 8792 — 2026-10-15
-
-l'amendement n° 3812 (rect.) de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8792
-
-## Scrutin n° 8791 — 2026-10-15
-
-l'amendement n° 299 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8791
-
-## Scrutin n° 8790 — 2026-10-15
-
-l'amendement n° 3787 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8790
-
-## Scrutin n° 8789 — 2026-10-15
-
-l'amendement n° 1310 de M. Isaac-Sibille après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8789
-
-## Scrutin n° 8788 — 2026-10-15
-
-l'amendement n° 2171 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8788
-
-## Scrutin n° 8787 — 2026-10-15
-
-l'amendement n° 1602 de Mme Pirès-Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8787
-
-## Scrutin n° 8786 — 2026-10-15
-
-l'amendement n° 1999 de M. Courbon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8786
-
-## Scrutin n° 8785 — 2026-10-15
-
-l'amendement n° 1798 de M. Mauvieux après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8785
-
-## Scrutin n° 8784 — 2026-10-15
-
-l'amendement n° 206 de M. Ben Cheikh et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8784
-
-## Scrutin n° 8783 — 2026-10-15
-
-l'amendement n° 1769 de M. Rancoule après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8783
-
-## Scrutin n° 8782 — 2026-10-15
-
-l'amendement n° 3462 de Mme Abomangoli après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8782
-
-## Scrutin n° 8781 — 2026-10-15
-
-l'amendement n° 1029 de Mme Maximi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8781
-
-## Scrutin n° 8780 — 2026-10-15
-
-l'amendement n° 1268 de M. Proença et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8780
-
-## Scrutin n° 8779 — 2026-10-15
-
-l'amendement n° 1894 de Mme Mette et les amendements identiques suivants après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8779
-
-## Scrutin n° 8778 — 2026-10-15
-
-l'amendement n° 1603 de Mme Galzy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8778
-
-## Scrutin n° 8777 — 2026-10-15
-
-l'amendement n° 543 de M. Lottiaux après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8777
-
-## Scrutin n° 8776 — 2026-10-15
-
-l'amendement n° 856 de M. Ballard après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8776
-
-## Scrutin n° 8775 — 2026-10-15
-
-l'amendement n° 3339 de Mme Pantel et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8775
-
-## Scrutin n° 8774 — 2026-10-15
-
-l'amendement n° 1524 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8774
-
-## Scrutin n° 8773 — 2026-10-15
-
-l'amendement n° 1495 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8773
-
-## Scrutin n° 8772 — 2026-10-15
-
-l'amendement n° 3184 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8772
-
-## Scrutin n° 8771 — 2026-10-15
-
-l'amendement n° 803 de Mme Pirès Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8771
-
-## Scrutin n° 8770 — 2026-10-15
-
-l'amendement n° 2172 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8770
-
-## Scrutin n° 8769 — 2026-10-15
-
-l'amendement n° 3337 de M. Maurel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8769
-
-## Scrutin n° 8768 — 2026-10-15
-
-l'amendement n° 3594 de Mme Maximi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8768
-
-## Scrutin n° 8767 — 2026-10-15
-
-l'amendement n° 3592 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8767
-
-## Scrutin n° 8766 — 2026-10-15
-
-l'amendement n° 468 de Mme Pirès Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8766
-
-## Scrutin n° 8765 — 2026-10-15
-
-l'amendement n° 1496 (rect.) de M. Le Coq et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8765
-
-## Scrutin n° 8764 — 2026-10-15
-
-l'amendement n° 363 de M. Le Fur et les amendements identiques suivants après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8764
-
-## Scrutin n° 8763 — 2026-10-15
-
-l'amendement n° 3864 de M. Attal et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8763
-
-## Scrutin n° 8762 — 2026-10-15
-
-l'amendement n° 1055 de M. Pilato et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8762
-
-## Scrutin n° 8761 — 2026-10-15
-
-l'amendement n° 3431 de Mme Erodi après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8761
-
-## Scrutin n° 8760 — 2026-10-15
-
-l'amendement n° 662 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8760
-
-## Scrutin n° 8759 — 2026-10-15
-
-l'amendement n° 639 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8759
-
-## Scrutin n° 8758 — 2026-10-15
-
-l'amendement n° 1054 de Mme Legrain après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8758
-
-## Scrutin n° 8757 — 2026-10-15
-
-l'amendement n° 935 de M. Falcon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8757
-
-## Scrutin n° 8756 — 2026-10-15
-
-l'amendement n° 931 de M. Falcon après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8756
-
-## Scrutin n° 8755 — 2026-10-15
-
-l'amendement n° 3695 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8755
-
-## Scrutin n° 8754 — 2026-10-15
-
-l'amendement n° 2627 de Mme Feld après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8754
-
-## Scrutin n° 8753 — 2026-10-15
-
-l'amendement n° 3650 de M. Attal après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8753
-
-## Scrutin n° 8752 — 2026-10-15
-
-l'amendement n° 226 de M. Ciotti après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8752
-
-## Scrutin n° 8751 — 2026-10-15
-
-l'amendement n° 2211 de M. Verny après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8751
-
-## Scrutin n° 8750 — 2026-10-15
-
-l'amendement n° 3649 de M. Attal après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8750
-
-## Scrutin n° 8749 — 2026-10-15
-
-l'amendement n° 3185 de M. Bruneau après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8749
-
-## Scrutin n° 8748 — 2026-10-15
-
-le sous-amendement n° 3984 de M. Juvin à l'amendement n° 3185 de M. Bruneau après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8748
-
-## Scrutin n° 8747 — 2026-10-15
-
-l'amendement n° 640 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8747
-
-## Scrutin n° 8746 — 2026-10-15
-
-l'amendement n° 661 de M. Renault après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8746
-
-## Scrutin n° 8745 — 2026-10-15
-
-l'amendement n° 638 de M. Jean-Philippe Tanguy après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8745
-
-## Scrutin n° 8744 — 2026-10-15
-
-l'amendement n° 1045 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8744
-
-## Scrutin n° 8743 — 2026-10-15
-
-l'amendement n° 637 (rect.) de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8743
-
-## Scrutin n° 8742 — 2026-10-15
-
-l'amendement n° 1270 de Mme d'Intorni après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8742
-
-## Scrutin n° 8741 — 2026-10-15
-
-l'amendement n° 1053 de Mme Legrain et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8741
-
-## Scrutin n° 8740 — 2026-10-15
-
-l'amendement n° 2247 de Mme Rixain après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8740
-
-## Scrutin n° 8739 — 2026-10-15
-
-le sous-amendement n° 3981 de Mme Coggia à l'amendement n° 2564 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8739
-
-## Scrutin n° 8738 — 2026-10-15
-
-l'amendement n° 1 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 3 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8738
-
-## Scrutin n° 8737 — 2026-10-15
-
-l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8737
-
-## Scrutin n° 8736 — 2026-10-15
-
-l'amendement n° 988 de M. Tryzna à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8736
-
-## Scrutin n° 8735 — 2026-10-15
-
-l'amendement n° 2847 de M. Vuibert et l'amendement identique suivant à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8735
-
-## Scrutin n° 8734 — 2026-10-15
-
-l'amendement n° 3779 de M.Mattei à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8734
-
-## Scrutin n° 8733 — 2026-10-15
-
-l'amendement n° 143 de M. Arnaud Bonnet et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8733
-
-## Scrutin n° 8732 — 2026-10-14
-
-l'amendement n° 3919 de M. Sansu à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8732
-
-## Scrutin n° 8731 — 2026-10-14
-
-l'amendement n° 2786 (rect.) de M. Arnaud Bonnet à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8731
-
-## Scrutin n° 8730 — 2026-10-14
-
-l'amendement n° 316 de M. Coquerel à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8730
-
-## Scrutin n° 8729 — 2026-10-14
-
-l'amendement n° 1300 de M. Le Fur et l'amendement identiques suivant à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8729
-
-## Scrutin n° 8728 — 2026-10-14
-
-l'amendement n° 405 de M. Liger et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8728
-
-## Scrutin n° 8727 — 2026-10-14
-
-l'amendement n° 502 de Mme Mercier et les amendements identiques suivants à l'article 2 du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8727
-
-## Scrutin n° 8726 — 2026-10-14
-
-l'amendement n° 2609 de M. Jean-René Cazeneuve après l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8726
-
-## Scrutin n° 8725 — 2026-10-14
-
-l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8725
-
-## Scrutin n° 8724 — 2026-10-14
-
-l'amendement n° 2218 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8724
-
-## Scrutin n° 8723 — 2026-10-14
-
-l'amendement n° 2217 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8723
-
-## Scrutin n° 8722 — 2026-10-14
-
-l'amendement n° 2210 de M. Aurélien Taché à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8722
-
-## Scrutin n° 8721 — 2026-10-14
-
-l'amendement n° 965 de Mme Maximi à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8721
-
-## Scrutin n° 8720 — 2026-10-14
-
-l'amendement n° 963 de Mme Cathala à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8720
-
-## Scrutin n° 8719 — 2026-10-14
-
-l'amendement n° 966 de M. Coquerel à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8719
-
-## Scrutin n° 8718 — 2026-10-14
-
-l'amendement n° 964 de M. Le Coq à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8718
-
-## Scrutin n° 8717 — 2026-10-14
-
-l'amendement n° 962 de M. Bilongo à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8717
-
-## Scrutin n° 8716 — 2026-10-14
-
-l'amendement n° 960 de M. Bilongo à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8716
-
-## Scrutin n° 8715 — 2026-10-14
-
-l'amendement n° 3694 de M. Jean-Philippe Tanguy à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8715
-
-## Scrutin n° 8714 — 2026-10-14
-
-l'amendement n° 2638 de M. Pierre Cazeneuve à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8714
-
-## Scrutin n° 8713 — 2026-10-14
-
-l'amendement n° 959 de M. Bompard à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8713
-
-## Scrutin n° 8712 — 2026-10-14
-
-l'amendement n° 3955 de M. Sansu à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8712
-
-## Scrutin n° 8711 — 2026-10-14
-
-l'amendement n° 957 de M. Le Coq à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8711
-
-## Scrutin n° 8710 — 2026-10-14
-
-l'amendement n° 954 de M. Le Gall à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8710
-
-## Scrutin n° 8709 — 2026-10-14
-
-l'amendement n° 746 de M. Jean-Philippe Tanguy à l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8709
-
-## Scrutin n° 8708 — 2026-10-14
-
-l'amendement n° 312 de M. Le Coq et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8708
-
-## Scrutin n° 8707 — 2026-10-13
-
-la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8707
-
-## Scrutin n° 8706 — 2026-10-13
-
-la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8706
-
-## Scrutin n° 8705 — 2026-10-13
-
-la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8705
-
-## Scrutin n° 8704 — 2026-10-13
-
-l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8704
-
-## Scrutin n° 8703 — 2026-10-13
-
-l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8703
-
-## Scrutin n° 8702 — 2026-10-13
-
-l'amendement n° 4 (rect.) de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8702
-
-## Scrutin n° 8701 — 2026-10-13
-
-l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8701
-
-## Scrutin n° 8700 — 2026-10-13
-
-l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8700
-
-## Scrutin n° 8699 — 2026-10-13
-
-l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8699
-
-## Scrutin n° 8698 — 2026-10-13
-
-l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8698
-
-## Scrutin n° 8697 — 2026-10-13
-
-l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8697
-
-## Scrutin n° 8696 — 2026-10-12
-
-l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8696
-
-## Scrutin n° 8695 — 2026-10-12
-
-l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8695
-
-## Scrutin n° 8694 — 2026-10-12
-
-l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8694
-
-## Scrutin n° 8693 — 2026-10-12
-
-l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8693
-
-## Scrutin n° 8692 — 2026-10-12
-
-l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8692
-
-## Scrutin n° 8691 — 2026-10-12
-
-l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8691
-
-## Scrutin n° 8690 — 2026-10-12
-
-l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8690
-
-## Scrutin n° 8689 — 2026-10-12
-
-l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8689
-
-## Scrutin n° 8688 — 2026-10-12
-
-l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8688
-
-## Scrutin n° 8687 — 2026-10-12
-
-l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8687
-
-## Scrutin n° 8686 — 2026-10-12
-
-l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8686
-
-## Scrutin n° 8685 — 2026-10-12
-
-l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8685
-
-## Scrutin n° 8684 — 2026-10-12
-
-l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8684
-
-## Scrutin n° 8683 — 2026-10-12
-
-l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8683
-
-## Scrutin n° 8682 — 2026-10-12
-
-l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8682
-
-## Scrutin n° 8681 — 2026-10-12
-
-l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8681
-
-## Scrutin n° 8680 — 2026-10-12
-
-l'amendement n° 22 de M. Taupiac à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8680
-
-## Scrutin n° 8679 — 2026-10-12
-
-l'amendement n° 36 de M. Monnet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8679
-
-## Scrutin n° 8678 — 2026-10-12
-
-l'amendement n° 10 (rect.) de Mme Dubré-Chirat et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8678
-
-## Scrutin n° 8677 — 2026-10-12
-
-l'amendement n° 74 de M. Gernigon à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8677
-
-## Scrutin n° 8676 — 2026-10-12
-
-l'amendement n° 42 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8676
-
-## Scrutin n° 8675 — 2026-10-12
-
-l'amendement n° 75 de M. Weber à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8675
-
-## Scrutin n° 8674 — 2026-10-12
-
-l'amendement n° 32 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8674
-
-## Scrutin n° 8673 — 2026-10-12
-
-l'amendement n° 53 de M. Castermann à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8673
-
-## Scrutin n° 8672 — 2026-10-09
-
-l'article 3 de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8672
-
-## Scrutin n° 8671 — 2026-10-09
-
-l'article 2 bis de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8671
-
-## Scrutin n° 8670 — 2026-10-09
-
-l'article 2 de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8670
-
-## Scrutin n° 8669 — 2026-10-09
-
-l'article premier de la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexistes et intrafamiliales (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8669
-
-## Scrutin n° 8668 — 2026-10-09
-
-l'article 68 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8668
-
-## Scrutin n° 8667 — 2026-10-09
-
-l'amendement n° 684 de Mme Legrain à l'article 68 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8667
-
-## Scrutin n° 8666 — 2026-10-09
-
-l'article 61 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8666
-
-## Scrutin n° 8665 — 2026-10-09
-
-l'amendement n° 1156 de Mme Spillebout à l'article 61 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8665
-
-## Scrutin n° 8664 — 2026-10-09
-
-l'amendement n° 240 de M. Ménagé après l'article 45 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8664
-
-## Scrutin n° 8663 — 2026-10-09
-
-l'article 60 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8663
-
-## Scrutin n° 8662 — 2026-10-09
-
-l'article 59 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8662
-
-## Scrutin n° 8661 — 2026-10-09
-
-l'article 58 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8661
-
-## Scrutin n° 8660 — 2026-10-09
-
-l'article 57 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8660
-
-## Scrutin n° 8659 — 2026-10-09
-
-l'article 56 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8659
-
-## Scrutin n° 8658 — 2026-10-09
-
-l'article 55 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8658
-
-## Scrutin n° 8657 — 2026-10-09
-
-l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8657
-
-## Scrutin n° 8656 — 2026-10-09
-
-l'amendement n° 1266 de M. Peytavie à l'article 54 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8656
-
-## Scrutin n° 8655 — 2026-10-09
-
-l'article 53 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8655
-
-## Scrutin n° 8654 — 2026-10-09
-
-l'amendement n° 386 du Gouvernement de suppression de l'article 52 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8654
-
-## Scrutin n° 8653 — 2026-10-09
-
-l'article 51 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8653
-
-## Scrutin n° 8652 — 2026-10-09
-
-l'article 50 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8652
-
-## Scrutin n° 8651 — 2026-10-09
-
-l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8651
-
-## Scrutin n° 8650 — 2026-10-09
-
-l'amendement n° 1172 de Mme Vidal à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8650
-
-## Scrutin n° 8649 — 2026-10-09
-
-l'amendement n° 1164 de M. Gouffier Valente à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8649
-
-## Scrutin n° 8648 — 2026-10-09
-
-l'amendement n° 404 du Gouvernement à l'article 49 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8648
-
-## Scrutin n° 8647 — 2026-10-09
-
-l'article 48 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8647
-
-## Scrutin n° 8646 — 2026-10-09
-
-l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8646
-
-## Scrutin n° 8645 — 2026-10-09
-
-l'amendement n° 257 de Mme Lingemann et l'amendement identique suivant à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8645
-
-## Scrutin n° 8644 — 2026-10-09
-
-l'amendement n° 814 de Mme Leboucher à l'article 47 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8644
-
-## Scrutin n° 8643 — 2026-10-09
-
-l'amendement n° 1083 de Mme Erodi après l'article 39 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8643
-
-## Scrutin n° 8642 — 2026-10-09
-
-l'amendement n° 245 de M. Ménagé et les amendements identiques suivants de suppression de l'article 63 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8642
-
-## Scrutin n° 8641 — 2026-10-09
-
-l'amendement n° 244 de M. Ménagé et les amendements identiques suivants de suppression de l'article 62 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8641
-
-## Scrutin n° 8640 — 2026-10-09
-
-l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8640
-
-## Scrutin n° 8639 — 2026-10-09
-
-l'amendement n° 705 du Gouvernement et l'amendement identique suivant à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8639
-
-## Scrutin n° 8638 — 2026-10-09
-
-l'amendement n° 1091 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8638
-
-## Scrutin n° 8637 — 2026-10-09
-
-l'amendement n° 462 de Mme Leboucher à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8637
-
-## Scrutin n° 8636 — 2026-10-09
-
-l'amendement n° 242 de M. Ménagé à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8636
-
-## Scrutin n° 8635 — 2026-10-09
-
-l'amendement n° 453 de Mme Autain à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8635
-
-## Scrutin n° 8634 — 2026-10-09
-
-le sous-amendement n° 1341 de Mme Simonnet à l'amendement n° 453 de Mme Autain à l'article 46 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8634
-
-## Scrutin n° 8633 — 2026-10-09
-
-l'amendement n° 1021 de Mme Cathala après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8633
-
-## Scrutin n° 8632 — 2026-10-09
-
-l'amendement n° 1003 de Mme Legrain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8632
-
-## Scrutin n° 8631 — 2026-10-09
-
-l'amendement n° 511 de Mme Autain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8631
-
-## Scrutin n° 8630 — 2026-10-09
-
-l'amendement n° 498 de Mme Autain après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8630
-
-## Scrutin n° 8629 — 2026-10-09
-
-l'amendement n° 594 de Mme Lebon après l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8629
-
-## Scrutin n° 8628 — 2026-10-09
-
-l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8628
-
-## Scrutin n° 8627 — 2026-10-09
-
-l'amendement n° 762 de Mme de Pélichy à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8627
-
-## Scrutin n° 8626 — 2026-10-09
-
-l'amendement n° 516 de Mme Sandrine Rousseau à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8626
-
-## Scrutin n° 8625 — 2026-10-09
-
-l'amendement n° 440 de Mme Leboucher à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8625
-
-## Scrutin n° 8624 — 2026-10-09
-
-l'amendement n° 435 de Mme Leboucher à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8624
-
-## Scrutin n° 8623 — 2026-10-09
-
-l'amendement n° 1137 de Mme Firmin Le Bodo à l'article 44 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8623
-
-## Scrutin n° 8622 — 2026-10-09
-
-l'amendement n° 722 de Mme Faucillon et l'amendement identique suivant à l'article 43 bis (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/8622
