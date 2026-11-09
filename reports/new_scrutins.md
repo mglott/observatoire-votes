@@ -1,9 +1,2153 @@
 # Scrutins récents à examiner
 
-Rapport généré le 2026-11-02T16:59:47+00:00.
+Rapport généré le 2026-11-09T17:25:27+00:00.
 Fenêtre contrôlée : 10 derniers jours.
 
 Ces scrutins sont détectés automatiquement, mais ne sont **pas publiés** avant validation de leur intérêt éditorial, de leur thème et de leur titre pédagogique.
+
+## Scrutin n° 9759 — 2026-11-04
+
+la première partie du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9759
+
+## Scrutin n° 9758 — 2026-11-04
+
+l'amendement n° 1 du Gouvernement à l'article liminaire du projet de loi de finances pour 2027 (seconde délibération) (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9758
+
+## Scrutin n° 9757 — 2026-11-04
+
+l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9757
+
+## Scrutin n° 9756 — 2026-11-04
+
+l'amendement n° 3897 de M. Sansu à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9756
+
+## Scrutin n° 9755 — 2026-11-04
+
+l'amendement n° 1428 de M. Le Coq à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9755
+
+## Scrutin n° 9754 — 2026-11-04
+
+l'amendement n° 1801 de M. Mauvieux et les amendements identiques suivants à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9754
+
+## Scrutin n° 9753 — 2026-11-04
+
+l'amendement n° 4038 du Gouvernement à l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9753
+
+## Scrutin n° 9752 — 2026-11-04
+
+l'amendement n° 656 de M. Jean-Philippe Tanguy de suppression de l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9752
+
+## Scrutin n° 9751 — 2026-11-04
+
+l'amendement n° 71 de M. Dufosset et les amendements identiques suivants de suppression de l'article 54 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9751
+
+## Scrutin n° 9750 — 2026-11-04
+
+l'amendement n° 76 de M. Dufosset et les amendements identiques suivants de suppression de l'article 53 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9750
+
+## Scrutin n° 9749 — 2026-11-04
+
+l'article 51 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9749
+
+## Scrutin n° 9748 — 2026-11-04
+
+l'amendement n° 1135 de Mme Bentorki à l'article 51 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9748
+
+## Scrutin n° 9747 — 2026-11-04
+
+l'amendement n° 126 de Mme Chatelain et les amendements identiques suivants de suppression de l'article 51 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9747
+
+## Scrutin n° 9746 — 2026-11-04
+
+l'amendement n° 936 de Mme Erodi et les amendements identiques suivants de suppression de l'article 50 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9746
+
+## Scrutin n° 9745 — 2026-11-04
+
+l'amendement n° 763 de M. Renault après l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9745
+
+## Scrutin n° 9744 — 2026-11-04
+
+l'amendement n° 764 de M. Renault après l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9744
+
+## Scrutin n° 9743 — 2026-11-04
+
+l'amendement n° 657 de Mme Roy et l'amendement identique suivant après l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9743
+
+## Scrutin n° 9742 — 2026-11-04
+
+l'amendement n° 753 de M. Renault après l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9742
+
+## Scrutin n° 9741 — 2026-11-04
+
+l'amendement n° 2170 de Mme Mette après l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9741
+
+## Scrutin n° 9740 — 2026-11-04
+
+l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9740
+
+## Scrutin n° 9739 — 2026-11-04
+
+l'amendement n° 938 de Mme Maximi à l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9739
+
+## Scrutin n° 9738 — 2026-11-04
+
+l'amendement n° 937 de Mme Erodi à l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9738
+
+## Scrutin n° 9737 — 2026-11-04
+
+l'amendement n° 939 de Mme Maximi de suppression de l'article 49 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9737
+
+## Scrutin n° 9736 — 2026-11-04
+
+l'amendement n° 942 de Mme Lejeune à l'article 48 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9736
+
+## Scrutin n° 9735 — 2026-11-04
+
+l'amendement n° 941 de M. Laisney et l'amendement identique suivant de suppression de l'article 48 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9735
+
+## Scrutin n° 9734 — 2026-11-04
+
+l'amendement n° 655 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 45 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9734
+
+## Scrutin n° 9733 — 2026-11-04
+
+l'amendement n° 309 de Mme Hignet après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9733
+
+## Scrutin n° 9732 — 2026-11-04
+
+l'amendement n° 3969 de M. Wauquiez après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9732
+
+## Scrutin n° 9731 — 2026-11-04
+
+l'amendement n° 757 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9731
+
+## Scrutin n° 9730 — 2026-11-04
+
+l'amendement n° 169 de M. Bazin et l'amendement identique suivant après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9730
+
+## Scrutin n° 9729 — 2026-11-04
+
+l'amendement n° 2528 de M. Fournier et l'amendement identique suivant après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9729
+
+## Scrutin n° 9728 — 2026-11-04
+
+l'amendement n° 921 de M. Maillot et les amendements identiques suivants après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9728
+
+## Scrutin n° 9727 — 2026-11-04
+
+l'amendement n° 768 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9727
+
+## Scrutin n° 9726 — 2026-11-04
+
+l'amendement n° 770 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9726
+
+## Scrutin n° 9725 — 2026-11-04
+
+l'amendement n° 3457 (rect.) de M. Raux après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9725
+
+## Scrutin n° 9724 — 2026-11-04
+
+l'amendement n° 767 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9724
+
+## Scrutin n° 9723 — 2026-11-04
+
+l'amendement n° 745 de M. Jean-Philippe Tanguy après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9723
+
+## Scrutin n° 9722 — 2026-11-04
+
+l'amendement n° 3851 de M. Kasbarian après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9722
+
+## Scrutin n° 9721 — 2026-11-04
+
+l'amendement n° 2746 de M. Ballard après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9721
+
+## Scrutin n° 9720 — 2026-11-04
+
+l'amendement n° 744 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9720
+
+## Scrutin n° 9719 — 2026-11-04
+
+l'amendement n° 743 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9719
+
+## Scrutin n° 9718 — 2026-11-04
+
+l'amendement n° 742 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9718
+
+## Scrutin n° 9717 — 2026-11-04
+
+l'amendement n° 741 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9717
+
+## Scrutin n° 9716 — 2026-11-04
+
+l'amendement n° 752 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9716
+
+## Scrutin n° 9715 — 2026-11-04
+
+l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9715
+
+## Scrutin n° 9714 — 2026-11-04
+
+l'amendement n° 756 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9714
+
+## Scrutin n° 9713 — 2026-11-04
+
+l'amendement n° 738 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9713
+
+## Scrutin n° 9712 — 2026-11-04
+
+l'amendement n° 739 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9712
+
+## Scrutin n° 9711 — 2026-11-04
+
+l'amendement n° 231 de M. Dive et les amendements identiques suivants après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9711
+
+## Scrutin n° 9710 — 2026-11-04
+
+l'amendement n° 3621 de Mme Ozenne après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9710
+
+## Scrutin n° 9709 — 2026-11-04
+
+l'amendement n° 1986 de Mme Maximi après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9709
+
+## Scrutin n° 9708 — 2026-11-04
+
+l'amendement n° 1969 de Mme Maximi après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9708
+
+## Scrutin n° 9707 — 2026-11-04
+
+l'amendement n° 136 de Mme Brulebois et les amendements identiques suivants après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9707
+
+## Scrutin n° 9706 — 2026-11-04
+
+l'amendement n° 1958 (rect.) de M. Pilato après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9706
+
+## Scrutin n° 9705 — 2026-11-04
+
+l'amendement n° 308 (rect.) de Mme Lejeune après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9705
+
+## Scrutin n° 9704 — 2026-11-04
+
+l'amendement n° 307 de M. Pilato après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9704
+
+## Scrutin n° 9703 — 2026-11-04
+
+l'amendement n° 629 de Mme Le Peih et l'amendement identique suivant après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9703
+
+## Scrutin n° 9702 — 2026-11-04
+
+l'amendement n° 737 de M. Jean-Philippe Tanguy après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9702
+
+## Scrutin n° 9701 — 2026-11-04
+
+l'amendement n° 1042 de Mme Mesmeur après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9701
+
+## Scrutin n° 9700 — 2026-11-04
+
+l'amendement n° 771 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9700
+
+## Scrutin n° 9699 — 2026-11-04
+
+l'amendement n° 772 de M. Renault après l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9699
+
+## Scrutin n° 9698 — 2026-11-04
+
+l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9698
+
+## Scrutin n° 9697 — 2026-11-04
+
+l'amendement n° 3523 de M. Juvin à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9697
+
+## Scrutin n° 9696 — 2026-11-04
+
+l'amendement n° 788 de Mme Givernet et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9696
+
+## Scrutin n° 9695 — 2026-11-04
+
+l'amendement n° 2934 de M. de Courson à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9695
+
+## Scrutin n° 9694 — 2026-11-04
+
+l'amendement n° 2027 de M. Tavel à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9694
+
+## Scrutin n° 9693 — 2026-11-04
+
+l'amendement n° 736 de M. Ballard à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9693
+
+## Scrutin n° 9692 — 2026-11-04
+
+l'amendement n° 773 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9692
+
+## Scrutin n° 9691 — 2026-11-04
+
+l'amendement n° 1578 de M. Maillard et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9691
+
+## Scrutin n° 9690 — 2026-11-04
+
+l'amendement n° 1139 de M. Cadalen à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9690
+
+## Scrutin n° 9689 — 2026-11-04
+
+l'amendement n° 952 de M. Cadalen à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9689
+
+## Scrutin n° 9688 — 2026-11-04
+
+l'amendement n° 996 (rect.) de Mme Diop et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9688
+
+## Scrutin n° 9687 — 2026-11-04
+
+l'amendement n° 995 de M. Tryzna et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9687
+
+## Scrutin n° 9686 — 2026-11-04
+
+l'amendement n° 760 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9686
+
+## Scrutin n° 9685 — 2026-11-04
+
+l'amendement n° 735 de M.Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9685
+
+## Scrutin n° 9684 — 2026-11-04
+
+l'amendement n° 734 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9684
+
+## Scrutin n° 9683 — 2026-11-04
+
+l'amendement n° 432 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9683
+
+## Scrutin n° 9682 — 2026-11-04
+
+l'amendement n° 727 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9682
+
+## Scrutin n° 9681 — 2026-11-04
+
+l'amendement n° 474 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9681
+
+## Scrutin n° 9680 — 2026-11-04
+
+l'amendement n° 475 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9680
+
+## Scrutin n° 9679 — 2026-11-04
+
+l'amendement n° 1267 de M. Proença et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9679
+
+## Scrutin n° 9678 — 2026-11-04
+
+l'amendement n° 726 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9678
+
+## Scrutin n° 9677 — 2026-11-04
+
+l'amendement n° 725 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9677
+
+## Scrutin n° 9676 — 2026-11-04
+
+l'amendement n° 724 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9676
+
+## Scrutin n° 9675 — 2026-11-04
+
+l'amendement n° 723 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9675
+
+## Scrutin n° 9674 — 2026-11-04
+
+l'amendement n° 722 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9674
+
+## Scrutin n° 9673 — 2026-11-04
+
+l'amendement n° 721 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9673
+
+## Scrutin n° 9672 — 2026-11-04
+
+l'amendement n° 720 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9672
+
+## Scrutin n° 9671 — 2026-11-04
+
+l'amendement n° 719 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9671
+
+## Scrutin n° 9670 — 2026-11-04
+
+l'amendement n° 717 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9670
+
+## Scrutin n° 9669 — 2026-11-04
+
+l'amendement n° 1434 de M. Liger et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9669
+
+## Scrutin n° 9668 — 2026-11-04
+
+l'amendement n° 716 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9668
+
+## Scrutin n° 9667 — 2026-11-04
+
+l'amendement n° 3558 de M. Oberti à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9667
+
+## Scrutin n° 9666 — 2026-11-04
+
+l'amendement n° 659 de M. Jean-Philippe Tanguy et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9666
+
+## Scrutin n° 9665 — 2026-11-04
+
+l'amendement n° 922 de M. Maillot et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9665
+
+## Scrutin n° 9664 — 2026-11-04
+
+l'amendement n° 429 de M. Balanant et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9664
+
+## Scrutin n° 9663 — 2026-11-04
+
+l'amendement n° 715 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9663
+
+## Scrutin n° 9662 — 2026-11-04
+
+l'amendement n° 714 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9662
+
+## Scrutin n° 9661 — 2026-11-04
+
+l'amendement n° 713 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9661
+
+## Scrutin n° 9660 — 2026-11-04
+
+l'amendement n° 712 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9660
+
+## Scrutin n° 9659 — 2026-11-04
+
+l'amendement n° 711 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9659
+
+## Scrutin n° 9658 — 2026-11-04
+
+l'amendement n° 710 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9658
+
+## Scrutin n° 9657 — 2026-11-04
+
+l'amendement n° 709 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9657
+
+## Scrutin n° 9656 — 2026-11-04
+
+l'amendement n° 708 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9656
+
+## Scrutin n° 9655 — 2026-11-04
+
+l'amendement n° 707 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9655
+
+## Scrutin n° 9654 — 2026-11-04
+
+l'amendement n° 706 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9654
+
+## Scrutin n° 9653 — 2026-11-04
+
+l'amendement n° 705 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9653
+
+## Scrutin n° 9652 — 2026-11-04
+
+l'amendement n° 704 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9652
+
+## Scrutin n° 9651 — 2026-11-04
+
+l'amendement n° 701 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9651
+
+## Scrutin n° 9650 — 2026-11-03
+
+l'amendement n° 3550 de Mme Coggia et l'amendement identique suivant à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9650
+
+## Scrutin n° 9649 — 2026-11-03
+
+l'amendement n° 527 de M. Barusseau et les amendements identiques suivants à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9649
+
+## Scrutin n° 9648 — 2026-11-03
+
+l'amendement n° 395 (rect.) de Mme Le Feur à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9648
+
+## Scrutin n° 9647 — 2026-11-03
+
+l'amendement n° 699 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9647
+
+## Scrutin n° 9646 — 2026-11-03
+
+l'amendement n° 698 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9646
+
+## Scrutin n° 9645 — 2026-11-03
+
+l'amendement n° 697 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9645
+
+## Scrutin n° 9644 — 2026-11-03
+
+l'amendement n° 695 de M. Renault à l'article 42 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9644
+
+## Scrutin n° 9643 — 2026-11-03
+
+l'amendement n° 3426 de Mme Hignet après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9643
+
+## Scrutin n° 9642 — 2026-11-03
+
+l'amendement n° 3925 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9642
+
+## Scrutin n° 9641 — 2026-11-03
+
+l'amendement n° 1985 de M. Odoul après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9641
+
+## Scrutin n° 9640 — 2026-11-03
+
+l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9640
+
+## Scrutin n° 9639 — 2026-11-03
+
+l'amendement n° 1548 de M. David Magnier après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9639
+
+## Scrutin n° 9638 — 2026-11-03
+
+l'amendement n° 3491 de M. Fugit après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9638
+
+## Scrutin n° 9637 — 2026-11-03
+
+l'amendement n° 1912 de M. Lioret après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9637
+
+## Scrutin n° 9636 — 2026-11-03
+
+l'amendement n° 2701 de M. de Courson après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9636
+
+## Scrutin n° 9635 — 2026-11-03
+
+l'amendement n° 3923 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9635
+
+## Scrutin n° 9634 — 2026-11-03
+
+l'amendement n° 3922 de M. Sansu après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9634
+
+## Scrutin n° 9633 — 2026-11-03
+
+l'amendement n° 63 de Mme Vignon et les amendements identiques suivants après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9633
+
+## Scrutin n° 9632 — 2026-11-03
+
+l'amendement n° 62 de Mme Vignon et les amendements identiques suivants après l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9632
+
+## Scrutin n° 9631 — 2026-11-03
+
+l'amendement n° 1545 de M. Nadeau à l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9631
+
+## Scrutin n° 9630 — 2026-11-03
+
+l'amendement n° 694 de M. Jean-Philippe Tanguy à l'article 32 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9630
+
+## Scrutin n° 9629 — 2026-11-03
+
+l'amendement n° 1170 (rect.) de Mme Feld à l'article 31 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9629
+
+## Scrutin n° 9628 — 2026-11-03
+
+l'amendement n° 3699 de Mme Arrighi à l'article 31 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9628
+
+## Scrutin n° 9627 — 2026-11-03
+
+l'amendement n° 1184 de Mme Feld à l'article 30 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9627
+
+## Scrutin n° 9626 — 2026-11-03
+
+l'amendement n° 769 (rect.) de M. Renault à l'article 30 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9626
+
+## Scrutin n° 9625 — 2026-11-03
+
+l'amendement n° 3723 de Mme Arrighi à l'article 30 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9625
+
+## Scrutin n° 9624 — 2026-11-03
+
+l'amendement n° 1186 de Mme Feld et les amendements identiques suivants de suppression de l'article 29 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9624
+
+## Scrutin n° 9623 — 2026-11-03
+
+l'amendement n° 4024 de Mme Lejeune à l'article 28 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9623
+
+## Scrutin n° 9622 — 2026-11-03
+
+l'amendement n° 3664 de M. Attal à l'article 28 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9622
+
+## Scrutin n° 9621 — 2026-11-03
+
+l'amendement n° 652 de M. Jean-Philippe Tanguy de suppression de l'article 28 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9621
+
+## Scrutin n° 9620 — 2026-11-03
+
+l'amendement n° 3693 de M. Jean-Philippe Tanguy après l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9620
+
+## Scrutin n° 9619 — 2026-11-03
+
+l'amendement n° 3990 du Gouvernement après l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9619
+
+## Scrutin n° 9618 — 2026-11-03
+
+l'amendement n° 692 de M. Dragon après l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9618
+
+## Scrutin n° 9617 — 2026-11-03
+
+l'amendement n° 1032 de Mme Élisa Martin après l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9617
+
+## Scrutin n° 9616 — 2026-11-03
+
+l'amendement n° 348 de M. Descoeur à l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9616
+
+## Scrutin n° 9615 — 2026-11-03
+
+l'amendement n° 1187 de Mme Erodi et les amendements identiques suivants de suppression de l'article 27 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9615
+
+## Scrutin n° 9614 — 2026-11-03
+
+l'amendement n° 1471 de M. Loubet après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9614
+
+## Scrutin n° 9613 — 2026-11-03
+
+l'amendement n° 2094 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9613
+
+## Scrutin n° 9612 — 2026-11-03
+
+l'amendement n° 634 de Mme Le Pen après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9612
+
+## Scrutin n° 9611 — 2026-11-03
+
+l'amendement n° 690 de M. Renault après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9611
+
+## Scrutin n° 9610 — 2026-11-03
+
+l'amendement n° 689 de M. Renault après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9610
+
+## Scrutin n° 9609 — 2026-11-03
+
+l'amendement n° 2388 (rect.) de M. Castor après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9609
+
+## Scrutin n° 9608 — 2026-11-03
+
+l'amendement n° 688 de M. Renault après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9608
+
+## Scrutin n° 9607 — 2026-11-03
+
+l'amendement n° 1016 de Mme Laporte après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9607
+
+## Scrutin n° 9606 — 2026-11-03
+
+l'amendement n° 1408 de M. Echaniz et les amendements identiques suivants après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9606
+
+## Scrutin n° 9605 — 2026-11-03
+
+l'amendement n° 2179 de Mme Mette et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9605
+
+## Scrutin n° 9604 — 2026-11-03
+
+l'amendement n° 2095 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9604
+
+## Scrutin n° 9603 — 2026-11-03
+
+l'amendement n° 1373 de Mme Regol après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9603
+
+## Scrutin n° 9602 — 2026-11-03
+
+l'amendement n° 3429 de Mme Chikirou après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9602
+
+## Scrutin n° 9601 — 2026-11-03
+
+l'amendement n° 3239 de M. de Courson après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9601
+
+## Scrutin n° 9600 — 2026-11-03
+
+l'amendement n° 3823 de M. Martineau après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9600
+
+## Scrutin n° 9599 — 2026-11-03
+
+l'amendement n° 2330 de M. Fugit après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9599
+
+## Scrutin n° 9598 — 2026-11-03
+
+l'amendement n° 687 de M. Renault et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9598
+
+## Scrutin n° 9597 — 2026-11-03
+
+l'amendement n° 686 de M. Renault et les amendements identiques suivants après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9597
+
+## Scrutin n° 9596 — 2026-11-03
+
+l'amendement n° 685 de M. Renault et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9596
+
+## Scrutin n° 9595 — 2026-11-03
+
+l'amendement n° 684 de M. Renault après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9595
+
+## Scrutin n° 9594 — 2026-11-03
+
+l'amendement n° 2581 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9594
+
+## Scrutin n° 9593 — 2026-11-03
+
+l'amendement n° 3637 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9593
+
+## Scrutin n° 9592 — 2026-11-03
+
+l'amendement n° 3614 de M. Ciotti après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9592
+
+## Scrutin n° 9591 — 2026-11-03
+
+l'amendement n° 156 de M. Boulogne après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9591
+
+## Scrutin n° 9590 — 2026-11-03
+
+l'amendement n° 158 de M. Boulogne après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9590
+
+## Scrutin n° 9589 — 2026-11-03
+
+l'amendement n° 2905 de M. Rolland après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9589
+
+## Scrutin n° 9588 — 2026-11-03
+
+l'amendement n° 2090 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9588
+
+## Scrutin n° 9587 — 2026-11-03
+
+l'amendement n° 2927 de M. Jolivet après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9587
+
+## Scrutin n° 9586 — 2026-11-03
+
+l'amendement n° 2033 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9586
+
+## Scrutin n° 9585 — 2026-11-03
+
+l'amendement n° 3691 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9585
+
+## Scrutin n° 9584 — 2026-11-03
+
+l'amendement n° 3544 de M. Pilato après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9584
+
+## Scrutin n° 9583 — 2026-11-03
+
+l'amendement n° 3452 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9583
+
+## Scrutin n° 9582 — 2026-11-03
+
+l'amendement n° 2164 de M. Buisson après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9582
+
+## Scrutin n° 9581 — 2026-11-03
+
+l'amendement n° 2086 de M. Coquerel après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9581
+
+## Scrutin n° 9580 — 2026-11-03
+
+l'amendement n° 132 de Mme Brulebois et les amendements identiques suivants après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9580
+
+## Scrutin n° 9579 — 2026-11-03
+
+l'amendement n° 3440 de M. Caron après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9579
+
+## Scrutin n° 9578 — 2026-11-02
+
+l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9578
+
+## Scrutin n° 9577 — 2026-11-02
+
+l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9577
+
+## Scrutin n° 9576 — 2026-11-02
+
+l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9576
+
+## Scrutin n° 9575 — 2026-11-02
+
+l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9575
+
+## Scrutin n° 9574 — 2026-11-02
+
+l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9574
+
+## Scrutin n° 9573 — 2026-11-02
+
+l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9573
+
+## Scrutin n° 9572 — 2026-11-02
+
+l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9572
+
+## Scrutin n° 9571 — 2026-11-02
+
+l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9571
+
+## Scrutin n° 9570 — 2026-11-02
+
+l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9570
+
+## Scrutin n° 9569 — 2026-11-02
+
+l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9569
+
+## Scrutin n° 9568 — 2026-11-02
+
+l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9568
+
+## Scrutin n° 9567 — 2026-11-02
+
+l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9567
+
+## Scrutin n° 9566 — 2026-11-02
+
+l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9566
+
+## Scrutin n° 9565 — 2026-11-02
+
+l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9565
+
+## Scrutin n° 9564 — 2026-11-02
+
+l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9564
+
+## Scrutin n° 9563 — 2026-11-02
+
+l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9563
+
+## Scrutin n° 9562 — 2026-11-02
+
+l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9562
+
+## Scrutin n° 9561 — 2026-11-02
+
+l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9561
+
+## Scrutin n° 9560 — 2026-11-02
+
+l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9560
+
+## Scrutin n° 9559 — 2026-11-02
+
+l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9559
+
+## Scrutin n° 9558 — 2026-11-02
+
+l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9558
+
+## Scrutin n° 9557 — 2026-11-02
+
+l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9557
+
+## Scrutin n° 9556 — 2026-11-02
+
+l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9556
+
+## Scrutin n° 9555 — 2026-11-02
+
+l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9555
+
+## Scrutin n° 9554 — 2026-11-02
+
+l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9554
+
+## Scrutin n° 9553 — 2026-11-02
+
+l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9553
+
+## Scrutin n° 9552 — 2026-11-02
+
+l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9552
+
+## Scrutin n° 9551 — 2026-11-02
+
+l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9551
+
+## Scrutin n° 9550 — 2026-11-02
+
+l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9550
+
+## Scrutin n° 9549 — 2026-11-02
+
+l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9549
+
+## Scrutin n° 9548 — 2026-11-02
+
+l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9548
+
+## Scrutin n° 9547 — 2026-11-02
+
+l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9547
+
+## Scrutin n° 9546 — 2026-11-02
+
+l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9546
+
+## Scrutin n° 9545 — 2026-11-02
+
+l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9545
+
+## Scrutin n° 9544 — 2026-11-02
+
+l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9544
+
+## Scrutin n° 9543 — 2026-11-02
+
+l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9543
+
+## Scrutin n° 9542 — 2026-11-02
+
+l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9542
+
+## Scrutin n° 9541 — 2026-11-02
+
+l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9541
+
+## Scrutin n° 9540 — 2026-11-02
+
+l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9540
+
+## Scrutin n° 9539 — 2026-11-02
+
+l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9539
+
+## Scrutin n° 9538 — 2026-11-02
+
+l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9538
+
+## Scrutin n° 9537 — 2026-11-02
+
+l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9537
+
+## Scrutin n° 9536 — 2026-11-02
+
+l'amendement n° 442 de M. Ferracci et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9536
+
+## Scrutin n° 9535 — 2026-11-02
+
+l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9535
+
+## Scrutin n° 9534 — 2026-11-02
+
+l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9534
+
+## Scrutin n° 9533 — 2026-11-02
+
+l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9533
+
+## Scrutin n° 9532 — 2026-11-02
+
+l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9532
+
+## Scrutin n° 9531 — 2026-11-02
+
+l'amendement n° 2583 (rect.) de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9531
+
+## Scrutin n° 9530 — 2026-11-02
+
+l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9530
+
+## Scrutin n° 9529 — 2026-11-02
+
+l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9529
+
+## Scrutin n° 9528 — 2026-11-02
+
+l'amendement n° 2316 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9528
+
+## Scrutin n° 9527 — 2026-11-02
+
+l'amendement n° 2315 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9527
+
+## Scrutin n° 9526 — 2026-11-02
+
+l'amendement n° 3402 de M. Juvin à l'article 24 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9526
+
+## Scrutin n° 9525 — 2026-11-02
+
+l'amendement n° 2106 de M. Lucas-Lundy après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9525
+
+## Scrutin n° 9524 — 2026-11-02
+
+l'amendement n° 681 de M. Chenu après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9524
+
+## Scrutin n° 9523 — 2026-11-02
+
+l'amendement n° 297 de M. Bilongo après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9523
+
+## Scrutin n° 9522 — 2026-11-02
+
+l'amendement n° 761 de M. Renault après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9522
+
+## Scrutin n° 9521 — 2026-11-02
+
+l'amendement n° 2527 de M. Le Coq après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9521
+
+## Scrutin n° 9520 — 2026-11-02
+
+l'amendement n° 680 de M. Jean-Philippe Tanguy après l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9520
+
+## Scrutin n° 9519 — 2026-11-02
+
+l'amendement n° 163 de M. Boulogne et les amendements identiques suivants de suppression de l'article 23 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9519
+
+## Scrutin n° 9518 — 2026-11-02
+
+l'amendement n° 1461 (rect.) de M. Coquerel à l'article 22 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9518
+
+## Scrutin n° 9517 — 2026-11-02
+
+l'amendement n° 2772 de M. Masséglia à l'article 22 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9517
+
+## Scrutin n° 9516 — 2026-11-02
+
+l'amendement n° 36 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 22 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9516
+
+## Scrutin n° 9515 — 2026-11-02
+
+l'amendement n° 923 de Mme Bellay à l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9515
+
+## Scrutin n° 9514 — 2026-11-02
+
+l'amendement n° 1544 de M. Nadeau à l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9514
+
+## Scrutin n° 9513 — 2026-11-02
+
+l'amendement n° 908 de Mme Bellay et l'amendement identique suivant à l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9513
+
+## Scrutin n° 9512 — 2026-11-02
+
+l'amendement n° 547 de M. Lottiaux et les amendements identiques suivants à l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9512
+
+## Scrutin n° 9511 — 2026-11-02
+
+l'amendement n° 1539 de M. Fouquart à l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9511
+
+## Scrutin n° 9510 — 2026-11-02
+
+l'amendement n° 1191 de Mme Maximi de suppression de l'article 21 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9510
+
+## Scrutin n° 9509 — 2026-11-02
+
+l'amendement n° 1361 de M. Le Coq et l'amendement identique suivant de suppression de l'article 20 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9509
+
+## Scrutin n° 9508 — 2026-11-02
+
+l'amendement n° 1378 de M. Bilongo à l'article 19 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9508
+
+## Scrutin n° 9507 — 2026-11-02
+
+l'amendement n° 1375 de Mme Maximi à l'article 19 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9507
+
+## Scrutin n° 9506 — 2026-11-02
+
+l'amendement n° 1030 de M. Coulomme après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9506
+
+## Scrutin n° 9505 — 2026-11-02
+
+l'amendement n° 2521 de M. Fugit après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9505
+
+## Scrutin n° 9504 — 2026-11-02
+
+l'amendement n° 676 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9504
+
+## Scrutin n° 9503 — 2026-11-02
+
+l'amendement n° 675 de M. Tivoli après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9503
+
+## Scrutin n° 9502 — 2026-11-02
+
+l'amendement n° 1181 de M. Metzdorf après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9502
+
+## Scrutin n° 9501 — 2026-11-02
+
+l'amendement n° 968 de Mme Marsaud après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9501
+
+## Scrutin n° 9500 — 2026-11-02
+
+l'amendement n° 907 de Mme Bellay après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9500
+
+## Scrutin n° 9499 — 2026-11-02
+
+l'amendement n° 1040 de M. Ratenon après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9499
+
+## Scrutin n° 9498 — 2026-11-02
+
+l'amendement n° 641 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9498
+
+## Scrutin n° 9497 — 2026-11-02
+
+l'amendement n° 3685 de M. Le Coq après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9497
+
+## Scrutin n° 9496 — 2026-11-02
+
+l'amendement n° 1026 de M. Piquemal après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9496
+
+## Scrutin n° 9495 — 2026-11-02
+
+l'amendement n° 3136 de M. Le Coq après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : L'Assemblée nationale n'a pas adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9495
+
+## Scrutin n° 9494 — 2026-11-02
+
+l'amendement n° 3692 de M. Jean-Philippe Tanguy et l'amendement identique suivant après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9494
+
+## Scrutin n° 9493 — 2026-11-02
+
+l'amendement n° 302 de Mme Lejeune après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9493
+
+## Scrutin n° 9492 — 2026-11-02
+
+l'amendement n° 3717 de Mme Arrighi après l'article 16 du projet de loi de finances pour 2027 (première lecture).
+
+Résultat officiel : l'Assemblée nationale a adopté
+
+Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9492
 
 ## Scrutin n° 9491 — 2026-11-02
 
@@ -311,7 +2455,7 @@ Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9454
 
 ## Scrutin n° 9453 — 2026-10-30
 
-l'amendement n° 2757 de M. Masséglia après l'article 15 du projet de loi de finances pour 2027 (première lecture).
+l'amendement n° 2757 de M. Masséglia et l'amendement identique suivant après l'article 15 du projet de loi de finances pour 2027 (première lecture).
 
 Résultat officiel : L'Assemblée nationale n'a pas adopté
 
@@ -503,7 +2647,7 @@ Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9430
 
 ## Scrutin n° 9429 — 2026-10-30
 
-l'amendement n° 1480 de Mme Reid Arbelot et les amendements identiques suivants après l'article 15 du projet de loi de finances pour 2027 (première lecture).
+l'amendement n° 1993 de Mme Bellay après l'article 15 du projet de loi de finances pour 2027 (première lecture).
 
 Résultat officiel : l'Assemblée nationale a adopté
 
@@ -655,7 +2799,7 @@ Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9411
 
 ## Scrutin n° 9410 — 2026-10-30
 
-l'amendement n° 1609 de M. Galzy à l'article 13 du projet de loi de finances pour 2027 (première lecture).
+l'amendement n° 1609 (rect.) de M. Galzy à l'article 13 du projet de loi de finances pour 2027 (première lecture).
 
 Résultat officiel : L'Assemblée nationale n'a pas adopté
 
@@ -1252,2155 +3396,3 @@ l'amendement n° 1358 de M. Lhardit après l'article 15 (examen prioritaire) du 
 Résultat officiel : l'Assemblée nationale a adopté
 
 Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9336
-
-## Scrutin n° 9335 — 2026-10-29
-
-l'article 2 de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9335
-
-## Scrutin n° 9334 — 2026-10-29
-
-l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9334
-
-## Scrutin n° 9333 — 2026-10-29
-
-l'amendement n° 4 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9333
-
-## Scrutin n° 9332 — 2026-10-29
-
-le sous-amendement n° 128 de Mme Fiol à l'amendement n° 4 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9332
-
-## Scrutin n° 9331 — 2026-10-29
-
-le sous-amendement n° 70 de Mme Fiol à l'amendement n° 4 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9331
-
-## Scrutin n° 9330 — 2026-10-29
-
-l'amendement n° 3 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9330
-
-## Scrutin n° 9329 — 2026-10-29
-
-le sous-amendement n° 52 de M. Valentin à l'amendement n° 3 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9329
-
-## Scrutin n° 9328 — 2026-10-29
-
-le sous-amendement n° 49 de M. Valentin à l'amendement n° 3 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9328
-
-## Scrutin n° 9327 — 2026-10-29
-
-le sous-amendement n° 73 de Mme Ranc à l'amendement n° 3 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9327
-
-## Scrutin n° 9326 — 2026-10-29
-
-l'amendement n° 6 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9326
-
-## Scrutin n° 9325 — 2026-10-29
-
-l'amendement n° 5 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9325
-
-## Scrutin n° 9324 — 2026-10-29
-
-le sous-amendement n° 92 de Mme Ranc à l'amendement n° 5 de Mme Blanc à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9324
-
-## Scrutin n° 9323 — 2026-10-29
-
-l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9323
-
-## Scrutin n° 9322 — 2026-10-29
-
-le sous-amendement n° 145 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9322
-
-## Scrutin n° 9321 — 2026-10-29
-
-le sous-amendement n° 25 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9321
-
-## Scrutin n° 9320 — 2026-10-29
-
-le sous-amendement n° 144 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9320
-
-## Scrutin n° 9319 — 2026-10-29
-
-le sous-amendement n° 142 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9319
-
-## Scrutin n° 9318 — 2026-10-29
-
-le sous-amendement n° 139 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9318
-
-## Scrutin n° 9317 — 2026-10-29
-
-le sous-amendement n° 140 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9317
-
-## Scrutin n° 9316 — 2026-10-29
-
-le sous-amendement n° 136 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9316
-
-## Scrutin n° 9315 — 2026-10-29
-
-le sous-amendement n° 24 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9315
-
-## Scrutin n° 9314 — 2026-10-29
-
-le sous-amendement n° 65 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9314
-
-## Scrutin n° 9313 — 2026-10-29
-
-le sous-amendement n° 114 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9313
-
-## Scrutin n° 9312 — 2026-10-29
-
-le sous-amendement n° 137 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9312
-
-## Scrutin n° 9311 — 2026-10-29
-
-le sous-amendement n° 134 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9311
-
-## Scrutin n° 9310 — 2026-10-29
-
-le sous-amendement n° 23 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9310
-
-## Scrutin n° 9309 — 2026-10-29
-
-le sous-amendement n° 64 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9309
-
-## Scrutin n° 9308 — 2026-10-29
-
-le sous-amendement n° 130 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9308
-
-## Scrutin n° 9307 — 2026-10-29
-
-le sous-amendement n° 63 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9307
-
-## Scrutin n° 9306 — 2026-10-29
-
-le sous-amendement n° 47 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9306
-
-## Scrutin n° 9305 — 2026-10-29
-
-le sous-amendement n° 43 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9305
-
-## Scrutin n° 9304 — 2026-10-29
-
-le sous-amendement n° 22 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9304
-
-## Scrutin n° 9303 — 2026-10-29
-
-le sous-amendement n° 26 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9303
-
-## Scrutin n° 9302 — 2026-10-29
-
-le sous-amendement n° 21 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9302
-
-## Scrutin n° 9301 — 2026-10-29
-
-le sous-amendement n° 67 de Mme Ranc à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9301
-
-## Scrutin n° 9300 — 2026-10-29
-
-le sous-amendement n° 62 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9300
-
-## Scrutin n° 9299 — 2026-10-29
-
-le sous-amendement n° 20 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9299
-
-## Scrutin n° 9298 — 2026-10-29
-
-le sous-amendement n° 66 de Mme Ranc à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9298
-
-## Scrutin n° 9297 — 2026-10-29
-
-le sous-amendement n° 19 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9297
-
-## Scrutin n° 9296 — 2026-10-29
-
-le sous-amendement n° 113 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9296
-
-## Scrutin n° 9295 — 2026-10-29
-
-le sous-amendement n° 18 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9295
-
-## Scrutin n° 9294 — 2026-10-29
-
-le sous-amendement n° 98 de Mme Fiol à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9294
-
-## Scrutin n° 9293 — 2026-10-29
-
-le sous-amendement n° 17 de M. Valentin et le sous-amendement identique suivant à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9293
-
-## Scrutin n° 9292 — 2026-10-29
-
-le sous-amendement n° 60 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9292
-
-## Scrutin n° 9291 — 2026-10-29
-
-le sous-amendement n° 16 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9291
-
-## Scrutin n° 9290 — 2026-10-29
-
-le sous-amendement n° 15 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9290
-
-## Scrutin n° 9289 — 2026-10-29
-
-le sous-amendement n° 117 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9289
-
-## Scrutin n° 9288 — 2026-10-29
-
-le sous-amendement n° 105 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9288
-
-## Scrutin n° 9287 — 2026-10-29
-
-le sous-amendement n° 119 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9287
-
-## Scrutin n° 9286 — 2026-10-29
-
-le sous-amendement n° 59 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9286
-
-## Scrutin n° 9285 — 2026-10-29
-
-le sous-amendement n° 58 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9285
-
-## Scrutin n° 9284 — 2026-10-29
-
-le sous-amendement n° 56 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9284
-
-## Scrutin n° 9283 — 2026-10-29
-
-le sous-amendement n° 57 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9283
-
-## Scrutin n° 9282 — 2026-10-29
-
-le sous-amendement n° 112 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9282
-
-## Scrutin n° 9281 — 2026-10-29
-
-le sous-amendement n° 14 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9281
-
-## Scrutin n° 9280 — 2026-10-29
-
-le sous-amendement n° 123 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9280
-
-## Scrutin n° 9279 — 2026-10-29
-
-le sous-amendement n° 118 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9279
-
-## Scrutin n° 9278 — 2026-10-29
-
-le sous-amendement n° 53 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9278
-
-## Scrutin n° 9277 — 2026-10-29
-
-le sous-amendement n° 51 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9277
-
-## Scrutin n° 9276 — 2026-10-29
-
-le sous-amendement n° 50 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9276
-
-## Scrutin n° 9275 — 2026-10-29
-
-le sous-amendement n° 48 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9275
-
-## Scrutin n° 9274 — 2026-10-29
-
-le sous-amendement n° 122 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9274
-
-## Scrutin n° 9273 — 2026-10-29
-
-le sous-amendement n° 116 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9273
-
-## Scrutin n° 9272 — 2026-10-29
-
-le sous-amendement n° 115 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9272
-
-## Scrutin n° 9271 — 2026-10-29
-
-le sous-amendement n° 111 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9271
-
-## Scrutin n° 9270 — 2026-10-29
-
-le sous-amendement n° 110 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9270
-
-## Scrutin n° 9269 — 2026-10-29
-
-le sous-amendement n° 109 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9269
-
-## Scrutin n° 9268 — 2026-10-29
-
-le sous-amendement n° 108 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9268
-
-## Scrutin n° 9267 — 2026-10-29
-
-le sous-amendement n° 45 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9267
-
-## Scrutin n° 9266 — 2026-10-29
-
-le sous-amendement n° 159 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9266
-
-## Scrutin n° 9265 — 2026-10-29
-
-le sous-amendement n° 39 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9265
-
-## Scrutin n° 9264 — 2026-10-29
-
-le sous-amendement n° 41 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9264
-
-## Scrutin n° 9263 — 2026-10-29
-
-le sous-amendement n° 69 de M. Breton à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9263
-
-## Scrutin n° 9262 — 2026-10-29
-
-le sous-amendement n° 68 de M. Breton à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9262
-
-## Scrutin n° 9261 — 2026-10-29
-
-le sous-amendement n° 13 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9261
-
-## Scrutin n° 9260 — 2026-10-29
-
-le sous-amendement n° 37 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9260
-
-## Scrutin n° 9259 — 2026-10-29
-
-le sous-amendement n° 35 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9259
-
-## Scrutin n° 9258 — 2026-10-29
-
-le sous-amendement n° 107 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9258
-
-## Scrutin n° 9257 — 2026-10-29
-
-le sous-amendement n° 44 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9257
-
-## Scrutin n° 9256 — 2026-10-29
-
-le sous-amendement n° 157 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9256
-
-## Scrutin n° 9255 — 2026-10-29
-
-le sous-amendement n° 156 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9255
-
-## Scrutin n° 9254 — 2026-10-29
-
-le sous-amendement n° 155 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9254
-
-## Scrutin n° 9253 — 2026-10-29
-
-le sous-amendement n° 154 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9253
-
-## Scrutin n° 9252 — 2026-10-29
-
-le sous-amendement n° 121 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9252
-
-## Scrutin n° 9251 — 2026-10-29
-
-le sous-amendement n° 33 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9251
-
-## Scrutin n° 9250 — 2026-10-29
-
-le sous-amendement n° 31 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9250
-
-## Scrutin n° 9249 — 2026-10-29
-
-le sous-amendement n° 158 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9249
-
-## Scrutin n° 9248 — 2026-10-29
-
-le sous-amendement n° 12 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9248
-
-## Scrutin n° 9247 — 2026-10-29
-
-le sous-amendement n° 30 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9247
-
-## Scrutin n° 9246 — 2026-10-29
-
-le sous-amendement n° 153 de M. Valentin à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9246
-
-## Scrutin n° 9245 — 2026-10-29
-
-le sous-amendement n° 106 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9245
-
-## Scrutin n° 9244 — 2026-10-29
-
-le sous-amendement n° 29 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9244
-
-## Scrutin n° 9243 — 2026-10-29
-
-le sous-amendement n° 120 de M. Fayssat à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9243
-
-## Scrutin n° 9242 — 2026-10-29
-
-le sous-amendement n° 27 de M. Bloch à l'amendement n° 8 (rect.) de Mme Hamelet à l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9242
-
-## Scrutin n° 9241 — 2026-10-29
-
-l'ensemble de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9241
-
-## Scrutin n° 9240 — 2026-10-29
-
-l'article 4 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9240
-
-## Scrutin n° 9239 — 2026-10-29
-
-l'article 3 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9239
-
-## Scrutin n° 9238 — 2026-10-29
-
-l'article 2 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9238
-
-## Scrutin n° 9237 — 2026-10-29
-
-l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9237
-
-## Scrutin n° 9236 — 2026-10-29
-
-le sous-amendement n° 90 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9236
-
-## Scrutin n° 9235 — 2026-10-29
-
-le sous-amendement n° 89 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9235
-
-## Scrutin n° 9234 — 2026-10-29
-
-le sous-amendement n° 88 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9234
-
-## Scrutin n° 9233 — 2026-10-29
-
-le sous-amendement n° 73 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9233
-
-## Scrutin n° 9232 — 2026-10-29
-
-le sous-amendement n° 72 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9232
-
-## Scrutin n° 9231 — 2026-10-29
-
-le sous-amendement n° 71 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9231
-
-## Scrutin n° 9230 — 2026-10-29
-
-le sous-amendement n° 70 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9230
-
-## Scrutin n° 9229 — 2026-10-29
-
-le sous-amendement n° 69 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9229
-
-## Scrutin n° 9228 — 2026-10-29
-
-le sous-amendement n° 68 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9228
-
-## Scrutin n° 9227 — 2026-10-29
-
-le sous-amendement n° 67 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9227
-
-## Scrutin n° 9226 — 2026-10-29
-
-le sous-amendement n° 66 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9226
-
-## Scrutin n° 9225 — 2026-10-29
-
-le sous-amendement n° 65 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9225
-
-## Scrutin n° 9224 — 2026-10-29
-
-le sous-amendement n° 64 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9224
-
-## Scrutin n° 9223 — 2026-10-29
-
-le sous-amendement n° 63 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9223
-
-## Scrutin n° 9222 — 2026-10-29
-
-le sous-amendement n° 62 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9222
-
-## Scrutin n° 9221 — 2026-10-29
-
-le sous-amendement n° 61 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9221
-
-## Scrutin n° 9220 — 2026-10-29
-
-le sous-amendement n° 60 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9220
-
-## Scrutin n° 9219 — 2026-10-29
-
-le sous-amendement n° 59 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9219
-
-## Scrutin n° 9218 — 2026-10-29
-
-le sous-amendement n° 58 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9218
-
-## Scrutin n° 9217 — 2026-10-29
-
-le sous-amendement n° 57 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9217
-
-## Scrutin n° 9216 — 2026-10-29
-
-le sous-amendement n° 56 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9216
-
-## Scrutin n° 9215 — 2026-10-29
-
-le sous-amendement n° 55 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9215
-
-## Scrutin n° 9214 — 2026-10-29
-
-le sous-amendement n° 54 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9214
-
-## Scrutin n° 9213 — 2026-10-29
-
-le sous-amendement n° 53 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9213
-
-## Scrutin n° 9212 — 2026-10-29
-
-le sous-amendement n° 52 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9212
-
-## Scrutin n° 9211 — 2026-10-29
-
-le sous-amendement n° 51 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9211
-
-## Scrutin n° 9210 — 2026-10-29
-
-le sous-amendement n° 50 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9210
-
-## Scrutin n° 9209 — 2026-10-29
-
-le sous-amendement n° 49 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9209
-
-## Scrutin n° 9208 — 2026-10-29
-
-le sous-amendement n° 48 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9208
-
-## Scrutin n° 9207 — 2026-10-29
-
-le sous-amendement n° 47 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9207
-
-## Scrutin n° 9206 — 2026-10-29
-
-le sous-amendement n° 46 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9206
-
-## Scrutin n° 9205 — 2026-10-29
-
-le sous-amendement n° 45 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9205
-
-## Scrutin n° 9204 — 2026-10-29
-
-le sous-amendement n° 44 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9204
-
-## Scrutin n° 9203 — 2026-10-29
-
-l'ensemble de la proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9203
-
-## Scrutin n° 9202 — 2026-10-29
-
-l'article premier de la proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9202
-
-## Scrutin n° 9201 — 2026-10-29
-
-l'article premier de la proposition de loi rétablissant le droit commun de la prescription acquisitive dans les Collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9201
-
-## Scrutin n° 9200 — 2026-10-28
-
-l'amendement n° 1022 de M. Fournier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9200
-
-## Scrutin n° 9199 — 2026-10-28
-
-l'amendement n° 2475 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9199
-
-## Scrutin n° 9198 — 2026-10-28
-
-l'amendement n° 2474 de Mme Lejeune après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9198
-
-## Scrutin n° 9197 — 2026-10-28
-
-l'amendement n° 2473 de Mme Chikirou après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9197
-
-## Scrutin n° 9196 — 2026-10-28
-
-l'amendement n° 1274 de M. Fournier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9196
-
-## Scrutin n° 9195 — 2026-10-28
-
-l'amendement n° 1914 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9195
-
-## Scrutin n° 9194 — 2026-10-28
-
-l'amendement n° 3467 de Mme Stambach-Terrenoir après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9194
-
-## Scrutin n° 9193 — 2026-10-28
-
-l'amendement n° 1397 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9193
-
-## Scrutin n° 9192 — 2026-10-28
-
-l'amendement n° 3659 de M. Attal après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9192
-
-## Scrutin n° 9191 — 2026-10-28
-
-l'amendement n° 3658 de M. Attal après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9191
-
-## Scrutin n° 9190 — 2026-10-28
-
-l'amendement n° 1357 de M. Mickaël Bouloux après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9190
-
-## Scrutin n° 9189 — 2026-10-28
-
-l'amendement n° 1845 de M. Mickaël Bouloux après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9189
-
-## Scrutin n° 9188 — 2026-10-28
-
-l'amendement n° 1198 de M. Fournier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9188
-
-## Scrutin n° 9187 — 2026-10-28
-
-l'amendement n° 1866 de M. Mickaël Bouloux et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9187
-
-## Scrutin n° 9186 — 2026-10-28
-
-l'amendement n° 3948 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9186
-
-## Scrutin n° 9185 — 2026-10-28
-
-l'amendement n° 1368 de Mme Pirès Beaune après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9185
-
-## Scrutin n° 9184 — 2026-10-28
-
-l'amendement n° 1510 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9184
-
-## Scrutin n° 9183 — 2026-10-28
-
-l'amendement n° 1507 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9183
-
-## Scrutin n° 9182 — 2026-10-28
-
-l'amendement n° 992 de Mme Bellay après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9182
-
-## Scrutin n° 9181 — 2026-10-28
-
-l'amendement n° 2138 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9181
-
-## Scrutin n° 9180 — 2026-10-28
-
-l'amendement n° 1863 de M. Mickaël Bouloux après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9180
-
-## Scrutin n° 9179 — 2026-10-28
-
-l'amendement n° 1365 de Mme Mercier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9179
-
-## Scrutin n° 9178 — 2026-10-28
-
-l'amendement n° 3958 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9178
-
-## Scrutin n° 9177 — 2026-10-28
-
-l'amendement n° 291 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9177
-
-## Scrutin n° 9176 — 2026-10-28
-
-l'amendement n° 2133 (2ème rect.) de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9176
-
-## Scrutin n° 9175 — 2026-10-28
-
-l'amendement n° 3221 de M. de Courson après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9175
-
-## Scrutin n° 9174 — 2026-10-28
-
-l'amendement n° 2128 de Mme Bentorki après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9174
-
-## Scrutin n° 9173 — 2026-10-28
-
-l'amendement n° 2121 de Mme Bentorki après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9173
-
-## Scrutin n° 9172 — 2026-10-28
-
-l'amendement n° 2114 de M. Bompard après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9172
-
-## Scrutin n° 9171 — 2026-10-28
-
-l'amendement n° 39 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9171
-
-## Scrutin n° 9170 — 2026-10-28
-
-l'amendement n° 40 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9170
-
-## Scrutin n° 9169 — 2026-10-28
-
-l'amendement n° 933 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9169
-
-## Scrutin n° 9168 — 2026-10-28
-
-l'amendement n° 1654 de M. Ciotti après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9168
-
-## Scrutin n° 9167 — 2026-10-28
-
-l'amendement n° 2628 de Mme Lejeune après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9167
-
-## Scrutin n° 9166 — 2026-10-28
-
-l'amendement n° 3734 du Gouvernement après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9166
-
-## Scrutin n° 9165 — 2026-10-28
-
-l'amendement n° 1525 de M. Philippe Brun après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9165
-
-## Scrutin n° 9164 — 2026-10-28
-
-l'amendement n° 3949 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9164
-
-## Scrutin n° 9163 — 2026-10-28
-
-l'amendement n° 2468 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9163
-
-## Scrutin n° 9162 — 2026-10-28
-
-l'amendement n° 1402 (rect.) de Mme Mercier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9162
-
-## Scrutin n° 9161 — 2026-10-28
-
-l'amendement n° 3439 de Mme Cathala après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9161
-
-## Scrutin n° 9160 — 2026-10-28
-
-l'amendement n° 304 de Mme Lejeune après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9160
-
-## Scrutin n° 9159 — 2026-10-28
-
-l'amendement n° 1362 de M. Mickaël Bouloux après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9159
-
-## Scrutin n° 9158 — 2026-10-28
-
-l'amendement n° 1512 de M. Pilato après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9158
-
-## Scrutin n° 9157 — 2026-10-28
-
-l'amendement n° 295 de Mme Lejeune après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9157
-
-## Scrutin n° 9156 — 2026-10-28
-
-l'amendement n° 2463 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9156
-
-## Scrutin n° 9155 — 2026-10-27
-
-l'amendement n° 1405 de M. Baumel et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9155
-
-## Scrutin n° 9154 — 2026-10-27
-
-l'amendement n° 3224 de M. Mazaury après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9154
-
-## Scrutin n° 9153 — 2026-10-27
-
-l'amendement n° 3782 de M. Mattei après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9153
-
-## Scrutin n° 9152 — 2026-10-27
-
-l'amendement n° 3531 de Mme Trouvé après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9152
-
-## Scrutin n° 9151 — 2026-10-27
-
-l'amendement n° 2618 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9151
-
-## Scrutin n° 9150 — 2026-10-27
-
-l'amendement n° 2113 de Mme Feld après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9150
-
-## Scrutin n° 9149 — 2026-10-27
-
-l'amendement n° 2107 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9149
-
-## Scrutin n° 9148 — 2026-10-27
-
-l'amendement n° 1282 de M. Arnaud Bonnet après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9148
-
-## Scrutin n° 9147 — 2026-10-27
-
-l'amendement n° 2619 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9147
-
-## Scrutin n° 9146 — 2026-10-27
-
-l'amendement n° 1516 de Mme Maximi après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9146
-
-## Scrutin n° 9145 — 2026-10-27
-
-l'amendement n° 2629 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9145
-
-## Scrutin n° 9144 — 2026-10-27
-
-l'amendement n° 1360 de Mme Mercier et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9144
-
-## Scrutin n° 9143 — 2026-10-27
-
-l'amendement n° 1513 de M. Coquerel et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9143
-
-## Scrutin n° 9142 — 2026-10-27
-
-l'amendement n° 3945 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9142
-
-## Scrutin n° 9141 — 2026-10-27
-
-l'amendement n° 2617 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9141
-
-## Scrutin n° 9140 — 2026-10-27
-
-l'amendement n° 669 de M. Jean-Philippe Tanguy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9140
-
-## Scrutin n° 9139 — 2026-10-27
-
-l'amendement n° 1396 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9139
-
-## Scrutin n° 9138 — 2026-10-27
-
-l'amendement n° 2923 de Mme Mercier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9138
-
-## Scrutin n° 9137 — 2026-10-27
-
-l'amendement n° 2464 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9137
-
-## Scrutin n° 9136 — 2026-10-27
-
-l'amendement n° 2620 de Mme Feld après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9136
-
-## Scrutin n° 9135 — 2026-10-27
-
-l'amendement n° 2630 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9135
-
-## Scrutin n° 9134 — 2026-10-27
-
-l'amendement n° 49 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9134
-
-## Scrutin n° 9133 — 2026-10-27
-
-l'amendement n° 2144 de M. Bilongo après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9133
-
-## Scrutin n° 9132 — 2026-10-27
-
-l'amendement n° 1372 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9132
-
-## Scrutin n° 9131 — 2026-10-27
-
-l'amendement n° 2633 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9131
-
-## Scrutin n° 9130 — 2026-10-27
-
-l'amendement n° 1382 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9130
-
-## Scrutin n° 9129 — 2026-10-27
-
-l'amendement n° 1558 de M. Ray et l'amendement identique suivant après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9129
-
-## Scrutin n° 9128 — 2026-10-27
-
-l'amendement n° 1332 de M. Potier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9128
-
-## Scrutin n° 9127 — 2026-10-27
-
-l'amendement n° 3599 de M. Tavel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9127
-
-## Scrutin n° 9126 — 2026-10-27
-
-l'amendement n° 2479 de M. Le Coq après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9126
-
-## Scrutin n° 9125 — 2026-10-27
-
-l'amendement n° 3595 de Mme Abomangoli après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9125
-
-## Scrutin n° 9124 — 2026-10-27
-
-l'amendement n° 1037 de M. Bompard après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9124
-
-## Scrutin n° 9123 — 2026-10-27
-
-l'amendement n° 69 de M. Grenon et les amendements identiques suivants de suppression de l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9123
-
-## Scrutin n° 9122 — 2026-10-27
-
-l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9122
-
-## Scrutin n° 9121 — 2026-10-27
-
-l'amendement n° 2305 (rect.) de M. Fugit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9121
-
-## Scrutin n° 9120 — 2026-10-27
-
-l'amendement n° 3488 (rect.) de M. Labaronne à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9120
-
-## Scrutin n° 9119 — 2026-10-27
-
-l'amendement n° 2190 (rect.) de M. Patrice Martin à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9119
-
-## Scrutin n° 9118 — 2026-10-27
-
-l'amendement n° 1482 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9118
-
-## Scrutin n° 9117 — 2026-10-27
-
-l'amendement n° 2508 de M. Coquerel à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9117
-
-## Scrutin n° 9116 — 2026-10-27
-
-l'amendement n° 2547 de Mme Violland à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9116
-
-## Scrutin n° 9115 — 2026-10-27
-
-l'amendement n° 70 de M. Dufosset à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9115
-
-## Scrutin n° 9114 — 2026-10-27
-
-l'amendement n° 1486 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9114
-
-## Scrutin n° 9113 — 2026-10-27
-
-l'amendement n° 407 de M. Liger et les amendements identiques suivants à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9113
-
-## Scrutin n° 9112 — 2026-10-27
-
-l'amendement n° 522 de M. Ciotti et l'amendement identique suivant à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9112
-
-## Scrutin n° 9111 — 2026-10-27
-
-l'amendement n° 783 de M. Lhardit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9111
-
-## Scrutin n° 9110 — 2026-10-27
-
-l'amendement n° 3883 de Mme Olivia Grégoire à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9110
-
-## Scrutin n° 9109 — 2026-10-27
-
-l'amendement n° 1481 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9109
-
-## Scrutin n° 9108 — 2026-10-27
-
-l'amendement n° 2933 de M. Masséglia à l'article 6 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9108
-
-## Scrutin n° 9107 — 2026-10-27
-
-l'amendement n° 2466 de M. Sitzenstuhl à l'article 6 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9107
-
-## Scrutin n° 9106 — 2026-10-27
-
-l'amendement n° 283 (rect.) de M. End et les amendements identiques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9106
-
-## Scrutin n° 9105 — 2026-10-27
-
-l'amendement n° 3843 de M. Kasbarian après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9105
-
-## Scrutin n° 9104 — 2026-10-27
-
-l'amendement n° 2940 de M. Colombani après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9104
-
-## Scrutin n° 9103 — 2026-10-27
-
-l'amendement n° 3257 de Mme Létard après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9103
-
-## Scrutin n° 9102 — 2026-10-27
-
-l'amendement n° 3124 de Mme Thomin après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9102
-
-## Scrutin n° 9101 — 2026-10-27
-
-l'amendement n° 23 de M. Delautrette et les amendements identques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9101
-
-## Scrutin n° 9100 — 2026-10-27
-
-l'amendement n° 35 (rect.) de M. Delautrette après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9100
-
-## Scrutin n° 9099 — 2026-10-27
-
-l'amendement n° 34 de M. Delautrette après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9099
-
-## Scrutin n° 9098 — 2026-10-27
-
-l'amendement n° 2231 (rect.) de Mme Miller et les amendements identiques suivants après l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9098
-
-## Scrutin n° 9097 — 2026-10-23
-
-la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9097
-
-## Scrutin n° 9096 — 2026-10-23
-
-l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9096
-
-## Scrutin n° 9095 — 2026-10-23
-
-l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9095
-
-## Scrutin n° 9094 — 2026-10-23
-
-l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9094
-
-## Scrutin n° 9093 — 2026-10-23
-
-l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9093
-
-## Scrutin n° 9092 — 2026-10-23
-
-l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9092
-
-## Scrutin n° 9091 — 2026-10-23
-
-l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9091
-
-## Scrutin n° 9090 — 2026-10-23
-
-l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9090
-
-## Scrutin n° 9089 — 2026-10-23
-
-l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9089
-
-## Scrutin n° 9088 — 2026-10-23
-
-l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9088
-
-## Scrutin n° 9087 — 2026-10-23
-
-l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9087
-
-## Scrutin n° 9086 — 2026-10-23
-
-l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9086
-
-## Scrutin n° 9085 — 2026-10-23
-
-l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9085
-
-## Scrutin n° 9084 — 2026-10-23
-
-l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9084
-
-## Scrutin n° 9083 — 2026-10-23
-
-l'amendement n° 719 de Mme Hamdane et l'amendement identique suivant de suppression de l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9083
-
-## Scrutin n° 9082 — 2026-10-23
-
-l'amendement n° 651 de M. Monnet et l'amendement identique suivant après l'article 14 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9082
-
-## Scrutin n° 9081 — 2026-10-23
-
-l'amendement n° 636 de M. Dive et les amendements identiques suivants après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9081
-
-## Scrutin n° 9080 — 2026-10-23
-
-l'amendement n° 293 de M. Loubet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9080
-
-## Scrutin n° 9079 — 2026-10-23
-
-l'amendement n° 865 de M. Dessigny après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9079
-
-## Scrutin n° 9078 — 2026-10-23
-
-l'amendement n° 1454 de M. Clouet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9078
-
-## Scrutin n° 9077 — 2026-10-23
-
-l'amendement n° 6 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9077
-
-## Scrutin n° 9076 — 2026-10-23
-
-l'amendement n° 714 de M. Maudet après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9076
-
-## Scrutin n° 9075 — 2026-10-23
-
-l'amendement n° 103 de Mme Runel et les amendements identiques suivants après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9075
-
-## Scrutin n° 9074 — 2026-10-23
-
-l'amendement n° 2783 de M. Davi après l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9074
-
-## Scrutin n° 9073 — 2026-10-23
-
-l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : l'Assemblée nationale a adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9073
-
-## Scrutin n° 9072 — 2026-10-23
-
-l'amendement n° 1448 de Mme Hamdane à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9072
-
-## Scrutin n° 9071 — 2026-10-23
-
-l'amendement n° 1449 de M. Clouet à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9071
-
-## Scrutin n° 9070 — 2026-10-23
-
-l'amendement n° 1602 de M. Clouet et l'amendement identique suivant à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9070
-
-## Scrutin n° 9069 — 2026-10-23
-
-l'amendement n° 1442 de Mme Belouassa-Cherifi à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9069
-
-## Scrutin n° 9068 — 2026-10-23
-
-l'amendement n° 1438 de M. Maudet à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9068
-
-## Scrutin n° 9067 — 2026-10-23
-
-l'amendement n° 712 de Mme Belouassa-Cherifi et les amendements identiques suivants à l'article 11 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).
-
-Résultat officiel : L'Assemblée nationale n'a pas adopté
-
-Source : https://www.assemblee-nationale.fr/dyn/17/scrutins/9067
